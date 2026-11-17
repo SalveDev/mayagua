@@ -1,0 +1,1137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2570" height="1310" viewBox="0 0 2570 1310"><style>text{font:18px Arial;fill:#172b3c}.title{font:bold 34px Arial}.head{font:bold 24px Arial}.small{font:15px Arial}.pin{font:bold 17px monospace}</style><rect width="2570" height="1310" fill="white"/>
+<text x="44" y="52" class="title" text-anchor="start" >Órgano MIDI · Cableado completo sobre tabla</text>
+<text x="44" y="86" class="" text-anchor="start" >Vista desde el músico · Graves a la izquierda · 56 contactos por manual · La posición horizontal viene del plano de los clavos guía.</text>
+<text x="44" y="113" class="" text-anchor="start" >Cada segmento de columna alimenta ocho contactos. Cada diodo termina en el hilo de fila marcado con un punto.</text>
+<rect x="34" y="155" width="2502" height="420" rx="8" fill="#faf3e8" stroke="#b7a897"/>
+<text x="55" y="189" class="head" text-anchor="start" >Manual inferior</text>
+<text x="320.475" y="224" class="pin" text-anchor="middle" >C0 → Due D30</text>
+<path d="M173.37 239 H467.58" fill="none" stroke="#172b3c" stroke-width="3"/>
+<text x="632.71" y="224" class="pin" text-anchor="middle" >C1 → Due D31</text>
+<path d="M489.81 239 H775.61" fill="none" stroke="#172b3c" stroke-width="3"/>
+<text x="949.145" y="224" class="pin" text-anchor="middle" >C2 → Due D32</text>
+<path d="M806.24 239 H1092.05" fill="none" stroke="#172b3c" stroke-width="3"/>
+<text x="1278.795" y="224" class="pin" text-anchor="middle" >C3 → Due D33</text>
+<path d="M1131.69 239 H1425.9" fill="none" stroke="#172b3c" stroke-width="3"/>
+<text x="1591.0300000000002" y="224" class="pin" text-anchor="middle" >C4 → Due D34</text>
+<path d="M1448.13 239 H1733.93" fill="none" stroke="#172b3c" stroke-width="3"/>
+<text x="1907.465" y="224" class="pin" text-anchor="middle" >C5 → Due D35</text>
+<path d="M1764.56 239 H2050.37" fill="none" stroke="#172b3c" stroke-width="3"/>
+<text x="2241.315" y="224" class="pin" text-anchor="middle" >C6 → Due D36</text>
+<path d="M2090.01 239 H2392.62" fill="none" stroke="#172b3c" stroke-width="3"/>
+<text x="54" y="391" class="pin" text-anchor="start" style="fill:#bb2344">F0 / D22</text>
+<path d="M143 385 H2450" fill="none" stroke="#bb2344" stroke-width="2.4"/>
+<text x="2460" y="391" class="pin" text-anchor="start" style="fill:#bb2344">F0</text>
+<text x="54" y="413" class="pin" text-anchor="start" style="fill:#a95700">F1 / D23</text>
+<path d="M143 407 H2450" fill="none" stroke="#a95700" stroke-width="2.4"/>
+<text x="2460" y="413" class="pin" text-anchor="start" style="fill:#a95700">F1</text>
+<text x="54" y="435" class="pin" text-anchor="start" style="fill:#766a00">F2 / D24</text>
+<path d="M143 429 H2450" fill="none" stroke="#766a00" stroke-width="2.4"/>
+<text x="2460" y="435" class="pin" text-anchor="start" style="fill:#766a00">F2</text>
+<text x="54" y="457" class="pin" text-anchor="start" style="fill:#12834f">F3 / D25</text>
+<path d="M143 451 H2450" fill="none" stroke="#12834f" stroke-width="2.4"/>
+<text x="2460" y="457" class="pin" text-anchor="start" style="fill:#12834f">F3</text>
+<text x="54" y="479" class="pin" text-anchor="start" style="fill:#027185">F4 / D26</text>
+<path d="M143 473 H2450" fill="none" stroke="#027185" stroke-width="2.4"/>
+<text x="2460" y="479" class="pin" text-anchor="start" style="fill:#027185">F4</text>
+<text x="54" y="501" class="pin" text-anchor="start" style="fill:#305caf">F5 / D27</text>
+<path d="M143 495 H2450" fill="none" stroke="#305caf" stroke-width="2.4"/>
+<text x="2460" y="501" class="pin" text-anchor="start" style="fill:#305caf">F5</text>
+<text x="54" y="523" class="pin" text-anchor="start" style="fill:#804798">F6 / D28</text>
+<path d="M143 517 H2450" fill="none" stroke="#804798" stroke-width="2.4"/>
+<text x="2460" y="523" class="pin" text-anchor="start" style="fill:#804798">F6</text>
+<text x="54" y="545" class="pin" text-anchor="start" style="fill:#56616c">F7 / D29</text>
+<path d="M143 539 H2450" fill="none" stroke="#56616c" stroke-width="2.4"/>
+<text x="2460" y="545" class="pin" text-anchor="start" style="fill:#56616c">F7</text>
+<text x="174.37" y="294" class="small" text-anchor="start" transform="rotate(-90 174.37 294)">Do1</text>
+<circle cx="179.37" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M179.37 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="179.37" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="179.37" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M179.37 304 l11 17 M179.37 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M172.37 343 h14 l-7 14 Z M171.37 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M179.37 359 V385" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="179.37" cy="385" r="3.5" fill="#bb2344"/>
+<text x="217.0" y="294" class="small" text-anchor="start" transform="rotate(-90 217.0 294)">Do♯1</text>
+<circle cx="222.0" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M222.0 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="222.0" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="222.0" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M222.0 304 l11 17 M222.0 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M215.0 343 h14 l-7 14 Z M214.0 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M222.0 359 V407" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="222.0" cy="407" r="3.5" fill="#a95700"/>
+<text x="251.23000000000002" y="294" class="small" text-anchor="start" transform="rotate(-90 251.23000000000002 294)">Re1</text>
+<circle cx="256.23" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M256.23 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="256.23" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="256.23" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M256.23 304 l11 17 M256.23 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M249.23000000000002 343 h14 l-7 14 Z M248.23000000000002 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M256.23 359 V429" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="256.23" cy="429" r="3.5" fill="#766a00"/>
+<text x="285.45" y="294" class="small" text-anchor="start" transform="rotate(-90 285.45 294)">Re♯1</text>
+<circle cx="290.45" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M290.45 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="290.45" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="290.45" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M290.45 304 l11 17 M290.45 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M283.45 343 h14 l-7 14 Z M282.45 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M290.45 359 V451" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="290.45" cy="451" r="3.5" fill="#12834f"/>
+<text x="328.08" y="294" class="small" text-anchor="start" transform="rotate(-90 328.08 294)">Mi1</text>
+<circle cx="333.08" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M333.08 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="333.08" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="333.08" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M333.08 304 l11 17 M333.08 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M326.08 343 h14 l-7 14 Z M325.08 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M333.08 359 V473" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="333.08" cy="473" r="3.5" fill="#027185"/>
+<text x="379.73" y="294" class="small" text-anchor="start" transform="rotate(-90 379.73 294)">Fa1</text>
+<circle cx="384.73" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M384.73 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="384.73" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="384.73" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M384.73 304 l11 17 M384.73 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M377.73 343 h14 l-7 14 Z M376.73 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M384.73 359 V495" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="384.73" cy="495" r="3.5" fill="#305caf"/>
+<text x="422.36" y="294" class="small" text-anchor="start" transform="rotate(-90 422.36 294)">Fa♯1</text>
+<circle cx="427.36" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M427.36 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="427.36" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="427.36" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M427.36 304 l11 17 M427.36 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M420.36 343 h14 l-7 14 Z M419.36 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M427.36 359 V517" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="427.36" cy="517" r="3.5" fill="#804798"/>
+<text x="456.58" y="294" class="small" text-anchor="start" transform="rotate(-90 456.58 294)">Sol1</text>
+<circle cx="461.58" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M461.58 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="461.58" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="461.58" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M461.58 304 l11 17 M461.58 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M454.58 343 h14 l-7 14 Z M453.58 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M461.58 359 V539" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="461.58" cy="539" r="3.5" fill="#56616c"/>
+<text x="490.81" y="294" class="small" text-anchor="start" transform="rotate(-90 490.81 294)">Sol♯1</text>
+<circle cx="495.81" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M495.81 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="495.81" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="495.81" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M495.81 304 l11 17 M495.81 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M488.81 343 h14 l-7 14 Z M487.81 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M495.81 359 V385" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="495.81" cy="385" r="3.5" fill="#bb2344"/>
+<text x="525.03" y="294" class="small" text-anchor="start" transform="rotate(-90 525.03 294)">La1</text>
+<circle cx="530.03" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M530.03 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="530.03" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="530.03" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M530.03 304 l11 17 M530.03 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M523.03 343 h14 l-7 14 Z M522.03 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M530.03 359 V407" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="530.03" cy="407" r="3.5" fill="#a95700"/>
+<text x="559.26" y="294" class="small" text-anchor="start" transform="rotate(-90 559.26 294)">La♯1</text>
+<circle cx="564.26" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M564.26 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="564.26" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="564.26" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M564.26 304 l11 17 M564.26 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M557.26 343 h14 l-7 14 Z M556.26 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M564.26 359 V429" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="564.26" cy="429" r="3.5" fill="#766a00"/>
+<text x="601.89" y="294" class="small" text-anchor="start" transform="rotate(-90 601.89 294)">Si1</text>
+<circle cx="606.89" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M606.89 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="606.89" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="606.89" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M606.89 304 l11 17 M606.89 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M599.89 343 h14 l-7 14 Z M598.89 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M606.89 359 V451" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="606.89" cy="451" r="3.5" fill="#12834f"/>
+<text x="653.53" y="294" class="small" text-anchor="start" transform="rotate(-90 653.53 294)">Do2</text>
+<circle cx="658.53" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M658.53 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="658.53" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="658.53" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M658.53 304 l11 17 M658.53 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M651.53 343 h14 l-7 14 Z M650.53 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M658.53 359 V473" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="658.53" cy="473" r="3.5" fill="#027185"/>
+<text x="696.16" y="294" class="small" text-anchor="start" transform="rotate(-90 696.16 294)">Do♯2</text>
+<circle cx="701.16" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M701.16 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="701.16" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="701.16" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M701.16 304 l11 17 M701.16 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M694.16 343 h14 l-7 14 Z M693.16 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M701.16 359 V495" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="701.16" cy="495" r="3.5" fill="#305caf"/>
+<text x="730.39" y="294" class="small" text-anchor="start" transform="rotate(-90 730.39 294)">Re2</text>
+<circle cx="735.39" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M735.39 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="735.39" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="735.39" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M735.39 304 l11 17 M735.39 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M728.39 343 h14 l-7 14 Z M727.39 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M735.39 359 V517" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="735.39" cy="517" r="3.5" fill="#804798"/>
+<text x="764.61" y="294" class="small" text-anchor="start" transform="rotate(-90 764.61 294)">Re♯2</text>
+<circle cx="769.61" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M769.61 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="769.61" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="769.61" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M769.61 304 l11 17 M769.61 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M762.61 343 h14 l-7 14 Z M761.61 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M769.61 359 V539" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="769.61" cy="539" r="3.5" fill="#56616c"/>
+<text x="807.24" y="294" class="small" text-anchor="start" transform="rotate(-90 807.24 294)">Mi2</text>
+<circle cx="812.24" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M812.24 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="812.24" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="812.24" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M812.24 304 l11 17 M812.24 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M805.24 343 h14 l-7 14 Z M804.24 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M812.24 359 V385" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="812.24" cy="385" r="3.5" fill="#bb2344"/>
+<text x="858.89" y="294" class="small" text-anchor="start" transform="rotate(-90 858.89 294)">Fa2</text>
+<circle cx="863.89" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M863.89 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="863.89" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="863.89" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M863.89 304 l11 17 M863.89 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M856.89 343 h14 l-7 14 Z M855.89 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M863.89 359 V407" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="863.89" cy="407" r="3.5" fill="#a95700"/>
+<text x="901.52" y="294" class="small" text-anchor="start" transform="rotate(-90 901.52 294)">Fa♯2</text>
+<circle cx="906.52" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M906.52 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="906.52" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="906.52" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M906.52 304 l11 17 M906.52 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M899.52 343 h14 l-7 14 Z M898.52 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M906.52 359 V429" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="906.52" cy="429" r="3.5" fill="#766a00"/>
+<text x="935.74" y="294" class="small" text-anchor="start" transform="rotate(-90 935.74 294)">Sol2</text>
+<circle cx="940.74" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M940.74 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="940.74" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="940.74" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M940.74 304 l11 17 M940.74 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M933.74 343 h14 l-7 14 Z M932.74 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M940.74 359 V451" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="940.74" cy="451" r="3.5" fill="#12834f"/>
+<text x="969.97" y="294" class="small" text-anchor="start" transform="rotate(-90 969.97 294)">Sol♯2</text>
+<circle cx="974.97" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M974.97 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="974.97" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="974.97" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M974.97 304 l11 17 M974.97 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M967.97 343 h14 l-7 14 Z M966.97 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M974.97 359 V473" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="974.97" cy="473" r="3.5" fill="#027185"/>
+<text x="1004.19" y="294" class="small" text-anchor="start" transform="rotate(-90 1004.19 294)">La2</text>
+<circle cx="1009.19" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1009.19 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1009.19" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1009.19" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1009.19 304 l11 17 M1009.19 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1002.19 343 h14 l-7 14 Z M1001.19 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1009.19 359 V495" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="1009.19" cy="495" r="3.5" fill="#305caf"/>
+<text x="1038.42" y="294" class="small" text-anchor="start" transform="rotate(-90 1038.42 294)">La♯2</text>
+<circle cx="1043.42" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1043.42 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1043.42" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1043.42" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1043.42 304 l11 17 M1043.42 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1036.42 343 h14 l-7 14 Z M1035.42 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1043.42 359 V517" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="1043.42" cy="517" r="3.5" fill="#804798"/>
+<text x="1081.05" y="294" class="small" text-anchor="start" transform="rotate(-90 1081.05 294)">Si2</text>
+<circle cx="1086.05" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1086.05 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1086.05" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1086.05" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1086.05 304 l11 17 M1086.05 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1079.05 343 h14 l-7 14 Z M1078.05 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1086.05 359 V539" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="1086.05" cy="539" r="3.5" fill="#56616c"/>
+<text x="1132.69" y="294" class="small" text-anchor="start" transform="rotate(-90 1132.69 294)">Do3</text>
+<circle cx="1137.69" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1137.69 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1137.69" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1137.69" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1137.69 304 l11 17 M1137.69 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1130.69 343 h14 l-7 14 Z M1129.69 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1137.69 359 V385" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="1137.69" cy="385" r="3.5" fill="#bb2344"/>
+<text x="1175.32" y="294" class="small" text-anchor="start" transform="rotate(-90 1175.32 294)">Do♯3</text>
+<circle cx="1180.32" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1180.32 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1180.32" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1180.32" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1180.32 304 l11 17 M1180.32 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1173.32 343 h14 l-7 14 Z M1172.32 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1180.32 359 V407" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="1180.32" cy="407" r="3.5" fill="#a95700"/>
+<text x="1209.55" y="294" class="small" text-anchor="start" transform="rotate(-90 1209.55 294)">Re3</text>
+<circle cx="1214.55" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1214.55 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1214.55" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1214.55" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1214.55 304 l11 17 M1214.55 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1207.55 343 h14 l-7 14 Z M1206.55 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1214.55 359 V429" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="1214.55" cy="429" r="3.5" fill="#766a00"/>
+<text x="1243.77" y="294" class="small" text-anchor="start" transform="rotate(-90 1243.77 294)">Re♯3</text>
+<circle cx="1248.77" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1248.77 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1248.77" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1248.77" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1248.77 304 l11 17 M1248.77 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1241.77 343 h14 l-7 14 Z M1240.77 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1248.77 359 V451" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="1248.77" cy="451" r="3.5" fill="#12834f"/>
+<text x="1286.4" y="294" class="small" text-anchor="start" transform="rotate(-90 1286.4 294)">Mi3</text>
+<circle cx="1291.4" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1291.4 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1291.4" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1291.4" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1291.4 304 l11 17 M1291.4 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1284.4 343 h14 l-7 14 Z M1283.4 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1291.4 359 V473" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="1291.4" cy="473" r="3.5" fill="#027185"/>
+<text x="1338.05" y="294" class="small" text-anchor="start" transform="rotate(-90 1338.05 294)">Fa3</text>
+<circle cx="1343.05" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1343.05 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1343.05" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1343.05" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1343.05 304 l11 17 M1343.05 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1336.05 343 h14 l-7 14 Z M1335.05 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1343.05 359 V495" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="1343.05" cy="495" r="3.5" fill="#305caf"/>
+<text x="1380.68" y="294" class="small" text-anchor="start" transform="rotate(-90 1380.68 294)">Fa♯3</text>
+<circle cx="1385.68" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1385.68 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1385.68" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1385.68" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1385.68 304 l11 17 M1385.68 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1378.68 343 h14 l-7 14 Z M1377.68 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1385.68 359 V517" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="1385.68" cy="517" r="3.5" fill="#804798"/>
+<text x="1414.9" y="294" class="small" text-anchor="start" transform="rotate(-90 1414.9 294)">Sol3</text>
+<circle cx="1419.9" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1419.9 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1419.9" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1419.9" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1419.9 304 l11 17 M1419.9 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1412.9 343 h14 l-7 14 Z M1411.9 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1419.9 359 V539" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="1419.9" cy="539" r="3.5" fill="#56616c"/>
+<text x="1449.13" y="294" class="small" text-anchor="start" transform="rotate(-90 1449.13 294)">Sol♯3</text>
+<circle cx="1454.13" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1454.13 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1454.13" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1454.13" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1454.13 304 l11 17 M1454.13 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1447.13 343 h14 l-7 14 Z M1446.13 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1454.13 359 V385" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="1454.13" cy="385" r="3.5" fill="#bb2344"/>
+<text x="1483.35" y="294" class="small" text-anchor="start" transform="rotate(-90 1483.35 294)">La3</text>
+<circle cx="1488.35" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1488.35 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1488.35" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1488.35" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1488.35 304 l11 17 M1488.35 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1481.35 343 h14 l-7 14 Z M1480.35 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1488.35 359 V407" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="1488.35" cy="407" r="3.5" fill="#a95700"/>
+<text x="1517.58" y="294" class="small" text-anchor="start" transform="rotate(-90 1517.58 294)">La♯3</text>
+<circle cx="1522.58" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1522.58 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1522.58" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1522.58" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1522.58 304 l11 17 M1522.58 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1515.58 343 h14 l-7 14 Z M1514.58 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1522.58 359 V429" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="1522.58" cy="429" r="3.5" fill="#766a00"/>
+<text x="1560.21" y="294" class="small" text-anchor="start" transform="rotate(-90 1560.21 294)">Si3</text>
+<circle cx="1565.21" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1565.21 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1565.21" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1565.21" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1565.21 304 l11 17 M1565.21 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1558.21 343 h14 l-7 14 Z M1557.21 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1565.21 359 V451" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="1565.21" cy="451" r="3.5" fill="#12834f"/>
+<text x="1611.85" y="294" class="small" text-anchor="start" transform="rotate(-90 1611.85 294)">Do4</text>
+<circle cx="1616.85" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1616.85 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1616.85" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1616.85" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1616.85 304 l11 17 M1616.85 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1609.85 343 h14 l-7 14 Z M1608.85 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1616.85 359 V473" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="1616.85" cy="473" r="3.5" fill="#027185"/>
+<text x="1654.48" y="294" class="small" text-anchor="start" transform="rotate(-90 1654.48 294)">Do♯4</text>
+<circle cx="1659.48" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1659.48 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1659.48" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1659.48" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1659.48 304 l11 17 M1659.48 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1652.48 343 h14 l-7 14 Z M1651.48 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1659.48 359 V495" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="1659.48" cy="495" r="3.5" fill="#305caf"/>
+<text x="1688.71" y="294" class="small" text-anchor="start" transform="rotate(-90 1688.71 294)">Re4</text>
+<circle cx="1693.71" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1693.71 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1693.71" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1693.71" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1693.71 304 l11 17 M1693.71 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1686.71 343 h14 l-7 14 Z M1685.71 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1693.71 359 V517" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="1693.71" cy="517" r="3.5" fill="#804798"/>
+<text x="1722.93" y="294" class="small" text-anchor="start" transform="rotate(-90 1722.93 294)">Re♯4</text>
+<circle cx="1727.93" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1727.93 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1727.93" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1727.93" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1727.93 304 l11 17 M1727.93 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1720.93 343 h14 l-7 14 Z M1719.93 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1727.93 359 V539" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="1727.93" cy="539" r="3.5" fill="#56616c"/>
+<text x="1765.56" y="294" class="small" text-anchor="start" transform="rotate(-90 1765.56 294)">Mi4</text>
+<circle cx="1770.56" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1770.56 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1770.56" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1770.56" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1770.56 304 l11 17 M1770.56 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1763.56 343 h14 l-7 14 Z M1762.56 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1770.56 359 V385" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="1770.56" cy="385" r="3.5" fill="#bb2344"/>
+<text x="1817.21" y="294" class="small" text-anchor="start" transform="rotate(-90 1817.21 294)">Fa4</text>
+<circle cx="1822.21" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1822.21 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1822.21" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1822.21" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1822.21 304 l11 17 M1822.21 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1815.21 343 h14 l-7 14 Z M1814.21 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1822.21 359 V407" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="1822.21" cy="407" r="3.5" fill="#a95700"/>
+<text x="1859.84" y="294" class="small" text-anchor="start" transform="rotate(-90 1859.84 294)">Fa♯4</text>
+<circle cx="1864.84" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1864.84 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1864.84" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1864.84" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1864.84 304 l11 17 M1864.84 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1857.84 343 h14 l-7 14 Z M1856.84 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1864.84 359 V429" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="1864.84" cy="429" r="3.5" fill="#766a00"/>
+<text x="1894.06" y="294" class="small" text-anchor="start" transform="rotate(-90 1894.06 294)">Sol4</text>
+<circle cx="1899.06" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1899.06 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1899.06" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1899.06" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1899.06 304 l11 17 M1899.06 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1892.06 343 h14 l-7 14 Z M1891.06 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1899.06 359 V451" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="1899.06" cy="451" r="3.5" fill="#12834f"/>
+<text x="1928.29" y="294" class="small" text-anchor="start" transform="rotate(-90 1928.29 294)">Sol♯4</text>
+<circle cx="1933.29" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1933.29 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1933.29" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1933.29" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1933.29 304 l11 17 M1933.29 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1926.29 343 h14 l-7 14 Z M1925.29 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1933.29 359 V473" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="1933.29" cy="473" r="3.5" fill="#027185"/>
+<text x="1962.51" y="294" class="small" text-anchor="start" transform="rotate(-90 1962.51 294)">La4</text>
+<circle cx="1967.51" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M1967.51 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1967.51" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1967.51" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1967.51 304 l11 17 M1967.51 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1960.51 343 h14 l-7 14 Z M1959.51 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1967.51 359 V495" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="1967.51" cy="495" r="3.5" fill="#305caf"/>
+<text x="1996.74" y="294" class="small" text-anchor="start" transform="rotate(-90 1996.74 294)">La♯4</text>
+<circle cx="2001.74" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M2001.74 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2001.74" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2001.74" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2001.74 304 l11 17 M2001.74 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1994.74 343 h14 l-7 14 Z M1993.74 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2001.74 359 V517" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="2001.74" cy="517" r="3.5" fill="#804798"/>
+<text x="2039.37" y="294" class="small" text-anchor="start" transform="rotate(-90 2039.37 294)">Si4</text>
+<circle cx="2044.37" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M2044.37 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2044.37" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2044.37" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2044.37 304 l11 17 M2044.37 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2037.37 343 h14 l-7 14 Z M2036.37 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2044.37 359 V539" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="2044.37" cy="539" r="3.5" fill="#56616c"/>
+<text x="2091.01" y="294" class="small" text-anchor="start" transform="rotate(-90 2091.01 294)">Do5</text>
+<circle cx="2096.01" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M2096.01 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2096.01" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2096.01" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2096.01 304 l11 17 M2096.01 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2089.01 343 h14 l-7 14 Z M2088.01 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2096.01 359 V385" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="2096.01" cy="385" r="3.5" fill="#bb2344"/>
+<text x="2133.64" y="294" class="small" text-anchor="start" transform="rotate(-90 2133.64 294)">Do♯5</text>
+<circle cx="2138.64" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M2138.64 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2138.64" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2138.64" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2138.64 304 l11 17 M2138.64 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2131.64 343 h14 l-7 14 Z M2130.64 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2138.64 359 V407" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="2138.64" cy="407" r="3.5" fill="#a95700"/>
+<text x="2167.87" y="294" class="small" text-anchor="start" transform="rotate(-90 2167.87 294)">Re5</text>
+<circle cx="2172.87" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M2172.87 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2172.87" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2172.87" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2172.87 304 l11 17 M2172.87 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2165.87 343 h14 l-7 14 Z M2164.87 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2172.87 359 V429" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="2172.87" cy="429" r="3.5" fill="#766a00"/>
+<text x="2202.09" y="294" class="small" text-anchor="start" transform="rotate(-90 2202.09 294)">Re♯5</text>
+<circle cx="2207.09" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M2207.09 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2207.09" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2207.09" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2207.09 304 l11 17 M2207.09 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2200.09 343 h14 l-7 14 Z M2199.09 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2207.09 359 V451" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="2207.09" cy="451" r="3.5" fill="#12834f"/>
+<text x="2244.72" y="294" class="small" text-anchor="start" transform="rotate(-90 2244.72 294)">Mi5</text>
+<circle cx="2249.72" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M2249.72 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2249.72" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2249.72" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2249.72 304 l11 17 M2249.72 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2242.72 343 h14 l-7 14 Z M2241.72 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2249.72 359 V473" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="2249.72" cy="473" r="3.5" fill="#027185"/>
+<text x="2296.37" y="294" class="small" text-anchor="start" transform="rotate(-90 2296.37 294)">Fa5</text>
+<circle cx="2301.37" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M2301.37 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2301.37" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2301.37" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2301.37 304 l11 17 M2301.37 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2294.37 343 h14 l-7 14 Z M2293.37 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2301.37 359 V495" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="2301.37" cy="495" r="3.5" fill="#305caf"/>
+<text x="2339.0" y="294" class="small" text-anchor="start" transform="rotate(-90 2339.0 294)">Fa♯5</text>
+<circle cx="2344.0" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M2344.0 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2344.0" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2344.0" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2344.0 304 l11 17 M2344.0 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2337.0 343 h14 l-7 14 Z M2336.0 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2344.0 359 V517" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="2344.0" cy="517" r="3.5" fill="#804798"/>
+<text x="2381.62" y="294" class="small" text-anchor="start" transform="rotate(-90 2381.62 294)">Sol5</text>
+<circle cx="2386.62" cy="239" r="3.5" fill="#172b3c"/>
+<path d="M2386.62 239 V301" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2386.62" cy="304" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2386.62" cy="326" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2386.62 304 l11 17 M2386.62 329 V343" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2379.62 343 h14 l-7 14 Z M2378.62 359 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2386.62 359 V539" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="2386.62" cy="539" r="3.5" fill="#56616c"/>
+<rect x="34" y="595" width="2502" height="420" rx="8" fill="#faf3e8" stroke="#b7a897"/>
+<text x="55" y="629" class="head" text-anchor="start" >Manual superior</text>
+<text x="320.475" y="664" class="pin" text-anchor="middle" >C7 → Due D37</text>
+<path d="M173.37 679 H467.58" fill="none" stroke="#172b3c" stroke-width="3"/>
+<text x="632.71" y="664" class="pin" text-anchor="middle" >C8 → Due D38</text>
+<path d="M489.81 679 H775.61" fill="none" stroke="#172b3c" stroke-width="3"/>
+<text x="949.145" y="664" class="pin" text-anchor="middle" >C9 → Due D39</text>
+<path d="M806.24 679 H1092.05" fill="none" stroke="#172b3c" stroke-width="3"/>
+<text x="1278.795" y="664" class="pin" text-anchor="middle" >C10 → Due D40</text>
+<path d="M1131.69 679 H1425.9" fill="none" stroke="#172b3c" stroke-width="3"/>
+<text x="1591.0300000000002" y="664" class="pin" text-anchor="middle" >C11 → Due D41</text>
+<path d="M1448.13 679 H1733.93" fill="none" stroke="#172b3c" stroke-width="3"/>
+<text x="1907.465" y="664" class="pin" text-anchor="middle" >C12 → Due D42</text>
+<path d="M1764.56 679 H2050.37" fill="none" stroke="#172b3c" stroke-width="3"/>
+<text x="2241.315" y="664" class="pin" text-anchor="middle" >C13 → Due D43</text>
+<path d="M2090.01 679 H2392.62" fill="none" stroke="#172b3c" stroke-width="3"/>
+<text x="54" y="831" class="pin" text-anchor="start" style="fill:#bb2344">F0 / D22</text>
+<path d="M143 825 H2450" fill="none" stroke="#bb2344" stroke-width="2.4"/>
+<text x="2460" y="831" class="pin" text-anchor="start" style="fill:#bb2344">F0</text>
+<text x="54" y="853" class="pin" text-anchor="start" style="fill:#a95700">F1 / D23</text>
+<path d="M143 847 H2450" fill="none" stroke="#a95700" stroke-width="2.4"/>
+<text x="2460" y="853" class="pin" text-anchor="start" style="fill:#a95700">F1</text>
+<text x="54" y="875" class="pin" text-anchor="start" style="fill:#766a00">F2 / D24</text>
+<path d="M143 869 H2450" fill="none" stroke="#766a00" stroke-width="2.4"/>
+<text x="2460" y="875" class="pin" text-anchor="start" style="fill:#766a00">F2</text>
+<text x="54" y="897" class="pin" text-anchor="start" style="fill:#12834f">F3 / D25</text>
+<path d="M143 891 H2450" fill="none" stroke="#12834f" stroke-width="2.4"/>
+<text x="2460" y="897" class="pin" text-anchor="start" style="fill:#12834f">F3</text>
+<text x="54" y="919" class="pin" text-anchor="start" style="fill:#027185">F4 / D26</text>
+<path d="M143 913 H2450" fill="none" stroke="#027185" stroke-width="2.4"/>
+<text x="2460" y="919" class="pin" text-anchor="start" style="fill:#027185">F4</text>
+<text x="54" y="941" class="pin" text-anchor="start" style="fill:#305caf">F5 / D27</text>
+<path d="M143 935 H2450" fill="none" stroke="#305caf" stroke-width="2.4"/>
+<text x="2460" y="941" class="pin" text-anchor="start" style="fill:#305caf">F5</text>
+<text x="54" y="963" class="pin" text-anchor="start" style="fill:#804798">F6 / D28</text>
+<path d="M143 957 H2450" fill="none" stroke="#804798" stroke-width="2.4"/>
+<text x="2460" y="963" class="pin" text-anchor="start" style="fill:#804798">F6</text>
+<text x="54" y="985" class="pin" text-anchor="start" style="fill:#56616c">F7 / D29</text>
+<path d="M143 979 H2450" fill="none" stroke="#56616c" stroke-width="2.4"/>
+<text x="2460" y="985" class="pin" text-anchor="start" style="fill:#56616c">F7</text>
+<text x="174.37" y="734" class="small" text-anchor="start" transform="rotate(-90 174.37 734)">Do1</text>
+<circle cx="179.37" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M179.37 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="179.37" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="179.37" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M179.37 744 l11 17 M179.37 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M172.37 783 h14 l-7 14 Z M171.37 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M179.37 799 V825" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="179.37" cy="825" r="3.5" fill="#bb2344"/>
+<text x="217.0" y="734" class="small" text-anchor="start" transform="rotate(-90 217.0 734)">Do♯1</text>
+<circle cx="222.0" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M222.0 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="222.0" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="222.0" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M222.0 744 l11 17 M222.0 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M215.0 783 h14 l-7 14 Z M214.0 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M222.0 799 V847" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="222.0" cy="847" r="3.5" fill="#a95700"/>
+<text x="251.23000000000002" y="734" class="small" text-anchor="start" transform="rotate(-90 251.23000000000002 734)">Re1</text>
+<circle cx="256.23" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M256.23 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="256.23" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="256.23" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M256.23 744 l11 17 M256.23 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M249.23000000000002 783 h14 l-7 14 Z M248.23000000000002 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M256.23 799 V869" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="256.23" cy="869" r="3.5" fill="#766a00"/>
+<text x="285.45" y="734" class="small" text-anchor="start" transform="rotate(-90 285.45 734)">Re♯1</text>
+<circle cx="290.45" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M290.45 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="290.45" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="290.45" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M290.45 744 l11 17 M290.45 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M283.45 783 h14 l-7 14 Z M282.45 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M290.45 799 V891" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="290.45" cy="891" r="3.5" fill="#12834f"/>
+<text x="328.08" y="734" class="small" text-anchor="start" transform="rotate(-90 328.08 734)">Mi1</text>
+<circle cx="333.08" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M333.08 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="333.08" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="333.08" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M333.08 744 l11 17 M333.08 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M326.08 783 h14 l-7 14 Z M325.08 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M333.08 799 V913" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="333.08" cy="913" r="3.5" fill="#027185"/>
+<text x="379.73" y="734" class="small" text-anchor="start" transform="rotate(-90 379.73 734)">Fa1</text>
+<circle cx="384.73" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M384.73 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="384.73" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="384.73" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M384.73 744 l11 17 M384.73 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M377.73 783 h14 l-7 14 Z M376.73 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M384.73 799 V935" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="384.73" cy="935" r="3.5" fill="#305caf"/>
+<text x="422.36" y="734" class="small" text-anchor="start" transform="rotate(-90 422.36 734)">Fa♯1</text>
+<circle cx="427.36" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M427.36 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="427.36" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="427.36" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M427.36 744 l11 17 M427.36 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M420.36 783 h14 l-7 14 Z M419.36 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M427.36 799 V957" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="427.36" cy="957" r="3.5" fill="#804798"/>
+<text x="456.58" y="734" class="small" text-anchor="start" transform="rotate(-90 456.58 734)">Sol1</text>
+<circle cx="461.58" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M461.58 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="461.58" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="461.58" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M461.58 744 l11 17 M461.58 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M454.58 783 h14 l-7 14 Z M453.58 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M461.58 799 V979" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="461.58" cy="979" r="3.5" fill="#56616c"/>
+<text x="490.81" y="734" class="small" text-anchor="start" transform="rotate(-90 490.81 734)">Sol♯1</text>
+<circle cx="495.81" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M495.81 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="495.81" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="495.81" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M495.81 744 l11 17 M495.81 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M488.81 783 h14 l-7 14 Z M487.81 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M495.81 799 V825" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="495.81" cy="825" r="3.5" fill="#bb2344"/>
+<text x="525.03" y="734" class="small" text-anchor="start" transform="rotate(-90 525.03 734)">La1</text>
+<circle cx="530.03" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M530.03 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="530.03" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="530.03" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M530.03 744 l11 17 M530.03 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M523.03 783 h14 l-7 14 Z M522.03 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M530.03 799 V847" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="530.03" cy="847" r="3.5" fill="#a95700"/>
+<text x="559.26" y="734" class="small" text-anchor="start" transform="rotate(-90 559.26 734)">La♯1</text>
+<circle cx="564.26" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M564.26 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="564.26" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="564.26" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M564.26 744 l11 17 M564.26 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M557.26 783 h14 l-7 14 Z M556.26 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M564.26 799 V869" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="564.26" cy="869" r="3.5" fill="#766a00"/>
+<text x="601.89" y="734" class="small" text-anchor="start" transform="rotate(-90 601.89 734)">Si1</text>
+<circle cx="606.89" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M606.89 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="606.89" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="606.89" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M606.89 744 l11 17 M606.89 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M599.89 783 h14 l-7 14 Z M598.89 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M606.89 799 V891" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="606.89" cy="891" r="3.5" fill="#12834f"/>
+<text x="653.53" y="734" class="small" text-anchor="start" transform="rotate(-90 653.53 734)">Do2</text>
+<circle cx="658.53" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M658.53 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="658.53" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="658.53" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M658.53 744 l11 17 M658.53 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M651.53 783 h14 l-7 14 Z M650.53 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M658.53 799 V913" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="658.53" cy="913" r="3.5" fill="#027185"/>
+<text x="696.16" y="734" class="small" text-anchor="start" transform="rotate(-90 696.16 734)">Do♯2</text>
+<circle cx="701.16" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M701.16 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="701.16" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="701.16" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M701.16 744 l11 17 M701.16 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M694.16 783 h14 l-7 14 Z M693.16 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M701.16 799 V935" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="701.16" cy="935" r="3.5" fill="#305caf"/>
+<text x="730.39" y="734" class="small" text-anchor="start" transform="rotate(-90 730.39 734)">Re2</text>
+<circle cx="735.39" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M735.39 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="735.39" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="735.39" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M735.39 744 l11 17 M735.39 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M728.39 783 h14 l-7 14 Z M727.39 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M735.39 799 V957" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="735.39" cy="957" r="3.5" fill="#804798"/>
+<text x="764.61" y="734" class="small" text-anchor="start" transform="rotate(-90 764.61 734)">Re♯2</text>
+<circle cx="769.61" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M769.61 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="769.61" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="769.61" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M769.61 744 l11 17 M769.61 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M762.61 783 h14 l-7 14 Z M761.61 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M769.61 799 V979" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="769.61" cy="979" r="3.5" fill="#56616c"/>
+<text x="807.24" y="734" class="small" text-anchor="start" transform="rotate(-90 807.24 734)">Mi2</text>
+<circle cx="812.24" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M812.24 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="812.24" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="812.24" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M812.24 744 l11 17 M812.24 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M805.24 783 h14 l-7 14 Z M804.24 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M812.24 799 V825" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="812.24" cy="825" r="3.5" fill="#bb2344"/>
+<text x="858.89" y="734" class="small" text-anchor="start" transform="rotate(-90 858.89 734)">Fa2</text>
+<circle cx="863.89" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M863.89 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="863.89" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="863.89" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M863.89 744 l11 17 M863.89 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M856.89 783 h14 l-7 14 Z M855.89 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M863.89 799 V847" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="863.89" cy="847" r="3.5" fill="#a95700"/>
+<text x="901.52" y="734" class="small" text-anchor="start" transform="rotate(-90 901.52 734)">Fa♯2</text>
+<circle cx="906.52" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M906.52 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="906.52" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="906.52" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M906.52 744 l11 17 M906.52 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M899.52 783 h14 l-7 14 Z M898.52 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M906.52 799 V869" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="906.52" cy="869" r="3.5" fill="#766a00"/>
+<text x="935.74" y="734" class="small" text-anchor="start" transform="rotate(-90 935.74 734)">Sol2</text>
+<circle cx="940.74" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M940.74 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="940.74" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="940.74" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M940.74 744 l11 17 M940.74 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M933.74 783 h14 l-7 14 Z M932.74 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M940.74 799 V891" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="940.74" cy="891" r="3.5" fill="#12834f"/>
+<text x="969.97" y="734" class="small" text-anchor="start" transform="rotate(-90 969.97 734)">Sol♯2</text>
+<circle cx="974.97" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M974.97 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="974.97" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="974.97" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M974.97 744 l11 17 M974.97 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M967.97 783 h14 l-7 14 Z M966.97 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M974.97 799 V913" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="974.97" cy="913" r="3.5" fill="#027185"/>
+<text x="1004.19" y="734" class="small" text-anchor="start" transform="rotate(-90 1004.19 734)">La2</text>
+<circle cx="1009.19" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1009.19 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1009.19" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1009.19" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1009.19 744 l11 17 M1009.19 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1002.19 783 h14 l-7 14 Z M1001.19 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1009.19 799 V935" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="1009.19" cy="935" r="3.5" fill="#305caf"/>
+<text x="1038.42" y="734" class="small" text-anchor="start" transform="rotate(-90 1038.42 734)">La♯2</text>
+<circle cx="1043.42" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1043.42 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1043.42" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1043.42" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1043.42 744 l11 17 M1043.42 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1036.42 783 h14 l-7 14 Z M1035.42 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1043.42 799 V957" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="1043.42" cy="957" r="3.5" fill="#804798"/>
+<text x="1081.05" y="734" class="small" text-anchor="start" transform="rotate(-90 1081.05 734)">Si2</text>
+<circle cx="1086.05" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1086.05 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1086.05" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1086.05" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1086.05 744 l11 17 M1086.05 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1079.05 783 h14 l-7 14 Z M1078.05 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1086.05 799 V979" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="1086.05" cy="979" r="3.5" fill="#56616c"/>
+<text x="1132.69" y="734" class="small" text-anchor="start" transform="rotate(-90 1132.69 734)">Do3</text>
+<circle cx="1137.69" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1137.69 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1137.69" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1137.69" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1137.69 744 l11 17 M1137.69 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1130.69 783 h14 l-7 14 Z M1129.69 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1137.69 799 V825" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="1137.69" cy="825" r="3.5" fill="#bb2344"/>
+<text x="1175.32" y="734" class="small" text-anchor="start" transform="rotate(-90 1175.32 734)">Do♯3</text>
+<circle cx="1180.32" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1180.32 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1180.32" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1180.32" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1180.32 744 l11 17 M1180.32 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1173.32 783 h14 l-7 14 Z M1172.32 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1180.32 799 V847" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="1180.32" cy="847" r="3.5" fill="#a95700"/>
+<text x="1209.55" y="734" class="small" text-anchor="start" transform="rotate(-90 1209.55 734)">Re3</text>
+<circle cx="1214.55" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1214.55 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1214.55" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1214.55" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1214.55 744 l11 17 M1214.55 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1207.55 783 h14 l-7 14 Z M1206.55 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1214.55 799 V869" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="1214.55" cy="869" r="3.5" fill="#766a00"/>
+<text x="1243.77" y="734" class="small" text-anchor="start" transform="rotate(-90 1243.77 734)">Re♯3</text>
+<circle cx="1248.77" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1248.77 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1248.77" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1248.77" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1248.77 744 l11 17 M1248.77 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1241.77 783 h14 l-7 14 Z M1240.77 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1248.77 799 V891" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="1248.77" cy="891" r="3.5" fill="#12834f"/>
+<text x="1286.4" y="734" class="small" text-anchor="start" transform="rotate(-90 1286.4 734)">Mi3</text>
+<circle cx="1291.4" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1291.4 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1291.4" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1291.4" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1291.4 744 l11 17 M1291.4 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1284.4 783 h14 l-7 14 Z M1283.4 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1291.4 799 V913" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="1291.4" cy="913" r="3.5" fill="#027185"/>
+<text x="1338.05" y="734" class="small" text-anchor="start" transform="rotate(-90 1338.05 734)">Fa3</text>
+<circle cx="1343.05" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1343.05 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1343.05" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1343.05" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1343.05 744 l11 17 M1343.05 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1336.05 783 h14 l-7 14 Z M1335.05 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1343.05 799 V935" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="1343.05" cy="935" r="3.5" fill="#305caf"/>
+<text x="1380.68" y="734" class="small" text-anchor="start" transform="rotate(-90 1380.68 734)">Fa♯3</text>
+<circle cx="1385.68" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1385.68 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1385.68" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1385.68" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1385.68 744 l11 17 M1385.68 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1378.68 783 h14 l-7 14 Z M1377.68 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1385.68 799 V957" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="1385.68" cy="957" r="3.5" fill="#804798"/>
+<text x="1414.9" y="734" class="small" text-anchor="start" transform="rotate(-90 1414.9 734)">Sol3</text>
+<circle cx="1419.9" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1419.9 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1419.9" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1419.9" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1419.9 744 l11 17 M1419.9 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1412.9 783 h14 l-7 14 Z M1411.9 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1419.9 799 V979" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="1419.9" cy="979" r="3.5" fill="#56616c"/>
+<text x="1449.13" y="734" class="small" text-anchor="start" transform="rotate(-90 1449.13 734)">Sol♯3</text>
+<circle cx="1454.13" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1454.13 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1454.13" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1454.13" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1454.13 744 l11 17 M1454.13 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1447.13 783 h14 l-7 14 Z M1446.13 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1454.13 799 V825" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="1454.13" cy="825" r="3.5" fill="#bb2344"/>
+<text x="1483.35" y="734" class="small" text-anchor="start" transform="rotate(-90 1483.35 734)">La3</text>
+<circle cx="1488.35" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1488.35 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1488.35" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1488.35" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1488.35 744 l11 17 M1488.35 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1481.35 783 h14 l-7 14 Z M1480.35 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1488.35 799 V847" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="1488.35" cy="847" r="3.5" fill="#a95700"/>
+<text x="1517.58" y="734" class="small" text-anchor="start" transform="rotate(-90 1517.58 734)">La♯3</text>
+<circle cx="1522.58" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1522.58 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1522.58" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1522.58" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1522.58 744 l11 17 M1522.58 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1515.58 783 h14 l-7 14 Z M1514.58 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1522.58 799 V869" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="1522.58" cy="869" r="3.5" fill="#766a00"/>
+<text x="1560.21" y="734" class="small" text-anchor="start" transform="rotate(-90 1560.21 734)">Si3</text>
+<circle cx="1565.21" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1565.21 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1565.21" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1565.21" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1565.21 744 l11 17 M1565.21 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1558.21 783 h14 l-7 14 Z M1557.21 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1565.21 799 V891" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="1565.21" cy="891" r="3.5" fill="#12834f"/>
+<text x="1611.85" y="734" class="small" text-anchor="start" transform="rotate(-90 1611.85 734)">Do4</text>
+<circle cx="1616.85" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1616.85 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1616.85" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1616.85" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1616.85 744 l11 17 M1616.85 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1609.85 783 h14 l-7 14 Z M1608.85 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1616.85 799 V913" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="1616.85" cy="913" r="3.5" fill="#027185"/>
+<text x="1654.48" y="734" class="small" text-anchor="start" transform="rotate(-90 1654.48 734)">Do♯4</text>
+<circle cx="1659.48" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1659.48 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1659.48" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1659.48" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1659.48 744 l11 17 M1659.48 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1652.48 783 h14 l-7 14 Z M1651.48 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1659.48 799 V935" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="1659.48" cy="935" r="3.5" fill="#305caf"/>
+<text x="1688.71" y="734" class="small" text-anchor="start" transform="rotate(-90 1688.71 734)">Re4</text>
+<circle cx="1693.71" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1693.71 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1693.71" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1693.71" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1693.71 744 l11 17 M1693.71 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1686.71 783 h14 l-7 14 Z M1685.71 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1693.71 799 V957" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="1693.71" cy="957" r="3.5" fill="#804798"/>
+<text x="1722.93" y="734" class="small" text-anchor="start" transform="rotate(-90 1722.93 734)">Re♯4</text>
+<circle cx="1727.93" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1727.93 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1727.93" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1727.93" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1727.93 744 l11 17 M1727.93 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1720.93 783 h14 l-7 14 Z M1719.93 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1727.93 799 V979" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="1727.93" cy="979" r="3.5" fill="#56616c"/>
+<text x="1765.56" y="734" class="small" text-anchor="start" transform="rotate(-90 1765.56 734)">Mi4</text>
+<circle cx="1770.56" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1770.56 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1770.56" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1770.56" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1770.56 744 l11 17 M1770.56 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1763.56 783 h14 l-7 14 Z M1762.56 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1770.56 799 V825" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="1770.56" cy="825" r="3.5" fill="#bb2344"/>
+<text x="1817.21" y="734" class="small" text-anchor="start" transform="rotate(-90 1817.21 734)">Fa4</text>
+<circle cx="1822.21" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1822.21 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1822.21" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1822.21" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1822.21 744 l11 17 M1822.21 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1815.21 783 h14 l-7 14 Z M1814.21 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1822.21 799 V847" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="1822.21" cy="847" r="3.5" fill="#a95700"/>
+<text x="1859.84" y="734" class="small" text-anchor="start" transform="rotate(-90 1859.84 734)">Fa♯4</text>
+<circle cx="1864.84" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1864.84 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1864.84" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1864.84" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1864.84 744 l11 17 M1864.84 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1857.84 783 h14 l-7 14 Z M1856.84 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1864.84 799 V869" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="1864.84" cy="869" r="3.5" fill="#766a00"/>
+<text x="1894.06" y="734" class="small" text-anchor="start" transform="rotate(-90 1894.06 734)">Sol4</text>
+<circle cx="1899.06" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1899.06 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1899.06" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1899.06" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1899.06 744 l11 17 M1899.06 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1892.06 783 h14 l-7 14 Z M1891.06 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1899.06 799 V891" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="1899.06" cy="891" r="3.5" fill="#12834f"/>
+<text x="1928.29" y="734" class="small" text-anchor="start" transform="rotate(-90 1928.29 734)">Sol♯4</text>
+<circle cx="1933.29" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1933.29 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1933.29" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1933.29" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1933.29 744 l11 17 M1933.29 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1926.29 783 h14 l-7 14 Z M1925.29 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1933.29 799 V913" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="1933.29" cy="913" r="3.5" fill="#027185"/>
+<text x="1962.51" y="734" class="small" text-anchor="start" transform="rotate(-90 1962.51 734)">La4</text>
+<circle cx="1967.51" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M1967.51 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="1967.51" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="1967.51" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M1967.51 744 l11 17 M1967.51 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1960.51 783 h14 l-7 14 Z M1959.51 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1967.51 799 V935" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="1967.51" cy="935" r="3.5" fill="#305caf"/>
+<text x="1996.74" y="734" class="small" text-anchor="start" transform="rotate(-90 1996.74 734)">La♯4</text>
+<circle cx="2001.74" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M2001.74 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2001.74" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2001.74" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2001.74 744 l11 17 M2001.74 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M1994.74 783 h14 l-7 14 Z M1993.74 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2001.74 799 V957" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="2001.74" cy="957" r="3.5" fill="#804798"/>
+<text x="2039.37" y="734" class="small" text-anchor="start" transform="rotate(-90 2039.37 734)">Si4</text>
+<circle cx="2044.37" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M2044.37 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2044.37" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2044.37" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2044.37 744 l11 17 M2044.37 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2037.37 783 h14 l-7 14 Z M2036.37 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2044.37 799 V979" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="2044.37" cy="979" r="3.5" fill="#56616c"/>
+<text x="2091.01" y="734" class="small" text-anchor="start" transform="rotate(-90 2091.01 734)">Do5</text>
+<circle cx="2096.01" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M2096.01 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2096.01" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2096.01" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2096.01 744 l11 17 M2096.01 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2089.01 783 h14 l-7 14 Z M2088.01 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2096.01 799 V825" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="2096.01" cy="825" r="3.5" fill="#bb2344"/>
+<text x="2133.64" y="734" class="small" text-anchor="start" transform="rotate(-90 2133.64 734)">Do♯5</text>
+<circle cx="2138.64" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M2138.64 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2138.64" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2138.64" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2138.64 744 l11 17 M2138.64 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2131.64 783 h14 l-7 14 Z M2130.64 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2138.64 799 V847" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="2138.64" cy="847" r="3.5" fill="#a95700"/>
+<text x="2167.87" y="734" class="small" text-anchor="start" transform="rotate(-90 2167.87 734)">Re5</text>
+<circle cx="2172.87" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M2172.87 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2172.87" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2172.87" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2172.87 744 l11 17 M2172.87 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2165.87 783 h14 l-7 14 Z M2164.87 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2172.87 799 V869" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="2172.87" cy="869" r="3.5" fill="#766a00"/>
+<text x="2202.09" y="734" class="small" text-anchor="start" transform="rotate(-90 2202.09 734)">Re♯5</text>
+<circle cx="2207.09" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M2207.09 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2207.09" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2207.09" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2207.09 744 l11 17 M2207.09 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2200.09 783 h14 l-7 14 Z M2199.09 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2207.09 799 V891" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="2207.09" cy="891" r="3.5" fill="#12834f"/>
+<text x="2244.72" y="734" class="small" text-anchor="start" transform="rotate(-90 2244.72 734)">Mi5</text>
+<circle cx="2249.72" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M2249.72 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2249.72" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2249.72" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2249.72 744 l11 17 M2249.72 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2242.72 783 h14 l-7 14 Z M2241.72 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2249.72 799 V913" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="2249.72" cy="913" r="3.5" fill="#027185"/>
+<text x="2296.37" y="734" class="small" text-anchor="start" transform="rotate(-90 2296.37 734)">Fa5</text>
+<circle cx="2301.37" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M2301.37 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2301.37" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2301.37" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2301.37 744 l11 17 M2301.37 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2294.37 783 h14 l-7 14 Z M2293.37 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2301.37 799 V935" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="2301.37" cy="935" r="3.5" fill="#305caf"/>
+<text x="2339.0" y="734" class="small" text-anchor="start" transform="rotate(-90 2339.0 734)">Fa♯5</text>
+<circle cx="2344.0" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M2344.0 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2344.0" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2344.0" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2344.0 744 l11 17 M2344.0 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2337.0 783 h14 l-7 14 Z M2336.0 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2344.0 799 V957" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="2344.0" cy="957" r="3.5" fill="#804798"/>
+<text x="2381.62" y="734" class="small" text-anchor="start" transform="rotate(-90 2381.62 734)">Sol5</text>
+<circle cx="2386.62" cy="679" r="3.5" fill="#172b3c"/>
+<path d="M2386.62 679 V741" fill="none" stroke="#172b3c" stroke-width="2"/>
+<circle cx="2386.62" cy="744" r="3" stroke="#172b3c" fill="white"/>
+<circle cx="2386.62" cy="766" r="3" stroke="#172b3c" fill="white"/>
+<path d="M2386.62 744 l11 17 M2386.62 769 V783" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2379.62 783 h14 l-7 14 Z M2378.62 799 h16" fill="none" stroke="#172b3c" stroke-width="2"/>
+<path d="M2386.62 799 V979" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="2386.62" cy="979" r="3.5" fill="#56616c"/>
+<text x="44" y="1054" class="head" text-anchor="start" >Empalmes junto al Due</text>
+<text x="44" y="1084" class="" text-anchor="start" >Por cada fila, une únicamente los dos hilos del mismo número y llévalos a su pin. Cada columna sale por separado a su pin D30–D43.</text>
+<text x="95" y="1123" class="pin" text-anchor="middle" >D22</text>
+<path d="M95 1131 V1168 M73 1202 V1186 L95 1168 L117 1186 V1202" fill="none" stroke="#bb2344" stroke-width="2"/>
+<circle cx="95" cy="1168" r="3.5" fill="#bb2344"/>
+<text x="70" y="1225" class="small" text-anchor="end" >F0 inf.</text>
+<text x="120" y="1225" class="small" text-anchor="start" >F0 sup.</text>
+<text x="396" y="1123" class="pin" text-anchor="middle" >D23</text>
+<path d="M396 1131 V1168 M374 1202 V1186 L396 1168 L418 1186 V1202" fill="none" stroke="#a95700" stroke-width="2"/>
+<circle cx="396" cy="1168" r="3.5" fill="#a95700"/>
+<text x="371" y="1225" class="small" text-anchor="end" >F1 inf.</text>
+<text x="421" y="1225" class="small" text-anchor="start" >F1 sup.</text>
+<text x="697" y="1123" class="pin" text-anchor="middle" >D24</text>
+<path d="M697 1131 V1168 M675 1202 V1186 L697 1168 L719 1186 V1202" fill="none" stroke="#766a00" stroke-width="2"/>
+<circle cx="697" cy="1168" r="3.5" fill="#766a00"/>
+<text x="672" y="1225" class="small" text-anchor="end" >F2 inf.</text>
+<text x="722" y="1225" class="small" text-anchor="start" >F2 sup.</text>
+<text x="998" y="1123" class="pin" text-anchor="middle" >D25</text>
+<path d="M998 1131 V1168 M976 1202 V1186 L998 1168 L1020 1186 V1202" fill="none" stroke="#12834f" stroke-width="2"/>
+<circle cx="998" cy="1168" r="3.5" fill="#12834f"/>
+<text x="973" y="1225" class="small" text-anchor="end" >F3 inf.</text>
+<text x="1023" y="1225" class="small" text-anchor="start" >F3 sup.</text>
+<text x="1299" y="1123" class="pin" text-anchor="middle" >D26</text>
+<path d="M1299 1131 V1168 M1277 1202 V1186 L1299 1168 L1321 1186 V1202" fill="none" stroke="#027185" stroke-width="2"/>
+<circle cx="1299" cy="1168" r="3.5" fill="#027185"/>
+<text x="1274" y="1225" class="small" text-anchor="end" >F4 inf.</text>
+<text x="1324" y="1225" class="small" text-anchor="start" >F4 sup.</text>
+<text x="1600" y="1123" class="pin" text-anchor="middle" >D27</text>
+<path d="M1600 1131 V1168 M1578 1202 V1186 L1600 1168 L1622 1186 V1202" fill="none" stroke="#305caf" stroke-width="2"/>
+<circle cx="1600" cy="1168" r="3.5" fill="#305caf"/>
+<text x="1575" y="1225" class="small" text-anchor="end" >F5 inf.</text>
+<text x="1625" y="1225" class="small" text-anchor="start" >F5 sup.</text>
+<text x="1901" y="1123" class="pin" text-anchor="middle" >D28</text>
+<path d="M1901 1131 V1168 M1879 1202 V1186 L1901 1168 L1923 1186 V1202" fill="none" stroke="#804798" stroke-width="2"/>
+<circle cx="1901" cy="1168" r="3.5" fill="#804798"/>
+<text x="1876" y="1225" class="small" text-anchor="end" >F6 inf.</text>
+<text x="1926" y="1225" class="small" text-anchor="start" >F6 sup.</text>
+<text x="2202" y="1123" class="pin" text-anchor="middle" >D29</text>
+<path d="M2202 1131 V1168 M2180 1202 V1186 L2202 1168 L2224 1186 V1202" fill="none" stroke="#56616c" stroke-width="2"/>
+<circle cx="2202" cy="1168" r="3.5" fill="#56616c"/>
+<text x="2177" y="1225" class="small" text-anchor="end" >F7 inf.</text>
+<text x="2227" y="1225" class="small" text-anchor="start" >F7 sup.</text>
+<text x="44" y="1263" class="" text-anchor="start" >● Empalme eléctrico. En los cruces sin punto, los cables quedan separados. La banda de cada 1N4148 mira al hilo de fila.</text>
+<text x="44" y="1291" class="" text-anchor="start" >Cada contacto es normalmente abierto. La vista indica la posición lateral de cada tecla y el conexionado, con el recorrido vertical esquemático.</text>
+</svg>

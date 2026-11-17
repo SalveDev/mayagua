@@ -1,0 +1,1215 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1420" height="885" viewBox="0 0 1420 885"><style>text{font-family:Arial,sans-serif;fill:#172435;font-size:14px}.wire{fill:none;stroke:#26384c;stroke-width:1.5}.col{stroke:#526879;stroke-width:1.3}.row{stroke:#136b58;stroke-width:1.6}.box{fill:#edf3f8;stroke:#526879}.note{font-size:12px}.title{font-size:27px;font-weight:bold}.bold{font-weight:bold}</style><rect width="1420" height="885" fill="white"/>
+<text x="38" y="40" class="title">Órgano MIDI · Matriz completa de los dos manuales</text>
+<text x="38" y="67" class="">112 contactos normalmente abiertos · 112 diodos 1N4148 · 17 GPIO · Nano clásico de 5 V</text>
+<rect x="40" y="88" width="300" height="150" rx="7" class="box"/>
+<rect x="435" y="88" width="478" height="150" rx="7" class="box"/>
+<rect x="950" y="88" width="430" height="150" rx="7" class="box"/>
+<text x="55" y="113" class="bold">Arduino Nano clásico</text>
+<text x="55" y="137" class="">D2, D3, D4 → selección de fila</text>
+<text x="55" y="158" class="">5 V y GND → alimentación del 74HC138</text>
+<text x="55" y="179" class="">C0–C13 → entradas INPUT_PULLUP</text>
+<text x="55" y="200" class="">USB → puerto serie a la computadora</text>
+<text x="55" y="221" class="">D0/RX, D1/TX y D13 libres</text>
+<line x1="340" y1="124" x2="435" y2="124" class="wire"/>
+<text x="353" y="120" class="">D2</text>
+<line x1="340" y1="151" x2="435" y2="151" class="wire"/>
+<text x="353" y="147" class="">D3</text>
+<line x1="340" y1="178" x2="435" y2="178" class="wire"/>
+<text x="353" y="174" class="">D4</text>
+<text x="449" y="113" class="bold">74HC138 · DIP de 16 pines</text>
+<text x="449" y="132" class="">1 (A) ← D2</text>
+<text x="449" y="159" class="">2 (B) ← D3</text>
+<text x="449" y="186" class="">3 (C) ← D4</text>
+<text x="630" y="132" class="">+5 V → 6 (G1), 16 (VCC)</text>
+<text x="630" y="155" class="">GND → 4 (G2A), 5 (G2B), 8 (GND)</text>
+<text x="630" y="178" class="">100 nF entre 16 y 8, junto al chip</text>
+<text x="630" y="208" class="">Y0–Y7 → F0–F7, según etiquetas</text>
+<text x="965" y="113" class="bold">Polaridad y lectura</text>
+<text x="965" y="137" class="">Banda del 1N4148 hacia la fila (F).</text>
+<text x="965" y="158" class="">Fila seleccionada en LOW, resto en HIGH.</text>
+<text x="965" y="179" class="">Columna en LOW equivale a tecla pulsada.</text>
+<text x="965" y="200" class="">Punto = unión. Cruce sin punto = sin conexión.</text>
+<text x="965" y="221" class="">Las etiquetas C y F identifican los mismos cables.</text>
+<text x="155" y="274" class="bold">Manual inferior</text>
+<text x="764" y="274" class="bold">Manual superior</text>
+<text x="39" y="376" class="bold">F0 ← Y0 (15)</text>
+<line x1="137" y1="379" x2="1378" y2="379" class="row"/>
+<text x="39" y="436" class="bold">F1 ← Y1 (14)</text>
+<line x1="137" y1="439" x2="1378" y2="439" class="row"/>
+<text x="39" y="496" class="bold">F2 ← Y2 (13)</text>
+<line x1="137" y1="499" x2="1378" y2="499" class="row"/>
+<text x="39" y="556" class="bold">F3 ← Y3 (12)</text>
+<line x1="137" y1="559" x2="1378" y2="559" class="row"/>
+<text x="39" y="616" class="bold">F4 ← Y4 (11)</text>
+<line x1="137" y1="619" x2="1378" y2="619" class="row"/>
+<text x="39" y="676" class="bold">F5 ← Y5 (10)</text>
+<line x1="137" y1="679" x2="1378" y2="679" class="row"/>
+<text x="39" y="736" class="bold">F6 ← Y6 (9)</text>
+<line x1="137" y1="739" x2="1378" y2="739" class="row"/>
+<text x="39" y="796" class="bold">F7 ← Y7 (7)</text>
+<line x1="137" y1="799" x2="1378" y2="799" class="row"/>
+<text x="147" y="301" class="bold">C0</text>
+<text x="147" y="319" class="">D5</text>
+<line x1="155" y1="327" x2="155" y2="766" class="col"/>
+<text x="186" y="355" class="note">Do1</text>
+<circle cx="155" cy="332" r="2.5" fill="#26384c"/>
+<line x1="155" y1="332" x2="174" y2="332" class="wire"/>
+<line x1="174" y1="332" x2="174" y2="339" class="wire"/>
+<circle cx="174" cy="340" r="1.8" fill="white" stroke="#26384c"/><circle cx="174" cy="350" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="174" y1="340" x2="181" y2="348" class="wire"/>
+<line x1="174" y1="352" x2="174" y2="356" class="wire"/>
+<path d="M169 356 H179 L174 365 Z M168 366 H180" class="wire"/>
+<line x1="174" y1="366" x2="174" y2="379" class="wire"/>
+<circle cx="174" cy="379" r="2.5" fill="#26384c"/>
+<text x="186" y="415" class="note">Do♯1</text>
+<circle cx="155" cy="392" r="2.5" fill="#26384c"/>
+<line x1="155" y1="392" x2="174" y2="392" class="wire"/>
+<line x1="174" y1="392" x2="174" y2="399" class="wire"/>
+<circle cx="174" cy="400" r="1.8" fill="white" stroke="#26384c"/><circle cx="174" cy="410" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="174" y1="400" x2="181" y2="408" class="wire"/>
+<line x1="174" y1="412" x2="174" y2="416" class="wire"/>
+<path d="M169 416 H179 L174 425 Z M168 426 H180" class="wire"/>
+<line x1="174" y1="426" x2="174" y2="439" class="wire"/>
+<circle cx="174" cy="439" r="2.5" fill="#26384c"/>
+<text x="186" y="475" class="note">Re1</text>
+<circle cx="155" cy="452" r="2.5" fill="#26384c"/>
+<line x1="155" y1="452" x2="174" y2="452" class="wire"/>
+<line x1="174" y1="452" x2="174" y2="459" class="wire"/>
+<circle cx="174" cy="460" r="1.8" fill="white" stroke="#26384c"/><circle cx="174" cy="470" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="174" y1="460" x2="181" y2="468" class="wire"/>
+<line x1="174" y1="472" x2="174" y2="476" class="wire"/>
+<path d="M169 476 H179 L174 485 Z M168 486 H180" class="wire"/>
+<line x1="174" y1="486" x2="174" y2="499" class="wire"/>
+<circle cx="174" cy="499" r="2.5" fill="#26384c"/>
+<text x="186" y="535" class="note">Re♯1</text>
+<circle cx="155" cy="512" r="2.5" fill="#26384c"/>
+<line x1="155" y1="512" x2="174" y2="512" class="wire"/>
+<line x1="174" y1="512" x2="174" y2="519" class="wire"/>
+<circle cx="174" cy="520" r="1.8" fill="white" stroke="#26384c"/><circle cx="174" cy="530" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="174" y1="520" x2="181" y2="528" class="wire"/>
+<line x1="174" y1="532" x2="174" y2="536" class="wire"/>
+<path d="M169 536 H179 L174 545 Z M168 546 H180" class="wire"/>
+<line x1="174" y1="546" x2="174" y2="559" class="wire"/>
+<circle cx="174" cy="559" r="2.5" fill="#26384c"/>
+<text x="186" y="595" class="note">Mi1</text>
+<circle cx="155" cy="572" r="2.5" fill="#26384c"/>
+<line x1="155" y1="572" x2="174" y2="572" class="wire"/>
+<line x1="174" y1="572" x2="174" y2="579" class="wire"/>
+<circle cx="174" cy="580" r="1.8" fill="white" stroke="#26384c"/><circle cx="174" cy="590" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="174" y1="580" x2="181" y2="588" class="wire"/>
+<line x1="174" y1="592" x2="174" y2="596" class="wire"/>
+<path d="M169 596 H179 L174 605 Z M168 606 H180" class="wire"/>
+<line x1="174" y1="606" x2="174" y2="619" class="wire"/>
+<circle cx="174" cy="619" r="2.5" fill="#26384c"/>
+<text x="186" y="655" class="note">Fa1</text>
+<circle cx="155" cy="632" r="2.5" fill="#26384c"/>
+<line x1="155" y1="632" x2="174" y2="632" class="wire"/>
+<line x1="174" y1="632" x2="174" y2="639" class="wire"/>
+<circle cx="174" cy="640" r="1.8" fill="white" stroke="#26384c"/><circle cx="174" cy="650" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="174" y1="640" x2="181" y2="648" class="wire"/>
+<line x1="174" y1="652" x2="174" y2="656" class="wire"/>
+<path d="M169 656 H179 L174 665 Z M168 666 H180" class="wire"/>
+<line x1="174" y1="666" x2="174" y2="679" class="wire"/>
+<circle cx="174" cy="679" r="2.5" fill="#26384c"/>
+<text x="186" y="715" class="note">Fa♯1</text>
+<circle cx="155" cy="692" r="2.5" fill="#26384c"/>
+<line x1="155" y1="692" x2="174" y2="692" class="wire"/>
+<line x1="174" y1="692" x2="174" y2="699" class="wire"/>
+<circle cx="174" cy="700" r="1.8" fill="white" stroke="#26384c"/><circle cx="174" cy="710" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="174" y1="700" x2="181" y2="708" class="wire"/>
+<line x1="174" y1="712" x2="174" y2="716" class="wire"/>
+<path d="M169 716 H179 L174 725 Z M168 726 H180" class="wire"/>
+<line x1="174" y1="726" x2="174" y2="739" class="wire"/>
+<circle cx="174" cy="739" r="2.5" fill="#26384c"/>
+<text x="186" y="775" class="note">Sol1</text>
+<circle cx="155" cy="752" r="2.5" fill="#26384c"/>
+<line x1="155" y1="752" x2="174" y2="752" class="wire"/>
+<line x1="174" y1="752" x2="174" y2="759" class="wire"/>
+<circle cx="174" cy="760" r="1.8" fill="white" stroke="#26384c"/><circle cx="174" cy="770" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="174" y1="760" x2="181" y2="768" class="wire"/>
+<line x1="174" y1="772" x2="174" y2="776" class="wire"/>
+<path d="M169 776 H179 L174 785 Z M168 786 H180" class="wire"/>
+<line x1="174" y1="786" x2="174" y2="799" class="wire"/>
+<circle cx="174" cy="799" r="2.5" fill="#26384c"/>
+<text x="234" y="301" class="bold">C1</text>
+<text x="234" y="319" class="">D6</text>
+<line x1="242" y1="327" x2="242" y2="766" class="col"/>
+<text x="273" y="355" class="note">Sol♯1</text>
+<circle cx="242" cy="332" r="2.5" fill="#26384c"/>
+<line x1="242" y1="332" x2="261" y2="332" class="wire"/>
+<line x1="261" y1="332" x2="261" y2="339" class="wire"/>
+<circle cx="261" cy="340" r="1.8" fill="white" stroke="#26384c"/><circle cx="261" cy="350" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="261" y1="340" x2="268" y2="348" class="wire"/>
+<line x1="261" y1="352" x2="261" y2="356" class="wire"/>
+<path d="M256 356 H266 L261 365 Z M255 366 H267" class="wire"/>
+<line x1="261" y1="366" x2="261" y2="379" class="wire"/>
+<circle cx="261" cy="379" r="2.5" fill="#26384c"/>
+<text x="273" y="415" class="note">La1</text>
+<circle cx="242" cy="392" r="2.5" fill="#26384c"/>
+<line x1="242" y1="392" x2="261" y2="392" class="wire"/>
+<line x1="261" y1="392" x2="261" y2="399" class="wire"/>
+<circle cx="261" cy="400" r="1.8" fill="white" stroke="#26384c"/><circle cx="261" cy="410" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="261" y1="400" x2="268" y2="408" class="wire"/>
+<line x1="261" y1="412" x2="261" y2="416" class="wire"/>
+<path d="M256 416 H266 L261 425 Z M255 426 H267" class="wire"/>
+<line x1="261" y1="426" x2="261" y2="439" class="wire"/>
+<circle cx="261" cy="439" r="2.5" fill="#26384c"/>
+<text x="273" y="475" class="note">La♯1</text>
+<circle cx="242" cy="452" r="2.5" fill="#26384c"/>
+<line x1="242" y1="452" x2="261" y2="452" class="wire"/>
+<line x1="261" y1="452" x2="261" y2="459" class="wire"/>
+<circle cx="261" cy="460" r="1.8" fill="white" stroke="#26384c"/><circle cx="261" cy="470" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="261" y1="460" x2="268" y2="468" class="wire"/>
+<line x1="261" y1="472" x2="261" y2="476" class="wire"/>
+<path d="M256 476 H266 L261 485 Z M255 486 H267" class="wire"/>
+<line x1="261" y1="486" x2="261" y2="499" class="wire"/>
+<circle cx="261" cy="499" r="2.5" fill="#26384c"/>
+<text x="273" y="535" class="note">Si1</text>
+<circle cx="242" cy="512" r="2.5" fill="#26384c"/>
+<line x1="242" y1="512" x2="261" y2="512" class="wire"/>
+<line x1="261" y1="512" x2="261" y2="519" class="wire"/>
+<circle cx="261" cy="520" r="1.8" fill="white" stroke="#26384c"/><circle cx="261" cy="530" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="261" y1="520" x2="268" y2="528" class="wire"/>
+<line x1="261" y1="532" x2="261" y2="536" class="wire"/>
+<path d="M256 536 H266 L261 545 Z M255 546 H267" class="wire"/>
+<line x1="261" y1="546" x2="261" y2="559" class="wire"/>
+<circle cx="261" cy="559" r="2.5" fill="#26384c"/>
+<text x="273" y="595" class="note">Do2</text>
+<circle cx="242" cy="572" r="2.5" fill="#26384c"/>
+<line x1="242" y1="572" x2="261" y2="572" class="wire"/>
+<line x1="261" y1="572" x2="261" y2="579" class="wire"/>
+<circle cx="261" cy="580" r="1.8" fill="white" stroke="#26384c"/><circle cx="261" cy="590" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="261" y1="580" x2="268" y2="588" class="wire"/>
+<line x1="261" y1="592" x2="261" y2="596" class="wire"/>
+<path d="M256 596 H266 L261 605 Z M255 606 H267" class="wire"/>
+<line x1="261" y1="606" x2="261" y2="619" class="wire"/>
+<circle cx="261" cy="619" r="2.5" fill="#26384c"/>
+<text x="273" y="655" class="note">Do♯2</text>
+<circle cx="242" cy="632" r="2.5" fill="#26384c"/>
+<line x1="242" y1="632" x2="261" y2="632" class="wire"/>
+<line x1="261" y1="632" x2="261" y2="639" class="wire"/>
+<circle cx="261" cy="640" r="1.8" fill="white" stroke="#26384c"/><circle cx="261" cy="650" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="261" y1="640" x2="268" y2="648" class="wire"/>
+<line x1="261" y1="652" x2="261" y2="656" class="wire"/>
+<path d="M256 656 H266 L261 665 Z M255 666 H267" class="wire"/>
+<line x1="261" y1="666" x2="261" y2="679" class="wire"/>
+<circle cx="261" cy="679" r="2.5" fill="#26384c"/>
+<text x="273" y="715" class="note">Re2</text>
+<circle cx="242" cy="692" r="2.5" fill="#26384c"/>
+<line x1="242" y1="692" x2="261" y2="692" class="wire"/>
+<line x1="261" y1="692" x2="261" y2="699" class="wire"/>
+<circle cx="261" cy="700" r="1.8" fill="white" stroke="#26384c"/><circle cx="261" cy="710" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="261" y1="700" x2="268" y2="708" class="wire"/>
+<line x1="261" y1="712" x2="261" y2="716" class="wire"/>
+<path d="M256 716 H266 L261 725 Z M255 726 H267" class="wire"/>
+<line x1="261" y1="726" x2="261" y2="739" class="wire"/>
+<circle cx="261" cy="739" r="2.5" fill="#26384c"/>
+<text x="273" y="775" class="note">Re♯2</text>
+<circle cx="242" cy="752" r="2.5" fill="#26384c"/>
+<line x1="242" y1="752" x2="261" y2="752" class="wire"/>
+<line x1="261" y1="752" x2="261" y2="759" class="wire"/>
+<circle cx="261" cy="760" r="1.8" fill="white" stroke="#26384c"/><circle cx="261" cy="770" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="261" y1="760" x2="268" y2="768" class="wire"/>
+<line x1="261" y1="772" x2="261" y2="776" class="wire"/>
+<path d="M256 776 H266 L261 785 Z M255 786 H267" class="wire"/>
+<line x1="261" y1="786" x2="261" y2="799" class="wire"/>
+<circle cx="261" cy="799" r="2.5" fill="#26384c"/>
+<text x="321" y="301" class="bold">C2</text>
+<text x="321" y="319" class="">D7</text>
+<line x1="329" y1="327" x2="329" y2="766" class="col"/>
+<text x="360" y="355" class="note">Mi2</text>
+<circle cx="329" cy="332" r="2.5" fill="#26384c"/>
+<line x1="329" y1="332" x2="348" y2="332" class="wire"/>
+<line x1="348" y1="332" x2="348" y2="339" class="wire"/>
+<circle cx="348" cy="340" r="1.8" fill="white" stroke="#26384c"/><circle cx="348" cy="350" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="348" y1="340" x2="355" y2="348" class="wire"/>
+<line x1="348" y1="352" x2="348" y2="356" class="wire"/>
+<path d="M343 356 H353 L348 365 Z M342 366 H354" class="wire"/>
+<line x1="348" y1="366" x2="348" y2="379" class="wire"/>
+<circle cx="348" cy="379" r="2.5" fill="#26384c"/>
+<text x="360" y="415" class="note">Fa2</text>
+<circle cx="329" cy="392" r="2.5" fill="#26384c"/>
+<line x1="329" y1="392" x2="348" y2="392" class="wire"/>
+<line x1="348" y1="392" x2="348" y2="399" class="wire"/>
+<circle cx="348" cy="400" r="1.8" fill="white" stroke="#26384c"/><circle cx="348" cy="410" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="348" y1="400" x2="355" y2="408" class="wire"/>
+<line x1="348" y1="412" x2="348" y2="416" class="wire"/>
+<path d="M343 416 H353 L348 425 Z M342 426 H354" class="wire"/>
+<line x1="348" y1="426" x2="348" y2="439" class="wire"/>
+<circle cx="348" cy="439" r="2.5" fill="#26384c"/>
+<text x="360" y="475" class="note">Fa♯2</text>
+<circle cx="329" cy="452" r="2.5" fill="#26384c"/>
+<line x1="329" y1="452" x2="348" y2="452" class="wire"/>
+<line x1="348" y1="452" x2="348" y2="459" class="wire"/>
+<circle cx="348" cy="460" r="1.8" fill="white" stroke="#26384c"/><circle cx="348" cy="470" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="348" y1="460" x2="355" y2="468" class="wire"/>
+<line x1="348" y1="472" x2="348" y2="476" class="wire"/>
+<path d="M343 476 H353 L348 485 Z M342 486 H354" class="wire"/>
+<line x1="348" y1="486" x2="348" y2="499" class="wire"/>
+<circle cx="348" cy="499" r="2.5" fill="#26384c"/>
+<text x="360" y="535" class="note">Sol2</text>
+<circle cx="329" cy="512" r="2.5" fill="#26384c"/>
+<line x1="329" y1="512" x2="348" y2="512" class="wire"/>
+<line x1="348" y1="512" x2="348" y2="519" class="wire"/>
+<circle cx="348" cy="520" r="1.8" fill="white" stroke="#26384c"/><circle cx="348" cy="530" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="348" y1="520" x2="355" y2="528" class="wire"/>
+<line x1="348" y1="532" x2="348" y2="536" class="wire"/>
+<path d="M343 536 H353 L348 545 Z M342 546 H354" class="wire"/>
+<line x1="348" y1="546" x2="348" y2="559" class="wire"/>
+<circle cx="348" cy="559" r="2.5" fill="#26384c"/>
+<text x="360" y="595" class="note">Sol♯2</text>
+<circle cx="329" cy="572" r="2.5" fill="#26384c"/>
+<line x1="329" y1="572" x2="348" y2="572" class="wire"/>
+<line x1="348" y1="572" x2="348" y2="579" class="wire"/>
+<circle cx="348" cy="580" r="1.8" fill="white" stroke="#26384c"/><circle cx="348" cy="590" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="348" y1="580" x2="355" y2="588" class="wire"/>
+<line x1="348" y1="592" x2="348" y2="596" class="wire"/>
+<path d="M343 596 H353 L348 605 Z M342 606 H354" class="wire"/>
+<line x1="348" y1="606" x2="348" y2="619" class="wire"/>
+<circle cx="348" cy="619" r="2.5" fill="#26384c"/>
+<text x="360" y="655" class="note">La2</text>
+<circle cx="329" cy="632" r="2.5" fill="#26384c"/>
+<line x1="329" y1="632" x2="348" y2="632" class="wire"/>
+<line x1="348" y1="632" x2="348" y2="639" class="wire"/>
+<circle cx="348" cy="640" r="1.8" fill="white" stroke="#26384c"/><circle cx="348" cy="650" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="348" y1="640" x2="355" y2="648" class="wire"/>
+<line x1="348" y1="652" x2="348" y2="656" class="wire"/>
+<path d="M343 656 H353 L348 665 Z M342 666 H354" class="wire"/>
+<line x1="348" y1="666" x2="348" y2="679" class="wire"/>
+<circle cx="348" cy="679" r="2.5" fill="#26384c"/>
+<text x="360" y="715" class="note">La♯2</text>
+<circle cx="329" cy="692" r="2.5" fill="#26384c"/>
+<line x1="329" y1="692" x2="348" y2="692" class="wire"/>
+<line x1="348" y1="692" x2="348" y2="699" class="wire"/>
+<circle cx="348" cy="700" r="1.8" fill="white" stroke="#26384c"/><circle cx="348" cy="710" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="348" y1="700" x2="355" y2="708" class="wire"/>
+<line x1="348" y1="712" x2="348" y2="716" class="wire"/>
+<path d="M343 716 H353 L348 725 Z M342 726 H354" class="wire"/>
+<line x1="348" y1="726" x2="348" y2="739" class="wire"/>
+<circle cx="348" cy="739" r="2.5" fill="#26384c"/>
+<text x="360" y="775" class="note">Si2</text>
+<circle cx="329" cy="752" r="2.5" fill="#26384c"/>
+<line x1="329" y1="752" x2="348" y2="752" class="wire"/>
+<line x1="348" y1="752" x2="348" y2="759" class="wire"/>
+<circle cx="348" cy="760" r="1.8" fill="white" stroke="#26384c"/><circle cx="348" cy="770" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="348" y1="760" x2="355" y2="768" class="wire"/>
+<line x1="348" y1="772" x2="348" y2="776" class="wire"/>
+<path d="M343 776 H353 L348 785 Z M342 786 H354" class="wire"/>
+<line x1="348" y1="786" x2="348" y2="799" class="wire"/>
+<circle cx="348" cy="799" r="2.5" fill="#26384c"/>
+<text x="408" y="301" class="bold">C3</text>
+<text x="408" y="319" class="">D8</text>
+<line x1="416" y1="327" x2="416" y2="766" class="col"/>
+<text x="447" y="355" class="note">Do3</text>
+<circle cx="416" cy="332" r="2.5" fill="#26384c"/>
+<line x1="416" y1="332" x2="435" y2="332" class="wire"/>
+<line x1="435" y1="332" x2="435" y2="339" class="wire"/>
+<circle cx="435" cy="340" r="1.8" fill="white" stroke="#26384c"/><circle cx="435" cy="350" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="435" y1="340" x2="442" y2="348" class="wire"/>
+<line x1="435" y1="352" x2="435" y2="356" class="wire"/>
+<path d="M430 356 H440 L435 365 Z M429 366 H441" class="wire"/>
+<line x1="435" y1="366" x2="435" y2="379" class="wire"/>
+<circle cx="435" cy="379" r="2.5" fill="#26384c"/>
+<text x="447" y="415" class="note">Do♯3</text>
+<circle cx="416" cy="392" r="2.5" fill="#26384c"/>
+<line x1="416" y1="392" x2="435" y2="392" class="wire"/>
+<line x1="435" y1="392" x2="435" y2="399" class="wire"/>
+<circle cx="435" cy="400" r="1.8" fill="white" stroke="#26384c"/><circle cx="435" cy="410" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="435" y1="400" x2="442" y2="408" class="wire"/>
+<line x1="435" y1="412" x2="435" y2="416" class="wire"/>
+<path d="M430 416 H440 L435 425 Z M429 426 H441" class="wire"/>
+<line x1="435" y1="426" x2="435" y2="439" class="wire"/>
+<circle cx="435" cy="439" r="2.5" fill="#26384c"/>
+<text x="447" y="475" class="note">Re3</text>
+<circle cx="416" cy="452" r="2.5" fill="#26384c"/>
+<line x1="416" y1="452" x2="435" y2="452" class="wire"/>
+<line x1="435" y1="452" x2="435" y2="459" class="wire"/>
+<circle cx="435" cy="460" r="1.8" fill="white" stroke="#26384c"/><circle cx="435" cy="470" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="435" y1="460" x2="442" y2="468" class="wire"/>
+<line x1="435" y1="472" x2="435" y2="476" class="wire"/>
+<path d="M430 476 H440 L435 485 Z M429 486 H441" class="wire"/>
+<line x1="435" y1="486" x2="435" y2="499" class="wire"/>
+<circle cx="435" cy="499" r="2.5" fill="#26384c"/>
+<text x="447" y="535" class="note">Re♯3</text>
+<circle cx="416" cy="512" r="2.5" fill="#26384c"/>
+<line x1="416" y1="512" x2="435" y2="512" class="wire"/>
+<line x1="435" y1="512" x2="435" y2="519" class="wire"/>
+<circle cx="435" cy="520" r="1.8" fill="white" stroke="#26384c"/><circle cx="435" cy="530" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="435" y1="520" x2="442" y2="528" class="wire"/>
+<line x1="435" y1="532" x2="435" y2="536" class="wire"/>
+<path d="M430 536 H440 L435 545 Z M429 546 H441" class="wire"/>
+<line x1="435" y1="546" x2="435" y2="559" class="wire"/>
+<circle cx="435" cy="559" r="2.5" fill="#26384c"/>
+<text x="447" y="595" class="note">Mi3</text>
+<circle cx="416" cy="572" r="2.5" fill="#26384c"/>
+<line x1="416" y1="572" x2="435" y2="572" class="wire"/>
+<line x1="435" y1="572" x2="435" y2="579" class="wire"/>
+<circle cx="435" cy="580" r="1.8" fill="white" stroke="#26384c"/><circle cx="435" cy="590" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="435" y1="580" x2="442" y2="588" class="wire"/>
+<line x1="435" y1="592" x2="435" y2="596" class="wire"/>
+<path d="M430 596 H440 L435 605 Z M429 606 H441" class="wire"/>
+<line x1="435" y1="606" x2="435" y2="619" class="wire"/>
+<circle cx="435" cy="619" r="2.5" fill="#26384c"/>
+<text x="447" y="655" class="note">Fa3</text>
+<circle cx="416" cy="632" r="2.5" fill="#26384c"/>
+<line x1="416" y1="632" x2="435" y2="632" class="wire"/>
+<line x1="435" y1="632" x2="435" y2="639" class="wire"/>
+<circle cx="435" cy="640" r="1.8" fill="white" stroke="#26384c"/><circle cx="435" cy="650" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="435" y1="640" x2="442" y2="648" class="wire"/>
+<line x1="435" y1="652" x2="435" y2="656" class="wire"/>
+<path d="M430 656 H440 L435 665 Z M429 666 H441" class="wire"/>
+<line x1="435" y1="666" x2="435" y2="679" class="wire"/>
+<circle cx="435" cy="679" r="2.5" fill="#26384c"/>
+<text x="447" y="715" class="note">Fa♯3</text>
+<circle cx="416" cy="692" r="2.5" fill="#26384c"/>
+<line x1="416" y1="692" x2="435" y2="692" class="wire"/>
+<line x1="435" y1="692" x2="435" y2="699" class="wire"/>
+<circle cx="435" cy="700" r="1.8" fill="white" stroke="#26384c"/><circle cx="435" cy="710" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="435" y1="700" x2="442" y2="708" class="wire"/>
+<line x1="435" y1="712" x2="435" y2="716" class="wire"/>
+<path d="M430 716 H440 L435 725 Z M429 726 H441" class="wire"/>
+<line x1="435" y1="726" x2="435" y2="739" class="wire"/>
+<circle cx="435" cy="739" r="2.5" fill="#26384c"/>
+<text x="447" y="775" class="note">Sol3</text>
+<circle cx="416" cy="752" r="2.5" fill="#26384c"/>
+<line x1="416" y1="752" x2="435" y2="752" class="wire"/>
+<line x1="435" y1="752" x2="435" y2="759" class="wire"/>
+<circle cx="435" cy="760" r="1.8" fill="white" stroke="#26384c"/><circle cx="435" cy="770" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="435" y1="760" x2="442" y2="768" class="wire"/>
+<line x1="435" y1="772" x2="435" y2="776" class="wire"/>
+<path d="M430 776 H440 L435 785 Z M429 786 H441" class="wire"/>
+<line x1="435" y1="786" x2="435" y2="799" class="wire"/>
+<circle cx="435" cy="799" r="2.5" fill="#26384c"/>
+<text x="495" y="301" class="bold">C4</text>
+<text x="495" y="319" class="">D9</text>
+<line x1="503" y1="327" x2="503" y2="766" class="col"/>
+<text x="534" y="355" class="note">Sol♯3</text>
+<circle cx="503" cy="332" r="2.5" fill="#26384c"/>
+<line x1="503" y1="332" x2="522" y2="332" class="wire"/>
+<line x1="522" y1="332" x2="522" y2="339" class="wire"/>
+<circle cx="522" cy="340" r="1.8" fill="white" stroke="#26384c"/><circle cx="522" cy="350" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="522" y1="340" x2="529" y2="348" class="wire"/>
+<line x1="522" y1="352" x2="522" y2="356" class="wire"/>
+<path d="M517 356 H527 L522 365 Z M516 366 H528" class="wire"/>
+<line x1="522" y1="366" x2="522" y2="379" class="wire"/>
+<circle cx="522" cy="379" r="2.5" fill="#26384c"/>
+<text x="534" y="415" class="note">La3</text>
+<circle cx="503" cy="392" r="2.5" fill="#26384c"/>
+<line x1="503" y1="392" x2="522" y2="392" class="wire"/>
+<line x1="522" y1="392" x2="522" y2="399" class="wire"/>
+<circle cx="522" cy="400" r="1.8" fill="white" stroke="#26384c"/><circle cx="522" cy="410" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="522" y1="400" x2="529" y2="408" class="wire"/>
+<line x1="522" y1="412" x2="522" y2="416" class="wire"/>
+<path d="M517 416 H527 L522 425 Z M516 426 H528" class="wire"/>
+<line x1="522" y1="426" x2="522" y2="439" class="wire"/>
+<circle cx="522" cy="439" r="2.5" fill="#26384c"/>
+<text x="534" y="475" class="note">La♯3</text>
+<circle cx="503" cy="452" r="2.5" fill="#26384c"/>
+<line x1="503" y1="452" x2="522" y2="452" class="wire"/>
+<line x1="522" y1="452" x2="522" y2="459" class="wire"/>
+<circle cx="522" cy="460" r="1.8" fill="white" stroke="#26384c"/><circle cx="522" cy="470" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="522" y1="460" x2="529" y2="468" class="wire"/>
+<line x1="522" y1="472" x2="522" y2="476" class="wire"/>
+<path d="M517 476 H527 L522 485 Z M516 486 H528" class="wire"/>
+<line x1="522" y1="486" x2="522" y2="499" class="wire"/>
+<circle cx="522" cy="499" r="2.5" fill="#26384c"/>
+<text x="534" y="535" class="note">Si3</text>
+<circle cx="503" cy="512" r="2.5" fill="#26384c"/>
+<line x1="503" y1="512" x2="522" y2="512" class="wire"/>
+<line x1="522" y1="512" x2="522" y2="519" class="wire"/>
+<circle cx="522" cy="520" r="1.8" fill="white" stroke="#26384c"/><circle cx="522" cy="530" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="522" y1="520" x2="529" y2="528" class="wire"/>
+<line x1="522" y1="532" x2="522" y2="536" class="wire"/>
+<path d="M517 536 H527 L522 545 Z M516 546 H528" class="wire"/>
+<line x1="522" y1="546" x2="522" y2="559" class="wire"/>
+<circle cx="522" cy="559" r="2.5" fill="#26384c"/>
+<text x="534" y="595" class="note">Do4</text>
+<circle cx="503" cy="572" r="2.5" fill="#26384c"/>
+<line x1="503" y1="572" x2="522" y2="572" class="wire"/>
+<line x1="522" y1="572" x2="522" y2="579" class="wire"/>
+<circle cx="522" cy="580" r="1.8" fill="white" stroke="#26384c"/><circle cx="522" cy="590" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="522" y1="580" x2="529" y2="588" class="wire"/>
+<line x1="522" y1="592" x2="522" y2="596" class="wire"/>
+<path d="M517 596 H527 L522 605 Z M516 606 H528" class="wire"/>
+<line x1="522" y1="606" x2="522" y2="619" class="wire"/>
+<circle cx="522" cy="619" r="2.5" fill="#26384c"/>
+<text x="534" y="655" class="note">Do♯4</text>
+<circle cx="503" cy="632" r="2.5" fill="#26384c"/>
+<line x1="503" y1="632" x2="522" y2="632" class="wire"/>
+<line x1="522" y1="632" x2="522" y2="639" class="wire"/>
+<circle cx="522" cy="640" r="1.8" fill="white" stroke="#26384c"/><circle cx="522" cy="650" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="522" y1="640" x2="529" y2="648" class="wire"/>
+<line x1="522" y1="652" x2="522" y2="656" class="wire"/>
+<path d="M517 656 H527 L522 665 Z M516 666 H528" class="wire"/>
+<line x1="522" y1="666" x2="522" y2="679" class="wire"/>
+<circle cx="522" cy="679" r="2.5" fill="#26384c"/>
+<text x="534" y="715" class="note">Re4</text>
+<circle cx="503" cy="692" r="2.5" fill="#26384c"/>
+<line x1="503" y1="692" x2="522" y2="692" class="wire"/>
+<line x1="522" y1="692" x2="522" y2="699" class="wire"/>
+<circle cx="522" cy="700" r="1.8" fill="white" stroke="#26384c"/><circle cx="522" cy="710" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="522" y1="700" x2="529" y2="708" class="wire"/>
+<line x1="522" y1="712" x2="522" y2="716" class="wire"/>
+<path d="M517 716 H527 L522 725 Z M516 726 H528" class="wire"/>
+<line x1="522" y1="726" x2="522" y2="739" class="wire"/>
+<circle cx="522" cy="739" r="2.5" fill="#26384c"/>
+<text x="534" y="775" class="note">Re♯4</text>
+<circle cx="503" cy="752" r="2.5" fill="#26384c"/>
+<line x1="503" y1="752" x2="522" y2="752" class="wire"/>
+<line x1="522" y1="752" x2="522" y2="759" class="wire"/>
+<circle cx="522" cy="760" r="1.8" fill="white" stroke="#26384c"/><circle cx="522" cy="770" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="522" y1="760" x2="529" y2="768" class="wire"/>
+<line x1="522" y1="772" x2="522" y2="776" class="wire"/>
+<path d="M517 776 H527 L522 785 Z M516 786 H528" class="wire"/>
+<line x1="522" y1="786" x2="522" y2="799" class="wire"/>
+<circle cx="522" cy="799" r="2.5" fill="#26384c"/>
+<text x="582" y="301" class="bold">C5</text>
+<text x="582" y="319" class="">D10</text>
+<line x1="590" y1="327" x2="590" y2="766" class="col"/>
+<text x="621" y="355" class="note">Mi4</text>
+<circle cx="590" cy="332" r="2.5" fill="#26384c"/>
+<line x1="590" y1="332" x2="609" y2="332" class="wire"/>
+<line x1="609" y1="332" x2="609" y2="339" class="wire"/>
+<circle cx="609" cy="340" r="1.8" fill="white" stroke="#26384c"/><circle cx="609" cy="350" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="609" y1="340" x2="616" y2="348" class="wire"/>
+<line x1="609" y1="352" x2="609" y2="356" class="wire"/>
+<path d="M604 356 H614 L609 365 Z M603 366 H615" class="wire"/>
+<line x1="609" y1="366" x2="609" y2="379" class="wire"/>
+<circle cx="609" cy="379" r="2.5" fill="#26384c"/>
+<text x="621" y="415" class="note">Fa4</text>
+<circle cx="590" cy="392" r="2.5" fill="#26384c"/>
+<line x1="590" y1="392" x2="609" y2="392" class="wire"/>
+<line x1="609" y1="392" x2="609" y2="399" class="wire"/>
+<circle cx="609" cy="400" r="1.8" fill="white" stroke="#26384c"/><circle cx="609" cy="410" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="609" y1="400" x2="616" y2="408" class="wire"/>
+<line x1="609" y1="412" x2="609" y2="416" class="wire"/>
+<path d="M604 416 H614 L609 425 Z M603 426 H615" class="wire"/>
+<line x1="609" y1="426" x2="609" y2="439" class="wire"/>
+<circle cx="609" cy="439" r="2.5" fill="#26384c"/>
+<text x="621" y="475" class="note">Fa♯4</text>
+<circle cx="590" cy="452" r="2.5" fill="#26384c"/>
+<line x1="590" y1="452" x2="609" y2="452" class="wire"/>
+<line x1="609" y1="452" x2="609" y2="459" class="wire"/>
+<circle cx="609" cy="460" r="1.8" fill="white" stroke="#26384c"/><circle cx="609" cy="470" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="609" y1="460" x2="616" y2="468" class="wire"/>
+<line x1="609" y1="472" x2="609" y2="476" class="wire"/>
+<path d="M604 476 H614 L609 485 Z M603 486 H615" class="wire"/>
+<line x1="609" y1="486" x2="609" y2="499" class="wire"/>
+<circle cx="609" cy="499" r="2.5" fill="#26384c"/>
+<text x="621" y="535" class="note">Sol4</text>
+<circle cx="590" cy="512" r="2.5" fill="#26384c"/>
+<line x1="590" y1="512" x2="609" y2="512" class="wire"/>
+<line x1="609" y1="512" x2="609" y2="519" class="wire"/>
+<circle cx="609" cy="520" r="1.8" fill="white" stroke="#26384c"/><circle cx="609" cy="530" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="609" y1="520" x2="616" y2="528" class="wire"/>
+<line x1="609" y1="532" x2="609" y2="536" class="wire"/>
+<path d="M604 536 H614 L609 545 Z M603 546 H615" class="wire"/>
+<line x1="609" y1="546" x2="609" y2="559" class="wire"/>
+<circle cx="609" cy="559" r="2.5" fill="#26384c"/>
+<text x="621" y="595" class="note">Sol♯4</text>
+<circle cx="590" cy="572" r="2.5" fill="#26384c"/>
+<line x1="590" y1="572" x2="609" y2="572" class="wire"/>
+<line x1="609" y1="572" x2="609" y2="579" class="wire"/>
+<circle cx="609" cy="580" r="1.8" fill="white" stroke="#26384c"/><circle cx="609" cy="590" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="609" y1="580" x2="616" y2="588" class="wire"/>
+<line x1="609" y1="592" x2="609" y2="596" class="wire"/>
+<path d="M604 596 H614 L609 605 Z M603 606 H615" class="wire"/>
+<line x1="609" y1="606" x2="609" y2="619" class="wire"/>
+<circle cx="609" cy="619" r="2.5" fill="#26384c"/>
+<text x="621" y="655" class="note">La4</text>
+<circle cx="590" cy="632" r="2.5" fill="#26384c"/>
+<line x1="590" y1="632" x2="609" y2="632" class="wire"/>
+<line x1="609" y1="632" x2="609" y2="639" class="wire"/>
+<circle cx="609" cy="640" r="1.8" fill="white" stroke="#26384c"/><circle cx="609" cy="650" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="609" y1="640" x2="616" y2="648" class="wire"/>
+<line x1="609" y1="652" x2="609" y2="656" class="wire"/>
+<path d="M604 656 H614 L609 665 Z M603 666 H615" class="wire"/>
+<line x1="609" y1="666" x2="609" y2="679" class="wire"/>
+<circle cx="609" cy="679" r="2.5" fill="#26384c"/>
+<text x="621" y="715" class="note">La♯4</text>
+<circle cx="590" cy="692" r="2.5" fill="#26384c"/>
+<line x1="590" y1="692" x2="609" y2="692" class="wire"/>
+<line x1="609" y1="692" x2="609" y2="699" class="wire"/>
+<circle cx="609" cy="700" r="1.8" fill="white" stroke="#26384c"/><circle cx="609" cy="710" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="609" y1="700" x2="616" y2="708" class="wire"/>
+<line x1="609" y1="712" x2="609" y2="716" class="wire"/>
+<path d="M604 716 H614 L609 725 Z M603 726 H615" class="wire"/>
+<line x1="609" y1="726" x2="609" y2="739" class="wire"/>
+<circle cx="609" cy="739" r="2.5" fill="#26384c"/>
+<text x="621" y="775" class="note">Si4</text>
+<circle cx="590" cy="752" r="2.5" fill="#26384c"/>
+<line x1="590" y1="752" x2="609" y2="752" class="wire"/>
+<line x1="609" y1="752" x2="609" y2="759" class="wire"/>
+<circle cx="609" cy="760" r="1.8" fill="white" stroke="#26384c"/><circle cx="609" cy="770" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="609" y1="760" x2="616" y2="768" class="wire"/>
+<line x1="609" y1="772" x2="609" y2="776" class="wire"/>
+<path d="M604 776 H614 L609 785 Z M603 786 H615" class="wire"/>
+<line x1="609" y1="786" x2="609" y2="799" class="wire"/>
+<circle cx="609" cy="799" r="2.5" fill="#26384c"/>
+<text x="669" y="301" class="bold">C6</text>
+<text x="669" y="319" class="">D11</text>
+<line x1="677" y1="327" x2="677" y2="766" class="col"/>
+<text x="708" y="355" class="note">Do5</text>
+<circle cx="677" cy="332" r="2.5" fill="#26384c"/>
+<line x1="677" y1="332" x2="696" y2="332" class="wire"/>
+<line x1="696" y1="332" x2="696" y2="339" class="wire"/>
+<circle cx="696" cy="340" r="1.8" fill="white" stroke="#26384c"/><circle cx="696" cy="350" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="696" y1="340" x2="703" y2="348" class="wire"/>
+<line x1="696" y1="352" x2="696" y2="356" class="wire"/>
+<path d="M691 356 H701 L696 365 Z M690 366 H702" class="wire"/>
+<line x1="696" y1="366" x2="696" y2="379" class="wire"/>
+<circle cx="696" cy="379" r="2.5" fill="#26384c"/>
+<text x="708" y="415" class="note">Do♯5</text>
+<circle cx="677" cy="392" r="2.5" fill="#26384c"/>
+<line x1="677" y1="392" x2="696" y2="392" class="wire"/>
+<line x1="696" y1="392" x2="696" y2="399" class="wire"/>
+<circle cx="696" cy="400" r="1.8" fill="white" stroke="#26384c"/><circle cx="696" cy="410" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="696" y1="400" x2="703" y2="408" class="wire"/>
+<line x1="696" y1="412" x2="696" y2="416" class="wire"/>
+<path d="M691 416 H701 L696 425 Z M690 426 H702" class="wire"/>
+<line x1="696" y1="426" x2="696" y2="439" class="wire"/>
+<circle cx="696" cy="439" r="2.5" fill="#26384c"/>
+<text x="708" y="475" class="note">Re5</text>
+<circle cx="677" cy="452" r="2.5" fill="#26384c"/>
+<line x1="677" y1="452" x2="696" y2="452" class="wire"/>
+<line x1="696" y1="452" x2="696" y2="459" class="wire"/>
+<circle cx="696" cy="460" r="1.8" fill="white" stroke="#26384c"/><circle cx="696" cy="470" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="696" y1="460" x2="703" y2="468" class="wire"/>
+<line x1="696" y1="472" x2="696" y2="476" class="wire"/>
+<path d="M691 476 H701 L696 485 Z M690 486 H702" class="wire"/>
+<line x1="696" y1="486" x2="696" y2="499" class="wire"/>
+<circle cx="696" cy="499" r="2.5" fill="#26384c"/>
+<text x="708" y="535" class="note">Re♯5</text>
+<circle cx="677" cy="512" r="2.5" fill="#26384c"/>
+<line x1="677" y1="512" x2="696" y2="512" class="wire"/>
+<line x1="696" y1="512" x2="696" y2="519" class="wire"/>
+<circle cx="696" cy="520" r="1.8" fill="white" stroke="#26384c"/><circle cx="696" cy="530" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="696" y1="520" x2="703" y2="528" class="wire"/>
+<line x1="696" y1="532" x2="696" y2="536" class="wire"/>
+<path d="M691 536 H701 L696 545 Z M690 546 H702" class="wire"/>
+<line x1="696" y1="546" x2="696" y2="559" class="wire"/>
+<circle cx="696" cy="559" r="2.5" fill="#26384c"/>
+<text x="708" y="595" class="note">Mi5</text>
+<circle cx="677" cy="572" r="2.5" fill="#26384c"/>
+<line x1="677" y1="572" x2="696" y2="572" class="wire"/>
+<line x1="696" y1="572" x2="696" y2="579" class="wire"/>
+<circle cx="696" cy="580" r="1.8" fill="white" stroke="#26384c"/><circle cx="696" cy="590" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="696" y1="580" x2="703" y2="588" class="wire"/>
+<line x1="696" y1="592" x2="696" y2="596" class="wire"/>
+<path d="M691 596 H701 L696 605 Z M690 606 H702" class="wire"/>
+<line x1="696" y1="606" x2="696" y2="619" class="wire"/>
+<circle cx="696" cy="619" r="2.5" fill="#26384c"/>
+<text x="708" y="655" class="note">Fa5</text>
+<circle cx="677" cy="632" r="2.5" fill="#26384c"/>
+<line x1="677" y1="632" x2="696" y2="632" class="wire"/>
+<line x1="696" y1="632" x2="696" y2="639" class="wire"/>
+<circle cx="696" cy="640" r="1.8" fill="white" stroke="#26384c"/><circle cx="696" cy="650" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="696" y1="640" x2="703" y2="648" class="wire"/>
+<line x1="696" y1="652" x2="696" y2="656" class="wire"/>
+<path d="M691 656 H701 L696 665 Z M690 666 H702" class="wire"/>
+<line x1="696" y1="666" x2="696" y2="679" class="wire"/>
+<circle cx="696" cy="679" r="2.5" fill="#26384c"/>
+<text x="708" y="715" class="note">Fa♯5</text>
+<circle cx="677" cy="692" r="2.5" fill="#26384c"/>
+<line x1="677" y1="692" x2="696" y2="692" class="wire"/>
+<line x1="696" y1="692" x2="696" y2="699" class="wire"/>
+<circle cx="696" cy="700" r="1.8" fill="white" stroke="#26384c"/><circle cx="696" cy="710" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="696" y1="700" x2="703" y2="708" class="wire"/>
+<line x1="696" y1="712" x2="696" y2="716" class="wire"/>
+<path d="M691 716 H701 L696 725 Z M690 726 H702" class="wire"/>
+<line x1="696" y1="726" x2="696" y2="739" class="wire"/>
+<circle cx="696" cy="739" r="2.5" fill="#26384c"/>
+<text x="708" y="775" class="note">Sol5</text>
+<circle cx="677" cy="752" r="2.5" fill="#26384c"/>
+<line x1="677" y1="752" x2="696" y2="752" class="wire"/>
+<line x1="696" y1="752" x2="696" y2="759" class="wire"/>
+<circle cx="696" cy="760" r="1.8" fill="white" stroke="#26384c"/><circle cx="696" cy="770" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="696" y1="760" x2="703" y2="768" class="wire"/>
+<line x1="696" y1="772" x2="696" y2="776" class="wire"/>
+<path d="M691 776 H701 L696 785 Z M690 786 H702" class="wire"/>
+<line x1="696" y1="786" x2="696" y2="799" class="wire"/>
+<circle cx="696" cy="799" r="2.5" fill="#26384c"/>
+<text x="756" y="301" class="bold">C7</text>
+<text x="756" y="319" class="">D12</text>
+<line x1="764" y1="327" x2="764" y2="766" class="col"/>
+<text x="795" y="355" class="note">Do1</text>
+<circle cx="764" cy="332" r="2.5" fill="#26384c"/>
+<line x1="764" y1="332" x2="783" y2="332" class="wire"/>
+<line x1="783" y1="332" x2="783" y2="339" class="wire"/>
+<circle cx="783" cy="340" r="1.8" fill="white" stroke="#26384c"/><circle cx="783" cy="350" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="783" y1="340" x2="790" y2="348" class="wire"/>
+<line x1="783" y1="352" x2="783" y2="356" class="wire"/>
+<path d="M778 356 H788 L783 365 Z M777 366 H789" class="wire"/>
+<line x1="783" y1="366" x2="783" y2="379" class="wire"/>
+<circle cx="783" cy="379" r="2.5" fill="#26384c"/>
+<text x="795" y="415" class="note">Do♯1</text>
+<circle cx="764" cy="392" r="2.5" fill="#26384c"/>
+<line x1="764" y1="392" x2="783" y2="392" class="wire"/>
+<line x1="783" y1="392" x2="783" y2="399" class="wire"/>
+<circle cx="783" cy="400" r="1.8" fill="white" stroke="#26384c"/><circle cx="783" cy="410" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="783" y1="400" x2="790" y2="408" class="wire"/>
+<line x1="783" y1="412" x2="783" y2="416" class="wire"/>
+<path d="M778 416 H788 L783 425 Z M777 426 H789" class="wire"/>
+<line x1="783" y1="426" x2="783" y2="439" class="wire"/>
+<circle cx="783" cy="439" r="2.5" fill="#26384c"/>
+<text x="795" y="475" class="note">Re1</text>
+<circle cx="764" cy="452" r="2.5" fill="#26384c"/>
+<line x1="764" y1="452" x2="783" y2="452" class="wire"/>
+<line x1="783" y1="452" x2="783" y2="459" class="wire"/>
+<circle cx="783" cy="460" r="1.8" fill="white" stroke="#26384c"/><circle cx="783" cy="470" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="783" y1="460" x2="790" y2="468" class="wire"/>
+<line x1="783" y1="472" x2="783" y2="476" class="wire"/>
+<path d="M778 476 H788 L783 485 Z M777 486 H789" class="wire"/>
+<line x1="783" y1="486" x2="783" y2="499" class="wire"/>
+<circle cx="783" cy="499" r="2.5" fill="#26384c"/>
+<text x="795" y="535" class="note">Re♯1</text>
+<circle cx="764" cy="512" r="2.5" fill="#26384c"/>
+<line x1="764" y1="512" x2="783" y2="512" class="wire"/>
+<line x1="783" y1="512" x2="783" y2="519" class="wire"/>
+<circle cx="783" cy="520" r="1.8" fill="white" stroke="#26384c"/><circle cx="783" cy="530" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="783" y1="520" x2="790" y2="528" class="wire"/>
+<line x1="783" y1="532" x2="783" y2="536" class="wire"/>
+<path d="M778 536 H788 L783 545 Z M777 546 H789" class="wire"/>
+<line x1="783" y1="546" x2="783" y2="559" class="wire"/>
+<circle cx="783" cy="559" r="2.5" fill="#26384c"/>
+<text x="795" y="595" class="note">Mi1</text>
+<circle cx="764" cy="572" r="2.5" fill="#26384c"/>
+<line x1="764" y1="572" x2="783" y2="572" class="wire"/>
+<line x1="783" y1="572" x2="783" y2="579" class="wire"/>
+<circle cx="783" cy="580" r="1.8" fill="white" stroke="#26384c"/><circle cx="783" cy="590" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="783" y1="580" x2="790" y2="588" class="wire"/>
+<line x1="783" y1="592" x2="783" y2="596" class="wire"/>
+<path d="M778 596 H788 L783 605 Z M777 606 H789" class="wire"/>
+<line x1="783" y1="606" x2="783" y2="619" class="wire"/>
+<circle cx="783" cy="619" r="2.5" fill="#26384c"/>
+<text x="795" y="655" class="note">Fa1</text>
+<circle cx="764" cy="632" r="2.5" fill="#26384c"/>
+<line x1="764" y1="632" x2="783" y2="632" class="wire"/>
+<line x1="783" y1="632" x2="783" y2="639" class="wire"/>
+<circle cx="783" cy="640" r="1.8" fill="white" stroke="#26384c"/><circle cx="783" cy="650" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="783" y1="640" x2="790" y2="648" class="wire"/>
+<line x1="783" y1="652" x2="783" y2="656" class="wire"/>
+<path d="M778 656 H788 L783 665 Z M777 666 H789" class="wire"/>
+<line x1="783" y1="666" x2="783" y2="679" class="wire"/>
+<circle cx="783" cy="679" r="2.5" fill="#26384c"/>
+<text x="795" y="715" class="note">Fa♯1</text>
+<circle cx="764" cy="692" r="2.5" fill="#26384c"/>
+<line x1="764" y1="692" x2="783" y2="692" class="wire"/>
+<line x1="783" y1="692" x2="783" y2="699" class="wire"/>
+<circle cx="783" cy="700" r="1.8" fill="white" stroke="#26384c"/><circle cx="783" cy="710" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="783" y1="700" x2="790" y2="708" class="wire"/>
+<line x1="783" y1="712" x2="783" y2="716" class="wire"/>
+<path d="M778 716 H788 L783 725 Z M777 726 H789" class="wire"/>
+<line x1="783" y1="726" x2="783" y2="739" class="wire"/>
+<circle cx="783" cy="739" r="2.5" fill="#26384c"/>
+<text x="795" y="775" class="note">Sol1</text>
+<circle cx="764" cy="752" r="2.5" fill="#26384c"/>
+<line x1="764" y1="752" x2="783" y2="752" class="wire"/>
+<line x1="783" y1="752" x2="783" y2="759" class="wire"/>
+<circle cx="783" cy="760" r="1.8" fill="white" stroke="#26384c"/><circle cx="783" cy="770" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="783" y1="760" x2="790" y2="768" class="wire"/>
+<line x1="783" y1="772" x2="783" y2="776" class="wire"/>
+<path d="M778 776 H788 L783 785 Z M777 786 H789" class="wire"/>
+<line x1="783" y1="786" x2="783" y2="799" class="wire"/>
+<circle cx="783" cy="799" r="2.5" fill="#26384c"/>
+<text x="843" y="301" class="bold">C8</text>
+<text x="843" y="319" class="">A0</text>
+<line x1="851" y1="327" x2="851" y2="766" class="col"/>
+<text x="882" y="355" class="note">Sol♯1</text>
+<circle cx="851" cy="332" r="2.5" fill="#26384c"/>
+<line x1="851" y1="332" x2="870" y2="332" class="wire"/>
+<line x1="870" y1="332" x2="870" y2="339" class="wire"/>
+<circle cx="870" cy="340" r="1.8" fill="white" stroke="#26384c"/><circle cx="870" cy="350" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="870" y1="340" x2="877" y2="348" class="wire"/>
+<line x1="870" y1="352" x2="870" y2="356" class="wire"/>
+<path d="M865 356 H875 L870 365 Z M864 366 H876" class="wire"/>
+<line x1="870" y1="366" x2="870" y2="379" class="wire"/>
+<circle cx="870" cy="379" r="2.5" fill="#26384c"/>
+<text x="882" y="415" class="note">La1</text>
+<circle cx="851" cy="392" r="2.5" fill="#26384c"/>
+<line x1="851" y1="392" x2="870" y2="392" class="wire"/>
+<line x1="870" y1="392" x2="870" y2="399" class="wire"/>
+<circle cx="870" cy="400" r="1.8" fill="white" stroke="#26384c"/><circle cx="870" cy="410" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="870" y1="400" x2="877" y2="408" class="wire"/>
+<line x1="870" y1="412" x2="870" y2="416" class="wire"/>
+<path d="M865 416 H875 L870 425 Z M864 426 H876" class="wire"/>
+<line x1="870" y1="426" x2="870" y2="439" class="wire"/>
+<circle cx="870" cy="439" r="2.5" fill="#26384c"/>
+<text x="882" y="475" class="note">La♯1</text>
+<circle cx="851" cy="452" r="2.5" fill="#26384c"/>
+<line x1="851" y1="452" x2="870" y2="452" class="wire"/>
+<line x1="870" y1="452" x2="870" y2="459" class="wire"/>
+<circle cx="870" cy="460" r="1.8" fill="white" stroke="#26384c"/><circle cx="870" cy="470" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="870" y1="460" x2="877" y2="468" class="wire"/>
+<line x1="870" y1="472" x2="870" y2="476" class="wire"/>
+<path d="M865 476 H875 L870 485 Z M864 486 H876" class="wire"/>
+<line x1="870" y1="486" x2="870" y2="499" class="wire"/>
+<circle cx="870" cy="499" r="2.5" fill="#26384c"/>
+<text x="882" y="535" class="note">Si1</text>
+<circle cx="851" cy="512" r="2.5" fill="#26384c"/>
+<line x1="851" y1="512" x2="870" y2="512" class="wire"/>
+<line x1="870" y1="512" x2="870" y2="519" class="wire"/>
+<circle cx="870" cy="520" r="1.8" fill="white" stroke="#26384c"/><circle cx="870" cy="530" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="870" y1="520" x2="877" y2="528" class="wire"/>
+<line x1="870" y1="532" x2="870" y2="536" class="wire"/>
+<path d="M865 536 H875 L870 545 Z M864 546 H876" class="wire"/>
+<line x1="870" y1="546" x2="870" y2="559" class="wire"/>
+<circle cx="870" cy="559" r="2.5" fill="#26384c"/>
+<text x="882" y="595" class="note">Do2</text>
+<circle cx="851" cy="572" r="2.5" fill="#26384c"/>
+<line x1="851" y1="572" x2="870" y2="572" class="wire"/>
+<line x1="870" y1="572" x2="870" y2="579" class="wire"/>
+<circle cx="870" cy="580" r="1.8" fill="white" stroke="#26384c"/><circle cx="870" cy="590" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="870" y1="580" x2="877" y2="588" class="wire"/>
+<line x1="870" y1="592" x2="870" y2="596" class="wire"/>
+<path d="M865 596 H875 L870 605 Z M864 606 H876" class="wire"/>
+<line x1="870" y1="606" x2="870" y2="619" class="wire"/>
+<circle cx="870" cy="619" r="2.5" fill="#26384c"/>
+<text x="882" y="655" class="note">Do♯2</text>
+<circle cx="851" cy="632" r="2.5" fill="#26384c"/>
+<line x1="851" y1="632" x2="870" y2="632" class="wire"/>
+<line x1="870" y1="632" x2="870" y2="639" class="wire"/>
+<circle cx="870" cy="640" r="1.8" fill="white" stroke="#26384c"/><circle cx="870" cy="650" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="870" y1="640" x2="877" y2="648" class="wire"/>
+<line x1="870" y1="652" x2="870" y2="656" class="wire"/>
+<path d="M865 656 H875 L870 665 Z M864 666 H876" class="wire"/>
+<line x1="870" y1="666" x2="870" y2="679" class="wire"/>
+<circle cx="870" cy="679" r="2.5" fill="#26384c"/>
+<text x="882" y="715" class="note">Re2</text>
+<circle cx="851" cy="692" r="2.5" fill="#26384c"/>
+<line x1="851" y1="692" x2="870" y2="692" class="wire"/>
+<line x1="870" y1="692" x2="870" y2="699" class="wire"/>
+<circle cx="870" cy="700" r="1.8" fill="white" stroke="#26384c"/><circle cx="870" cy="710" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="870" y1="700" x2="877" y2="708" class="wire"/>
+<line x1="870" y1="712" x2="870" y2="716" class="wire"/>
+<path d="M865 716 H875 L870 725 Z M864 726 H876" class="wire"/>
+<line x1="870" y1="726" x2="870" y2="739" class="wire"/>
+<circle cx="870" cy="739" r="2.5" fill="#26384c"/>
+<text x="882" y="775" class="note">Re♯2</text>
+<circle cx="851" cy="752" r="2.5" fill="#26384c"/>
+<line x1="851" y1="752" x2="870" y2="752" class="wire"/>
+<line x1="870" y1="752" x2="870" y2="759" class="wire"/>
+<circle cx="870" cy="760" r="1.8" fill="white" stroke="#26384c"/><circle cx="870" cy="770" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="870" y1="760" x2="877" y2="768" class="wire"/>
+<line x1="870" y1="772" x2="870" y2="776" class="wire"/>
+<path d="M865 776 H875 L870 785 Z M864 786 H876" class="wire"/>
+<line x1="870" y1="786" x2="870" y2="799" class="wire"/>
+<circle cx="870" cy="799" r="2.5" fill="#26384c"/>
+<text x="930" y="301" class="bold">C9</text>
+<text x="930" y="319" class="">A1</text>
+<line x1="938" y1="327" x2="938" y2="766" class="col"/>
+<text x="969" y="355" class="note">Mi2</text>
+<circle cx="938" cy="332" r="2.5" fill="#26384c"/>
+<line x1="938" y1="332" x2="957" y2="332" class="wire"/>
+<line x1="957" y1="332" x2="957" y2="339" class="wire"/>
+<circle cx="957" cy="340" r="1.8" fill="white" stroke="#26384c"/><circle cx="957" cy="350" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="957" y1="340" x2="964" y2="348" class="wire"/>
+<line x1="957" y1="352" x2="957" y2="356" class="wire"/>
+<path d="M952 356 H962 L957 365 Z M951 366 H963" class="wire"/>
+<line x1="957" y1="366" x2="957" y2="379" class="wire"/>
+<circle cx="957" cy="379" r="2.5" fill="#26384c"/>
+<text x="969" y="415" class="note">Fa2</text>
+<circle cx="938" cy="392" r="2.5" fill="#26384c"/>
+<line x1="938" y1="392" x2="957" y2="392" class="wire"/>
+<line x1="957" y1="392" x2="957" y2="399" class="wire"/>
+<circle cx="957" cy="400" r="1.8" fill="white" stroke="#26384c"/><circle cx="957" cy="410" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="957" y1="400" x2="964" y2="408" class="wire"/>
+<line x1="957" y1="412" x2="957" y2="416" class="wire"/>
+<path d="M952 416 H962 L957 425 Z M951 426 H963" class="wire"/>
+<line x1="957" y1="426" x2="957" y2="439" class="wire"/>
+<circle cx="957" cy="439" r="2.5" fill="#26384c"/>
+<text x="969" y="475" class="note">Fa♯2</text>
+<circle cx="938" cy="452" r="2.5" fill="#26384c"/>
+<line x1="938" y1="452" x2="957" y2="452" class="wire"/>
+<line x1="957" y1="452" x2="957" y2="459" class="wire"/>
+<circle cx="957" cy="460" r="1.8" fill="white" stroke="#26384c"/><circle cx="957" cy="470" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="957" y1="460" x2="964" y2="468" class="wire"/>
+<line x1="957" y1="472" x2="957" y2="476" class="wire"/>
+<path d="M952 476 H962 L957 485 Z M951 486 H963" class="wire"/>
+<line x1="957" y1="486" x2="957" y2="499" class="wire"/>
+<circle cx="957" cy="499" r="2.5" fill="#26384c"/>
+<text x="969" y="535" class="note">Sol2</text>
+<circle cx="938" cy="512" r="2.5" fill="#26384c"/>
+<line x1="938" y1="512" x2="957" y2="512" class="wire"/>
+<line x1="957" y1="512" x2="957" y2="519" class="wire"/>
+<circle cx="957" cy="520" r="1.8" fill="white" stroke="#26384c"/><circle cx="957" cy="530" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="957" y1="520" x2="964" y2="528" class="wire"/>
+<line x1="957" y1="532" x2="957" y2="536" class="wire"/>
+<path d="M952 536 H962 L957 545 Z M951 546 H963" class="wire"/>
+<line x1="957" y1="546" x2="957" y2="559" class="wire"/>
+<circle cx="957" cy="559" r="2.5" fill="#26384c"/>
+<text x="969" y="595" class="note">Sol♯2</text>
+<circle cx="938" cy="572" r="2.5" fill="#26384c"/>
+<line x1="938" y1="572" x2="957" y2="572" class="wire"/>
+<line x1="957" y1="572" x2="957" y2="579" class="wire"/>
+<circle cx="957" cy="580" r="1.8" fill="white" stroke="#26384c"/><circle cx="957" cy="590" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="957" y1="580" x2="964" y2="588" class="wire"/>
+<line x1="957" y1="592" x2="957" y2="596" class="wire"/>
+<path d="M952 596 H962 L957 605 Z M951 606 H963" class="wire"/>
+<line x1="957" y1="606" x2="957" y2="619" class="wire"/>
+<circle cx="957" cy="619" r="2.5" fill="#26384c"/>
+<text x="969" y="655" class="note">La2</text>
+<circle cx="938" cy="632" r="2.5" fill="#26384c"/>
+<line x1="938" y1="632" x2="957" y2="632" class="wire"/>
+<line x1="957" y1="632" x2="957" y2="639" class="wire"/>
+<circle cx="957" cy="640" r="1.8" fill="white" stroke="#26384c"/><circle cx="957" cy="650" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="957" y1="640" x2="964" y2="648" class="wire"/>
+<line x1="957" y1="652" x2="957" y2="656" class="wire"/>
+<path d="M952 656 H962 L957 665 Z M951 666 H963" class="wire"/>
+<line x1="957" y1="666" x2="957" y2="679" class="wire"/>
+<circle cx="957" cy="679" r="2.5" fill="#26384c"/>
+<text x="969" y="715" class="note">La♯2</text>
+<circle cx="938" cy="692" r="2.5" fill="#26384c"/>
+<line x1="938" y1="692" x2="957" y2="692" class="wire"/>
+<line x1="957" y1="692" x2="957" y2="699" class="wire"/>
+<circle cx="957" cy="700" r="1.8" fill="white" stroke="#26384c"/><circle cx="957" cy="710" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="957" y1="700" x2="964" y2="708" class="wire"/>
+<line x1="957" y1="712" x2="957" y2="716" class="wire"/>
+<path d="M952 716 H962 L957 725 Z M951 726 H963" class="wire"/>
+<line x1="957" y1="726" x2="957" y2="739" class="wire"/>
+<circle cx="957" cy="739" r="2.5" fill="#26384c"/>
+<text x="969" y="775" class="note">Si2</text>
+<circle cx="938" cy="752" r="2.5" fill="#26384c"/>
+<line x1="938" y1="752" x2="957" y2="752" class="wire"/>
+<line x1="957" y1="752" x2="957" y2="759" class="wire"/>
+<circle cx="957" cy="760" r="1.8" fill="white" stroke="#26384c"/><circle cx="957" cy="770" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="957" y1="760" x2="964" y2="768" class="wire"/>
+<line x1="957" y1="772" x2="957" y2="776" class="wire"/>
+<path d="M952 776 H962 L957 785 Z M951 786 H963" class="wire"/>
+<line x1="957" y1="786" x2="957" y2="799" class="wire"/>
+<circle cx="957" cy="799" r="2.5" fill="#26384c"/>
+<text x="1017" y="301" class="bold">C10</text>
+<text x="1017" y="319" class="">A2</text>
+<line x1="1025" y1="327" x2="1025" y2="766" class="col"/>
+<text x="1056" y="355" class="note">Do3</text>
+<circle cx="1025" cy="332" r="2.5" fill="#26384c"/>
+<line x1="1025" y1="332" x2="1044" y2="332" class="wire"/>
+<line x1="1044" y1="332" x2="1044" y2="339" class="wire"/>
+<circle cx="1044" cy="340" r="1.8" fill="white" stroke="#26384c"/><circle cx="1044" cy="350" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1044" y1="340" x2="1051" y2="348" class="wire"/>
+<line x1="1044" y1="352" x2="1044" y2="356" class="wire"/>
+<path d="M1039 356 H1049 L1044 365 Z M1038 366 H1050" class="wire"/>
+<line x1="1044" y1="366" x2="1044" y2="379" class="wire"/>
+<circle cx="1044" cy="379" r="2.5" fill="#26384c"/>
+<text x="1056" y="415" class="note">Do♯3</text>
+<circle cx="1025" cy="392" r="2.5" fill="#26384c"/>
+<line x1="1025" y1="392" x2="1044" y2="392" class="wire"/>
+<line x1="1044" y1="392" x2="1044" y2="399" class="wire"/>
+<circle cx="1044" cy="400" r="1.8" fill="white" stroke="#26384c"/><circle cx="1044" cy="410" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1044" y1="400" x2="1051" y2="408" class="wire"/>
+<line x1="1044" y1="412" x2="1044" y2="416" class="wire"/>
+<path d="M1039 416 H1049 L1044 425 Z M1038 426 H1050" class="wire"/>
+<line x1="1044" y1="426" x2="1044" y2="439" class="wire"/>
+<circle cx="1044" cy="439" r="2.5" fill="#26384c"/>
+<text x="1056" y="475" class="note">Re3</text>
+<circle cx="1025" cy="452" r="2.5" fill="#26384c"/>
+<line x1="1025" y1="452" x2="1044" y2="452" class="wire"/>
+<line x1="1044" y1="452" x2="1044" y2="459" class="wire"/>
+<circle cx="1044" cy="460" r="1.8" fill="white" stroke="#26384c"/><circle cx="1044" cy="470" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1044" y1="460" x2="1051" y2="468" class="wire"/>
+<line x1="1044" y1="472" x2="1044" y2="476" class="wire"/>
+<path d="M1039 476 H1049 L1044 485 Z M1038 486 H1050" class="wire"/>
+<line x1="1044" y1="486" x2="1044" y2="499" class="wire"/>
+<circle cx="1044" cy="499" r="2.5" fill="#26384c"/>
+<text x="1056" y="535" class="note">Re♯3</text>
+<circle cx="1025" cy="512" r="2.5" fill="#26384c"/>
+<line x1="1025" y1="512" x2="1044" y2="512" class="wire"/>
+<line x1="1044" y1="512" x2="1044" y2="519" class="wire"/>
+<circle cx="1044" cy="520" r="1.8" fill="white" stroke="#26384c"/><circle cx="1044" cy="530" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1044" y1="520" x2="1051" y2="528" class="wire"/>
+<line x1="1044" y1="532" x2="1044" y2="536" class="wire"/>
+<path d="M1039 536 H1049 L1044 545 Z M1038 546 H1050" class="wire"/>
+<line x1="1044" y1="546" x2="1044" y2="559" class="wire"/>
+<circle cx="1044" cy="559" r="2.5" fill="#26384c"/>
+<text x="1056" y="595" class="note">Mi3</text>
+<circle cx="1025" cy="572" r="2.5" fill="#26384c"/>
+<line x1="1025" y1="572" x2="1044" y2="572" class="wire"/>
+<line x1="1044" y1="572" x2="1044" y2="579" class="wire"/>
+<circle cx="1044" cy="580" r="1.8" fill="white" stroke="#26384c"/><circle cx="1044" cy="590" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1044" y1="580" x2="1051" y2="588" class="wire"/>
+<line x1="1044" y1="592" x2="1044" y2="596" class="wire"/>
+<path d="M1039 596 H1049 L1044 605 Z M1038 606 H1050" class="wire"/>
+<line x1="1044" y1="606" x2="1044" y2="619" class="wire"/>
+<circle cx="1044" cy="619" r="2.5" fill="#26384c"/>
+<text x="1056" y="655" class="note">Fa3</text>
+<circle cx="1025" cy="632" r="2.5" fill="#26384c"/>
+<line x1="1025" y1="632" x2="1044" y2="632" class="wire"/>
+<line x1="1044" y1="632" x2="1044" y2="639" class="wire"/>
+<circle cx="1044" cy="640" r="1.8" fill="white" stroke="#26384c"/><circle cx="1044" cy="650" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1044" y1="640" x2="1051" y2="648" class="wire"/>
+<line x1="1044" y1="652" x2="1044" y2="656" class="wire"/>
+<path d="M1039 656 H1049 L1044 665 Z M1038 666 H1050" class="wire"/>
+<line x1="1044" y1="666" x2="1044" y2="679" class="wire"/>
+<circle cx="1044" cy="679" r="2.5" fill="#26384c"/>
+<text x="1056" y="715" class="note">Fa♯3</text>
+<circle cx="1025" cy="692" r="2.5" fill="#26384c"/>
+<line x1="1025" y1="692" x2="1044" y2="692" class="wire"/>
+<line x1="1044" y1="692" x2="1044" y2="699" class="wire"/>
+<circle cx="1044" cy="700" r="1.8" fill="white" stroke="#26384c"/><circle cx="1044" cy="710" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1044" y1="700" x2="1051" y2="708" class="wire"/>
+<line x1="1044" y1="712" x2="1044" y2="716" class="wire"/>
+<path d="M1039 716 H1049 L1044 725 Z M1038 726 H1050" class="wire"/>
+<line x1="1044" y1="726" x2="1044" y2="739" class="wire"/>
+<circle cx="1044" cy="739" r="2.5" fill="#26384c"/>
+<text x="1056" y="775" class="note">Sol3</text>
+<circle cx="1025" cy="752" r="2.5" fill="#26384c"/>
+<line x1="1025" y1="752" x2="1044" y2="752" class="wire"/>
+<line x1="1044" y1="752" x2="1044" y2="759" class="wire"/>
+<circle cx="1044" cy="760" r="1.8" fill="white" stroke="#26384c"/><circle cx="1044" cy="770" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1044" y1="760" x2="1051" y2="768" class="wire"/>
+<line x1="1044" y1="772" x2="1044" y2="776" class="wire"/>
+<path d="M1039 776 H1049 L1044 785 Z M1038 786 H1050" class="wire"/>
+<line x1="1044" y1="786" x2="1044" y2="799" class="wire"/>
+<circle cx="1044" cy="799" r="2.5" fill="#26384c"/>
+<text x="1104" y="301" class="bold">C11</text>
+<text x="1104" y="319" class="">A3</text>
+<line x1="1112" y1="327" x2="1112" y2="766" class="col"/>
+<text x="1143" y="355" class="note">Sol♯3</text>
+<circle cx="1112" cy="332" r="2.5" fill="#26384c"/>
+<line x1="1112" y1="332" x2="1131" y2="332" class="wire"/>
+<line x1="1131" y1="332" x2="1131" y2="339" class="wire"/>
+<circle cx="1131" cy="340" r="1.8" fill="white" stroke="#26384c"/><circle cx="1131" cy="350" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1131" y1="340" x2="1138" y2="348" class="wire"/>
+<line x1="1131" y1="352" x2="1131" y2="356" class="wire"/>
+<path d="M1126 356 H1136 L1131 365 Z M1125 366 H1137" class="wire"/>
+<line x1="1131" y1="366" x2="1131" y2="379" class="wire"/>
+<circle cx="1131" cy="379" r="2.5" fill="#26384c"/>
+<text x="1143" y="415" class="note">La3</text>
+<circle cx="1112" cy="392" r="2.5" fill="#26384c"/>
+<line x1="1112" y1="392" x2="1131" y2="392" class="wire"/>
+<line x1="1131" y1="392" x2="1131" y2="399" class="wire"/>
+<circle cx="1131" cy="400" r="1.8" fill="white" stroke="#26384c"/><circle cx="1131" cy="410" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1131" y1="400" x2="1138" y2="408" class="wire"/>
+<line x1="1131" y1="412" x2="1131" y2="416" class="wire"/>
+<path d="M1126 416 H1136 L1131 425 Z M1125 426 H1137" class="wire"/>
+<line x1="1131" y1="426" x2="1131" y2="439" class="wire"/>
+<circle cx="1131" cy="439" r="2.5" fill="#26384c"/>
+<text x="1143" y="475" class="note">La♯3</text>
+<circle cx="1112" cy="452" r="2.5" fill="#26384c"/>
+<line x1="1112" y1="452" x2="1131" y2="452" class="wire"/>
+<line x1="1131" y1="452" x2="1131" y2="459" class="wire"/>
+<circle cx="1131" cy="460" r="1.8" fill="white" stroke="#26384c"/><circle cx="1131" cy="470" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1131" y1="460" x2="1138" y2="468" class="wire"/>
+<line x1="1131" y1="472" x2="1131" y2="476" class="wire"/>
+<path d="M1126 476 H1136 L1131 485 Z M1125 486 H1137" class="wire"/>
+<line x1="1131" y1="486" x2="1131" y2="499" class="wire"/>
+<circle cx="1131" cy="499" r="2.5" fill="#26384c"/>
+<text x="1143" y="535" class="note">Si3</text>
+<circle cx="1112" cy="512" r="2.5" fill="#26384c"/>
+<line x1="1112" y1="512" x2="1131" y2="512" class="wire"/>
+<line x1="1131" y1="512" x2="1131" y2="519" class="wire"/>
+<circle cx="1131" cy="520" r="1.8" fill="white" stroke="#26384c"/><circle cx="1131" cy="530" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1131" y1="520" x2="1138" y2="528" class="wire"/>
+<line x1="1131" y1="532" x2="1131" y2="536" class="wire"/>
+<path d="M1126 536 H1136 L1131 545 Z M1125 546 H1137" class="wire"/>
+<line x1="1131" y1="546" x2="1131" y2="559" class="wire"/>
+<circle cx="1131" cy="559" r="2.5" fill="#26384c"/>
+<text x="1143" y="595" class="note">Do4</text>
+<circle cx="1112" cy="572" r="2.5" fill="#26384c"/>
+<line x1="1112" y1="572" x2="1131" y2="572" class="wire"/>
+<line x1="1131" y1="572" x2="1131" y2="579" class="wire"/>
+<circle cx="1131" cy="580" r="1.8" fill="white" stroke="#26384c"/><circle cx="1131" cy="590" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1131" y1="580" x2="1138" y2="588" class="wire"/>
+<line x1="1131" y1="592" x2="1131" y2="596" class="wire"/>
+<path d="M1126 596 H1136 L1131 605 Z M1125 606 H1137" class="wire"/>
+<line x1="1131" y1="606" x2="1131" y2="619" class="wire"/>
+<circle cx="1131" cy="619" r="2.5" fill="#26384c"/>
+<text x="1143" y="655" class="note">Do♯4</text>
+<circle cx="1112" cy="632" r="2.5" fill="#26384c"/>
+<line x1="1112" y1="632" x2="1131" y2="632" class="wire"/>
+<line x1="1131" y1="632" x2="1131" y2="639" class="wire"/>
+<circle cx="1131" cy="640" r="1.8" fill="white" stroke="#26384c"/><circle cx="1131" cy="650" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1131" y1="640" x2="1138" y2="648" class="wire"/>
+<line x1="1131" y1="652" x2="1131" y2="656" class="wire"/>
+<path d="M1126 656 H1136 L1131 665 Z M1125 666 H1137" class="wire"/>
+<line x1="1131" y1="666" x2="1131" y2="679" class="wire"/>
+<circle cx="1131" cy="679" r="2.5" fill="#26384c"/>
+<text x="1143" y="715" class="note">Re4</text>
+<circle cx="1112" cy="692" r="2.5" fill="#26384c"/>
+<line x1="1112" y1="692" x2="1131" y2="692" class="wire"/>
+<line x1="1131" y1="692" x2="1131" y2="699" class="wire"/>
+<circle cx="1131" cy="700" r="1.8" fill="white" stroke="#26384c"/><circle cx="1131" cy="710" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1131" y1="700" x2="1138" y2="708" class="wire"/>
+<line x1="1131" y1="712" x2="1131" y2="716" class="wire"/>
+<path d="M1126 716 H1136 L1131 725 Z M1125 726 H1137" class="wire"/>
+<line x1="1131" y1="726" x2="1131" y2="739" class="wire"/>
+<circle cx="1131" cy="739" r="2.5" fill="#26384c"/>
+<text x="1143" y="775" class="note">Re♯4</text>
+<circle cx="1112" cy="752" r="2.5" fill="#26384c"/>
+<line x1="1112" y1="752" x2="1131" y2="752" class="wire"/>
+<line x1="1131" y1="752" x2="1131" y2="759" class="wire"/>
+<circle cx="1131" cy="760" r="1.8" fill="white" stroke="#26384c"/><circle cx="1131" cy="770" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1131" y1="760" x2="1138" y2="768" class="wire"/>
+<line x1="1131" y1="772" x2="1131" y2="776" class="wire"/>
+<path d="M1126 776 H1136 L1131 785 Z M1125 786 H1137" class="wire"/>
+<line x1="1131" y1="786" x2="1131" y2="799" class="wire"/>
+<circle cx="1131" cy="799" r="2.5" fill="#26384c"/>
+<text x="1191" y="301" class="bold">C12</text>
+<text x="1191" y="319" class="">A4</text>
+<line x1="1199" y1="327" x2="1199" y2="766" class="col"/>
+<text x="1230" y="355" class="note">Mi4</text>
+<circle cx="1199" cy="332" r="2.5" fill="#26384c"/>
+<line x1="1199" y1="332" x2="1218" y2="332" class="wire"/>
+<line x1="1218" y1="332" x2="1218" y2="339" class="wire"/>
+<circle cx="1218" cy="340" r="1.8" fill="white" stroke="#26384c"/><circle cx="1218" cy="350" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1218" y1="340" x2="1225" y2="348" class="wire"/>
+<line x1="1218" y1="352" x2="1218" y2="356" class="wire"/>
+<path d="M1213 356 H1223 L1218 365 Z M1212 366 H1224" class="wire"/>
+<line x1="1218" y1="366" x2="1218" y2="379" class="wire"/>
+<circle cx="1218" cy="379" r="2.5" fill="#26384c"/>
+<text x="1230" y="415" class="note">Fa4</text>
+<circle cx="1199" cy="392" r="2.5" fill="#26384c"/>
+<line x1="1199" y1="392" x2="1218" y2="392" class="wire"/>
+<line x1="1218" y1="392" x2="1218" y2="399" class="wire"/>
+<circle cx="1218" cy="400" r="1.8" fill="white" stroke="#26384c"/><circle cx="1218" cy="410" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1218" y1="400" x2="1225" y2="408" class="wire"/>
+<line x1="1218" y1="412" x2="1218" y2="416" class="wire"/>
+<path d="M1213 416 H1223 L1218 425 Z M1212 426 H1224" class="wire"/>
+<line x1="1218" y1="426" x2="1218" y2="439" class="wire"/>
+<circle cx="1218" cy="439" r="2.5" fill="#26384c"/>
+<text x="1230" y="475" class="note">Fa♯4</text>
+<circle cx="1199" cy="452" r="2.5" fill="#26384c"/>
+<line x1="1199" y1="452" x2="1218" y2="452" class="wire"/>
+<line x1="1218" y1="452" x2="1218" y2="459" class="wire"/>
+<circle cx="1218" cy="460" r="1.8" fill="white" stroke="#26384c"/><circle cx="1218" cy="470" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1218" y1="460" x2="1225" y2="468" class="wire"/>
+<line x1="1218" y1="472" x2="1218" y2="476" class="wire"/>
+<path d="M1213 476 H1223 L1218 485 Z M1212 486 H1224" class="wire"/>
+<line x1="1218" y1="486" x2="1218" y2="499" class="wire"/>
+<circle cx="1218" cy="499" r="2.5" fill="#26384c"/>
+<text x="1230" y="535" class="note">Sol4</text>
+<circle cx="1199" cy="512" r="2.5" fill="#26384c"/>
+<line x1="1199" y1="512" x2="1218" y2="512" class="wire"/>
+<line x1="1218" y1="512" x2="1218" y2="519" class="wire"/>
+<circle cx="1218" cy="520" r="1.8" fill="white" stroke="#26384c"/><circle cx="1218" cy="530" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1218" y1="520" x2="1225" y2="528" class="wire"/>
+<line x1="1218" y1="532" x2="1218" y2="536" class="wire"/>
+<path d="M1213 536 H1223 L1218 545 Z M1212 546 H1224" class="wire"/>
+<line x1="1218" y1="546" x2="1218" y2="559" class="wire"/>
+<circle cx="1218" cy="559" r="2.5" fill="#26384c"/>
+<text x="1230" y="595" class="note">Sol♯4</text>
+<circle cx="1199" cy="572" r="2.5" fill="#26384c"/>
+<line x1="1199" y1="572" x2="1218" y2="572" class="wire"/>
+<line x1="1218" y1="572" x2="1218" y2="579" class="wire"/>
+<circle cx="1218" cy="580" r="1.8" fill="white" stroke="#26384c"/><circle cx="1218" cy="590" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1218" y1="580" x2="1225" y2="588" class="wire"/>
+<line x1="1218" y1="592" x2="1218" y2="596" class="wire"/>
+<path d="M1213 596 H1223 L1218 605 Z M1212 606 H1224" class="wire"/>
+<line x1="1218" y1="606" x2="1218" y2="619" class="wire"/>
+<circle cx="1218" cy="619" r="2.5" fill="#26384c"/>
+<text x="1230" y="655" class="note">La4</text>
+<circle cx="1199" cy="632" r="2.5" fill="#26384c"/>
+<line x1="1199" y1="632" x2="1218" y2="632" class="wire"/>
+<line x1="1218" y1="632" x2="1218" y2="639" class="wire"/>
+<circle cx="1218" cy="640" r="1.8" fill="white" stroke="#26384c"/><circle cx="1218" cy="650" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1218" y1="640" x2="1225" y2="648" class="wire"/>
+<line x1="1218" y1="652" x2="1218" y2="656" class="wire"/>
+<path d="M1213 656 H1223 L1218 665 Z M1212 666 H1224" class="wire"/>
+<line x1="1218" y1="666" x2="1218" y2="679" class="wire"/>
+<circle cx="1218" cy="679" r="2.5" fill="#26384c"/>
+<text x="1230" y="715" class="note">La♯4</text>
+<circle cx="1199" cy="692" r="2.5" fill="#26384c"/>
+<line x1="1199" y1="692" x2="1218" y2="692" class="wire"/>
+<line x1="1218" y1="692" x2="1218" y2="699" class="wire"/>
+<circle cx="1218" cy="700" r="1.8" fill="white" stroke="#26384c"/><circle cx="1218" cy="710" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1218" y1="700" x2="1225" y2="708" class="wire"/>
+<line x1="1218" y1="712" x2="1218" y2="716" class="wire"/>
+<path d="M1213 716 H1223 L1218 725 Z M1212 726 H1224" class="wire"/>
+<line x1="1218" y1="726" x2="1218" y2="739" class="wire"/>
+<circle cx="1218" cy="739" r="2.5" fill="#26384c"/>
+<text x="1230" y="775" class="note">Si4</text>
+<circle cx="1199" cy="752" r="2.5" fill="#26384c"/>
+<line x1="1199" y1="752" x2="1218" y2="752" class="wire"/>
+<line x1="1218" y1="752" x2="1218" y2="759" class="wire"/>
+<circle cx="1218" cy="760" r="1.8" fill="white" stroke="#26384c"/><circle cx="1218" cy="770" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1218" y1="760" x2="1225" y2="768" class="wire"/>
+<line x1="1218" y1="772" x2="1218" y2="776" class="wire"/>
+<path d="M1213 776 H1223 L1218 785 Z M1212 786 H1224" class="wire"/>
+<line x1="1218" y1="786" x2="1218" y2="799" class="wire"/>
+<circle cx="1218" cy="799" r="2.5" fill="#26384c"/>
+<text x="1278" y="301" class="bold">C13</text>
+<text x="1278" y="319" class="">A5</text>
+<line x1="1286" y1="327" x2="1286" y2="766" class="col"/>
+<text x="1317" y="355" class="note">Do5</text>
+<circle cx="1286" cy="332" r="2.5" fill="#26384c"/>
+<line x1="1286" y1="332" x2="1305" y2="332" class="wire"/>
+<line x1="1305" y1="332" x2="1305" y2="339" class="wire"/>
+<circle cx="1305" cy="340" r="1.8" fill="white" stroke="#26384c"/><circle cx="1305" cy="350" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1305" y1="340" x2="1312" y2="348" class="wire"/>
+<line x1="1305" y1="352" x2="1305" y2="356" class="wire"/>
+<path d="M1300 356 H1310 L1305 365 Z M1299 366 H1311" class="wire"/>
+<line x1="1305" y1="366" x2="1305" y2="379" class="wire"/>
+<circle cx="1305" cy="379" r="2.5" fill="#26384c"/>
+<text x="1317" y="415" class="note">Do♯5</text>
+<circle cx="1286" cy="392" r="2.5" fill="#26384c"/>
+<line x1="1286" y1="392" x2="1305" y2="392" class="wire"/>
+<line x1="1305" y1="392" x2="1305" y2="399" class="wire"/>
+<circle cx="1305" cy="400" r="1.8" fill="white" stroke="#26384c"/><circle cx="1305" cy="410" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1305" y1="400" x2="1312" y2="408" class="wire"/>
+<line x1="1305" y1="412" x2="1305" y2="416" class="wire"/>
+<path d="M1300 416 H1310 L1305 425 Z M1299 426 H1311" class="wire"/>
+<line x1="1305" y1="426" x2="1305" y2="439" class="wire"/>
+<circle cx="1305" cy="439" r="2.5" fill="#26384c"/>
+<text x="1317" y="475" class="note">Re5</text>
+<circle cx="1286" cy="452" r="2.5" fill="#26384c"/>
+<line x1="1286" y1="452" x2="1305" y2="452" class="wire"/>
+<line x1="1305" y1="452" x2="1305" y2="459" class="wire"/>
+<circle cx="1305" cy="460" r="1.8" fill="white" stroke="#26384c"/><circle cx="1305" cy="470" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1305" y1="460" x2="1312" y2="468" class="wire"/>
+<line x1="1305" y1="472" x2="1305" y2="476" class="wire"/>
+<path d="M1300 476 H1310 L1305 485 Z M1299 486 H1311" class="wire"/>
+<line x1="1305" y1="486" x2="1305" y2="499" class="wire"/>
+<circle cx="1305" cy="499" r="2.5" fill="#26384c"/>
+<text x="1317" y="535" class="note">Re♯5</text>
+<circle cx="1286" cy="512" r="2.5" fill="#26384c"/>
+<line x1="1286" y1="512" x2="1305" y2="512" class="wire"/>
+<line x1="1305" y1="512" x2="1305" y2="519" class="wire"/>
+<circle cx="1305" cy="520" r="1.8" fill="white" stroke="#26384c"/><circle cx="1305" cy="530" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1305" y1="520" x2="1312" y2="528" class="wire"/>
+<line x1="1305" y1="532" x2="1305" y2="536" class="wire"/>
+<path d="M1300 536 H1310 L1305 545 Z M1299 546 H1311" class="wire"/>
+<line x1="1305" y1="546" x2="1305" y2="559" class="wire"/>
+<circle cx="1305" cy="559" r="2.5" fill="#26384c"/>
+<text x="1317" y="595" class="note">Mi5</text>
+<circle cx="1286" cy="572" r="2.5" fill="#26384c"/>
+<line x1="1286" y1="572" x2="1305" y2="572" class="wire"/>
+<line x1="1305" y1="572" x2="1305" y2="579" class="wire"/>
+<circle cx="1305" cy="580" r="1.8" fill="white" stroke="#26384c"/><circle cx="1305" cy="590" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1305" y1="580" x2="1312" y2="588" class="wire"/>
+<line x1="1305" y1="592" x2="1305" y2="596" class="wire"/>
+<path d="M1300 596 H1310 L1305 605 Z M1299 606 H1311" class="wire"/>
+<line x1="1305" y1="606" x2="1305" y2="619" class="wire"/>
+<circle cx="1305" cy="619" r="2.5" fill="#26384c"/>
+<text x="1317" y="655" class="note">Fa5</text>
+<circle cx="1286" cy="632" r="2.5" fill="#26384c"/>
+<line x1="1286" y1="632" x2="1305" y2="632" class="wire"/>
+<line x1="1305" y1="632" x2="1305" y2="639" class="wire"/>
+<circle cx="1305" cy="640" r="1.8" fill="white" stroke="#26384c"/><circle cx="1305" cy="650" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1305" y1="640" x2="1312" y2="648" class="wire"/>
+<line x1="1305" y1="652" x2="1305" y2="656" class="wire"/>
+<path d="M1300 656 H1310 L1305 665 Z M1299 666 H1311" class="wire"/>
+<line x1="1305" y1="666" x2="1305" y2="679" class="wire"/>
+<circle cx="1305" cy="679" r="2.5" fill="#26384c"/>
+<text x="1317" y="715" class="note">Fa♯5</text>
+<circle cx="1286" cy="692" r="2.5" fill="#26384c"/>
+<line x1="1286" y1="692" x2="1305" y2="692" class="wire"/>
+<line x1="1305" y1="692" x2="1305" y2="699" class="wire"/>
+<circle cx="1305" cy="700" r="1.8" fill="white" stroke="#26384c"/><circle cx="1305" cy="710" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1305" y1="700" x2="1312" y2="708" class="wire"/>
+<line x1="1305" y1="712" x2="1305" y2="716" class="wire"/>
+<path d="M1300 716 H1310 L1305 725 Z M1299 726 H1311" class="wire"/>
+<line x1="1305" y1="726" x2="1305" y2="739" class="wire"/>
+<circle cx="1305" cy="739" r="2.5" fill="#26384c"/>
+<text x="1317" y="775" class="note">Sol5</text>
+<circle cx="1286" cy="752" r="2.5" fill="#26384c"/>
+<line x1="1286" y1="752" x2="1305" y2="752" class="wire"/>
+<line x1="1305" y1="752" x2="1305" y2="759" class="wire"/>
+<circle cx="1305" cy="760" r="1.8" fill="white" stroke="#26384c"/><circle cx="1305" cy="770" r="1.8" fill="white" stroke="#26384c"/>
+<line x1="1305" y1="760" x2="1312" y2="768" class="wire"/>
+<line x1="1305" y1="772" x2="1305" y2="776" class="wire"/>
+<path d="M1300 776 H1310 L1305 785 Z M1299 786 H1311" class="wire"/>
+<line x1="1305" y1="786" x2="1305" y2="799" class="wire"/>
+<circle cx="1305" cy="799" r="2.5" fill="#26384c"/>
+<text x="39" y="840" class="">Cada contacto y su diodo forman una rama entre su columna C y su fila F.</text>
+<text x="39" y="864" class="">Los números entre paréntesis en F0–F7 son pines físicos del 74HC138. La numeración de las notas empieza en el Do más grave.</text>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="210mm" viewBox="0 0 297 210" role="img" aria-labelledby="title desc">
+<title id="title">P10 · Tapa de tecla sostenida</title>
+<desc id="desc">Planta, perfil lateral y alzado posterior de la tapa trapezoidal para los dos manuales del órgano Mayagua.</desc>
+<defs><marker id="flecha" viewBox="0 0 3 2" markerWidth="3" markerHeight="2" refX="3" refY="1" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0 0L3 1L0 2Z" fill="#285573"/></marker></defs>
+<style>
+text {font-family:Arial,sans-serif;fill:#192c3b}
+.dim {stroke:#285573;stroke-width:.30;fill:none}
+.medida {font-size:3.8px;font-weight:600;fill:#244a64}
+.pieza {stroke:#192c3b;stroke-width:.42;fill:#edf3f6;stroke-linejoin:round}
+.arista {fill:none;stroke:#192c3b;stroke-width:.28}
+</style>
+<rect width="297" height="210" fill="white"/>
+<rect x="8" y="8" width="281" height="194" fill="none" stroke="#a3b6c2" stroke-width=".25"/>
+<text x="16" y="19" font-size="3.4" font-weight="bold" letter-spacing=".6">MAYAGUA / MANUALES</text>
+<text x="16" y="30" font-size="8" font-weight="bold">Tapa de tecla sostenida</text>
+<g id="derechos" font-size="2.9">
+  <text x="16" y="37" font-weight="bold">© Salvador Vera Juárez · 2026 · Todos los derechos reservados</text>
+  <text x="16" y="41">Se requiere autorización escrita para reproducir, distribuir o comercializar estos planos.</text>
+</g>
+<rect x="235" y="15" width="46" height="23.5" rx="1" fill="#edf3f6" stroke="#a3b6c2" stroke-width=".25"/>
+<text x="258" y="22" text-anchor="middle" font-size="3.3" font-weight="bold">NÚMERO DE PARTE</text>
+<text x="258" y="33.5" text-anchor="middle" font-size="8" font-weight="bold">P10</text>
+<path d="M16 44H281 M16 176H281" stroke="#a3b6c2" stroke-width=".25"/>
+<text x="16" y="54" font-size="4" text-anchor="start" class="" font-weight="bold">01  PLANTA</text>
+<polygon class="pieza" points="45.0000,73.0000 205.0000,73.0000 205.0000,95.0000 45.0000,95.0000"/>
+<path class="arista" d="M45.0000,73.0000 L54.1715,75.0000" />
+<path class="arista" d="M45.0000,95.0000 L54.1715,93.0000" />
+<path class="arista" d="M54.1715,75.0000 L54.1715,93.0000" />
+<path class="arista" d="M54.1715,75.0000 L205.0000,75.0000" />
+<path class="arista" d="M54.1715,93.0000 L205.0000,93.0000" />
+<path class="dim" d="M45.0000,73.0000 L45.0000,63.5000" />
+<path class="dim" d="M205.0000,73.0000 L205.0000,63.5000" />
+<path class="dim" d="M45.0000,65.0000 L205.0000,65.0000" marker-start="url(#flecha)" marker-end="url(#flecha)"/>
+<text x="125.0" y="63.5" font-size="3.5" text-anchor="middle" class="medida" >80,00</text>
+<text x="45" y="103" font-size="3.2" text-anchor="start" class="" >Frente</text>
+<text x="205" y="103" font-size="3.2" text-anchor="end" class="" >Parte posterior</text>
+<text x="16" y="119" font-size="4" text-anchor="start" class="" font-weight="bold">02  PERFIL LATERAL</text>
+<polygon class="pieza" points="45.0000,165.0000 45.0000,159.0000 54.1715,141.0000 205.0000,141.0000 205.0000,165.0000"/>
+<path class="dim" d="M45.0000,159.0000 L26.0000,159.0000" />
+<path class="dim" d="M45.0000,165.0000 L26.0000,165.0000" />
+<path class="dim" d="M30.0000,165.0000 L30.0000,159.0000" marker-start="url(#flecha)" marker-end="url(#flecha)"/>
+<text x="26.5" y="163.2" font-size="3.5" text-anchor="end" class="medida" >3,00</text>
+<path class="dim" d="M205.0000,141.0000 L219.5000,141.0000" />
+<path class="dim" d="M205.0000,165.0000 L219.5000,165.0000" />
+<path class="dim" d="M218.0000,141.0000 L218.0000,165.0000" marker-start="url(#flecha)" marker-end="url(#flecha)"/>
+<text x="216.5" y="153.0" font-size="3.5" text-anchor="middle" class="medida" transform="rotate(-90 216.5 153.0)">12,00</text>
+<path class="dim" d="M45.0000,141.0000 L45.0000,130.5000" />
+<path class="dim" d="M54.1715,141.0000 L54.1715,130.5000" />
+<path class="dim" d="M45.0000,132.0000 L54.1715,132.0000" marker-start="url(#flecha)" marker-end="url(#flecha)"/>
+<text x="49.58572904544986" y="130.5" font-size="3.5" text-anchor="middle" class="medida" >4,59 (ref.)</text>
+<path class="dim" d="M49.5857,150.0000 L64.0000,150.0000 L69.0000,151.0000 L72.0000,151.0000" />
+<text x="75" y="152.1" font-size="3.5" text-anchor="start" class="medida" >27,00° respecto a la vertical</text>
+<text x="234" y="119" font-size="4" text-anchor="start" class="" font-weight="bold">03  ALZADO</text>
+<text x="234" y="125" font-size="3.2" text-anchor="start" class="" >Vista posterior</text>
+<polygon class="pieza" points="246.0000,165.0000 248.0000,141.0000 266.0000,141.0000 268.0000,165.0000"/>
+<path class="dim" d="M248.0000,141.0000 L248.0000,132.5000" />
+<path class="dim" d="M266.0000,141.0000 L266.0000,132.5000" />
+<path class="dim" d="M248.0000,134.0000 L266.0000,134.0000" marker-start="url(#flecha)" marker-end="url(#flecha)"/>
+<text x="257.0" y="132.5" font-size="3.5" text-anchor="middle" class="medida" >9,00</text>
+<path class="dim" d="M246.0000,165.0000 L246.0000,173.5000" />
+<path class="dim" d="M268.0000,165.0000 L268.0000,173.5000" />
+<path class="dim" d="M246.0000,172.0000 L268.0000,172.0000" marker-start="url(#flecha)" marker-end="url(#flecha)"/>
+<text x="257.0" y="170.5" font-size="3.5" text-anchor="middle" class="medida" >11,00</text>
+<text x="16" y="169" font-size="3.2">Montaje sobre P09 · Centrar a lo ancho y alinear el extremo biselado con el frente</text>
+<text x="16" y="185" font-size="3.5" text-anchor="start" class="" >Cotas en mm · Escala 2:1 en A4 horizontal al imprimir al 100 %</text>
+<text x="16" y="191.5" font-size="3.5">Tolerancias generales · Lineales ±0,20 mm · Angulares ±0,50° · Cotas (ref.) informativas</text>
+<text x="16" y="198" font-size="3.2" text-anchor="start" class="" >Fuente: manuales.scad · tapa_trapezoidal()</text>
+<text x="281" y="198" font-size="3.2" text-anchor="end" class="" >10 / 10</text>
+</svg>

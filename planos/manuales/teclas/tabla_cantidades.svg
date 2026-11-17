@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="210mm" viewBox="0 0 297 210" role="img" aria-labelledby="title">
+<title id="title">Tabla de cantidades para los manuales</title>
+<style>text{font-family:Arial,sans-serif;fill:#192c3b} .linea{stroke:#a3b6c2;stroke-width:.25;fill:none}</style>
+<rect width="297" height="210" fill="white"/>
+<rect class="linea" x="8" y="8" width="281" height="194"/>
+<text x="16" y="19" font-size="3.4" font-weight="bold" letter-spacing=".6">MAYAGUA / MANUALES</text>
+<text x="16" y="32" font-size="8" font-weight="bold">Tabla de cantidades</text>
+<g id="derechos" font-size="2.9">
+  <text x="16" y="37" font-weight="bold">© Salvador Vera Juárez · 2026 · Todos los derechos reservados</text>
+  <text x="16" y="41">Se requiere autorización escrita para reproducir, distribuir o comercializar estos planos.</text>
+</g>
+<rect x="16" y="44" width="265" height="12" fill="#dae7ee"/>
+<g font-size="3.8" font-weight="bold">
+<text x="21" y="51.8">Parte</text>
+<text x="184" y="51.8" text-anchor="middle">Piezas para un manual</text>
+<text x="248" y="51.8" text-anchor="middle">Piezas para dos manuales</text>
+</g>
+<rect x="16" y="56" width="265" height="11" fill="#f2f6f8"/>
+<g font-size="3.8"><text x="21" y="63">P01 · Tecla natural Do</text><text x="184" y="63" text-anchor="middle">5</text><text x="248" y="63" text-anchor="middle">10</text></g>
+<rect x="16" y="67" width="265" height="11" fill="#ffffff"/>
+<g font-size="3.8"><text x="21" y="74">P02 · Tecla natural Re</text><text x="184" y="74" text-anchor="middle">5</text><text x="248" y="74" text-anchor="middle">10</text></g>
+<rect x="16" y="78" width="265" height="11" fill="#f2f6f8"/>
+<g font-size="3.8"><text x="21" y="85">P03 · Tecla natural Mi</text><text x="184" y="85" text-anchor="middle">5</text><text x="248" y="85" text-anchor="middle">10</text></g>
+<rect x="16" y="89" width="265" height="11" fill="#ffffff"/>
+<g font-size="3.8"><text x="21" y="96">P04 · Tecla natural Fa</text><text x="184" y="96" text-anchor="middle">5</text><text x="248" y="96" text-anchor="middle">10</text></g>
+<rect x="16" y="100" width="265" height="11" fill="#f2f6f8"/>
+<g font-size="3.8"><text x="21" y="107">P05 · Tecla natural Sol</text><text x="184" y="107" text-anchor="middle">4</text><text x="248" y="107" text-anchor="middle">8</text></g>
+<rect x="16" y="111" width="265" height="11" fill="#ffffff"/>
+<g font-size="3.8"><text x="21" y="118">P06 · Tecla natural La</text><text x="184" y="118" text-anchor="middle">4</text><text x="248" y="118" text-anchor="middle">8</text></g>
+<rect x="16" y="122" width="265" height="11" fill="#f2f6f8"/>
+<g font-size="3.8"><text x="21" y="129">P07 · Tecla natural Si</text><text x="184" y="129" text-anchor="middle">4</text><text x="248" y="129" text-anchor="middle">8</text></g>
+<rect x="16" y="133" width="265" height="11" fill="#ffffff"/>
+<g font-size="3.8"><text x="21" y="140">P08 · Tecla natural Sol final</text><text x="184" y="140" text-anchor="middle">1</text><text x="248" y="140" text-anchor="middle">2</text></g>
+<rect x="16" y="144" width="265" height="11" fill="#f2f6f8"/>
+<g font-size="3.8"><text x="21" y="151">P09 · Cuerpo de tecla sostenida</text><text x="184" y="151" text-anchor="middle">23</text><text x="248" y="151" text-anchor="middle">46</text></g>
+<rect x="16" y="155" width="265" height="11" fill="#ffffff"/>
+<g font-size="3.8"><text x="21" y="162">P10 · Tapa de tecla sostenida</text><text x="184" y="162" text-anchor="middle">23</text><text x="248" y="162" text-anchor="middle">46</text></g>
+<rect x="16" y="166" width="265" height="11" fill="#dae7ee"/>
+<g font-size="3.8" font-weight="bold"><text x="21" y="173">Total</text><text x="184" y="173" text-anchor="middle">79</text><text x="248" y="173" text-anchor="middle">158</text></g>
+<path class="linea" d="M152 44V177 M216 44V177"/>
+<text x="16" y="193" font-size="3.2">Planos P01–P10 · A4 horizontal</text>
+</svg>

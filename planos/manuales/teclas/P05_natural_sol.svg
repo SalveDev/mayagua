@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="210mm" viewBox="0 0 297 210" role="img" aria-labelledby="title desc">
+<title id="title">P05 · Tecla natural Sol</title>
+<desc id="desc">Planta, perfil lateral y vista posterior de la tecla natural sin barreno.</desc>
+
+<defs><marker id="flecha" viewBox="0 0 3 2" markerWidth="3" markerHeight="2" refX="3" refY="1" orient="auto-start-reverse" markerUnits="userSpaceOnUse"><path d="M0 0L3 1L0 2Z" fill="#285573"/></marker></defs>
+<style>
+text {font-family:Arial,sans-serif;fill:#192c3b}
+.dim {stroke:#285573;stroke-width:.30;fill:none}
+.medida {font-size:3.8px;font-weight:600;fill:#244a64}
+.pieza {stroke:#192c3b;stroke-width:.42;fill:#edf3f6;stroke-linejoin:round}
+.arista {fill:none;stroke:#192c3b;stroke-width:.28}
+</style>
+<rect width="297" height="210" fill="white"/>
+<rect x="8" y="8" width="281" height="194" fill="none" stroke="#a3b6c2" stroke-width=".25"/>
+<text x="16" y="19" font-size="3.4" font-weight="bold" letter-spacing=".6">MAYAGUA / MANUALES</text>
+
+<text x="16" y="30" font-size="8" font-weight="bold">Tecla natural Sol</text>
+<g id="derechos" font-size="2.9">
+  <text x="16" y="37" font-weight="bold">© Salvador Vera Juárez · 2026 · Todos los derechos reservados</text>
+  <text x="16" y="41">Se requiere autorización escrita para reproducir, distribuir o comercializar estos planos.</text>
+</g>
+<rect x="235" y="15" width="46" height="23.5" rx="1" fill="#edf3f6" stroke="#a3b6c2" stroke-width=".25"/>
+<text x="258" y="22" text-anchor="middle" font-size="3.3" font-weight="bold">NÚMERO DE PARTE</text>
+<text x="258" y="33.5" text-anchor="middle" font-size="8" font-weight="bold">P05</text>
+<path class="dim" d="M16 44H281 M16 175H281" style="stroke:#a3b6c2"/>
+<text x="16" y="54" font-size="4" font-weight="bold">01  PLANTA</text>
+<polygon class="pieza" points="48,76 114,76 114,80.339286 273,80.339286 273,101.178571 114,101.178571 114,109.857143 48,109.857143"/>
+<path class="dim" d="M48 75V63.5 M273 79.339286V63.5" />
+<path class="dim" d="M48 65H273" marker-start="url(#flecha)" marker-end="url(#flecha)"/>
+<text x="160.5" y="63.6" font-size="3.5" class="medida" text-anchor="middle">150,00</text>
+<path class="dim" d="M48 110.857143V123.5 M114 110.857143V123.5" />
+<path class="dim" d="M48 122H114" marker-start="url(#flecha)" marker-end="url(#flecha)"/>
+<text x="81" y="120.6" font-size="3.5" class="medida" text-anchor="middle">44,00</text>
+<path class="dim" d="M47 76H34.5 M47 109.857143H34.5" />
+<path class="dim" d="M36 76V109.857143" marker-start="url(#flecha)" marker-end="url(#flecha)"/>
+<text x="34.5" y="92.928571" font-size="3.5" class="medida" text-anchor="middle" transform="rotate(-90 34.5 92.928571)">22,57</text>
+<text x="48" y="71" font-size="3.2" >Frente</text>
+<text x="263" y="73" font-size="3.2" text-anchor="end">Parte posterior</text>
+<text x="147" y="130" font-size="3.2" >Ancho posterior 13,89 mm (ref.)</text>
+<path class="dim" d="M274 76H284 M274 80.3393H284 M282 76V80.3393" />
+<path class="dim" d="M282 72V76" marker-end="url(#flecha)"/>
+<path class="dim" d="M282 84.3393V80.3393" marker-end="url(#flecha)"/>
+<text x="282" y="69.5" font-size="3.3" class="medida" text-anchor="middle">2,89</text>
+<path class="dim" d="M274 101.179H284 M274 109.857H284 M282 101.179V109.857" />
+<path class="dim" d="M282 97.1786V101.179" marker-end="url(#flecha)"/>
+<path class="dim" d="M282 113.857V109.857" marker-end="url(#flecha)"/>
+<text x="282" y="117.5" font-size="3.3" class="medida" text-anchor="middle">5,79</text>
+<path class="dim" d="M273 102.179V123.5" />
+<path class="dim" d="M114 122H273" marker-start="url(#flecha)" marker-end="url(#flecha)"/>
+<text x="193.5" y="120.6" font-size="3.3" class="medida" text-anchor="middle">106,00 (ref.) · ambos rebajes</text>
+<text x="16" y="140" font-size="4" font-weight="bold">02  PERFIL LATERAL</text>
+<text x="223" y="140" font-size="4" font-weight="bold">03  VISTA POSTERIOR</text>
+<rect class="pieza" x="48" y="150" width="150" height="10"/>
+<path class="dim" d="M47 150H34.5 M47 160H34.5" />
+<path class="dim" d="M36 150V160" marker-start="url(#flecha)" marker-end="url(#flecha)"/>
+<text x="34.5" y="155" font-size="3.5" class="medida" text-anchor="middle" transform="rotate(-90 34.5 155)">10,00</text>
+<rect class="pieza" x="231" y="150" width="22.571429" height="10"/>
+<path class="arista" d="M233.892857 150V160" />
+<path class="arista" d="M247.785714 150V160" />
+<text x="16" y="169" font-size="3.2">Cuatro primeras octavas · Geometría sin barreno</text>
+<text x="16" y="185" font-size="3.5" >Cotas en mm · Planta a escala 3:2 · Perfil y vista posterior a escala 1:1</text>
+<text x="16" y="191.5" font-size="3.5">Tolerancias generales · Lineales ±0,20 mm · Cotas (ref.) informativas</text>
+<text x="16" y="198" font-size="3.2" >A4 horizontal al 100 % · Izquierda y derecha vistas desde el frente · Fuente manuales.scad</text>
+<text x="281" y="198" font-size="3.2" text-anchor="end">05 / 10</text>
+</svg>

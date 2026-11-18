@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="110.7125mm" height="16.4mm" viewBox="212.3000 -4.2 110.7125 16.4" role="img">
+  <title>C9 · pieza superior</title>
+  <desc>Pieza a escala 1:1 en orientación de fabricación.</desc>
+  <style>text{font-family:Arial,sans-serif;fill:#17263a}</style>
+  <g id="Marcas-esquinas" fill="none" stroke="#000" stroke-width=".2">
+    <path d="M 215.5000 -4 H 212.5000 V -1" />
+    <path d="M 319.8125 -4 H 322.8125 V -1" />
+    <path d="M 215.5000 12 H 212.5000 V 9" />
+    <path d="M 319.8125 12 H 322.8125 V 9" />
+  </g>
+  <defs>
+    <mask id="Cobre-sin-barrenos" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse" x="212.500" y="-4" width="110.3125" height="84" style="mask-type:luminance">
+      <rect x="212.500" y="-4" width="110.3125" height="84" fill="#fff" />
+      <g id="Taladros" inkscape:groupmode="layer" inkscape:label="Taladros">
+        <circle cx="268.3125" cy="0" r="0.5" fill="#000" data-diametro-mm="1" />
+      </g>
+    </mask>
+  </defs>
+  <g id="Cobre" inkscape:groupmode="layer" inkscape:label="Cobre" mask="url(#Cobre-sin-barrenos)">
+    <path data-red="D39" d="M 219.8570 0 L 314.6250 0" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="C9" data-red="D39" cx="268.3125" cy="0" r="1.1" fill="#a34822">
+      <title>C9 · D39</title>
+    </circle>
+    <path data-red="D39" d="M 219.8570 0 L 219.8570 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW17-1" data-red="D39" x="216.8570" y="5" width="6" height="6" fill="#a34822">
+      <title>SW17-1 · D39</title>
+    </rect>
+    <path data-red="D39" d="M 235.2320 0 L 235.2320 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW18-1" data-red="D39" x="232.2320" y="5" width="6" height="6" fill="#a34822">
+      <title>SW18-1 · D39</title>
+    </rect>
+    <path data-red="D39" d="M 248.4640 0 L 248.4640 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW19-1" data-red="D39" x="245.4640" y="5" width="6" height="6" fill="#a34822">
+      <title>SW19-1 · D39</title>
+    </rect>
+    <path data-red="D39" d="M 261.6960 0 L 261.6960 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW20-1" data-red="D39" x="258.6960" y="5" width="6" height="6" fill="#a34822">
+      <title>SW20-1 · D39</title>
+    </rect>
+    <path data-red="D39" d="M 274.9290 0 L 274.9290 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW21-1" data-red="D39" x="271.9290" y="5" width="6" height="6" fill="#a34822">
+      <title>SW21-1 · D39</title>
+    </rect>
+    <path data-red="D39" d="M 288.1610 0 L 288.1610 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW22-1" data-red="D39" x="285.1610" y="5" width="6" height="6" fill="#a34822">
+      <title>SW22-1 · D39</title>
+    </rect>
+    <path data-red="D39" d="M 301.3930 0 L 301.3930 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW23-1" data-red="D39" x="298.3930" y="5" width="6" height="6" fill="#a34822">
+      <title>SW23-1 · D39</title>
+    </rect>
+    <path data-red="D39" d="M 314.6250 0 L 314.6250 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW24-1" data-red="D39" x="311.6250" y="5" width="6" height="6" fill="#a34822">
+      <title>SW24-1 · D39</title>
+    </rect>
+    <g id="Leyendas-cobre" style="fill:#a34822">
+      <text x="268.3125" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">C9 · D39</text>
+      <text x="219.8570" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">Mi2</text>
+      <text x="235.2320" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">Fa2</text>
+      <text x="248.4640" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">Fa♯2</text>
+      <text x="261.6960" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">Sol2</text>
+      <text x="274.9290" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">Sol♯2</text>
+      <text x="288.1610" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">La2</text>
+      <text x="301.3930" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">La♯2</text>
+      <text x="314.6250" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">Si2</text>
+    </g>
+    <g id="Centros-sujecion" fill="none" stroke="#a34822" stroke-width=".35">
+      <path id="Cruz-M9-superior-1" d="M 225.9445 5.5 H 229.1445 M 227.5445 3.9 V 7.1">
+        <title>Centro para broca de Ø3.2 mm</title>
+      </path>
+      <path id="Cruz-M9-superior-2" d="M 266.7125 5.5 H 269.9125 M 268.3125 3.9 V 7.1">
+        <title>Centro para broca de Ø3.2 mm</title>
+      </path>
+      <path id="Cruz-M9-superior-3" d="M 306.4090 5.5 H 309.6090 M 308.0090 3.9 V 7.1">
+        <title>Centro para broca de Ø3.2 mm</title>
+      </path>
+    </g>
+  </g>
+</svg>

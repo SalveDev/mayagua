@@ -20,9 +20,10 @@ mostrar_banco = true;
 banco_distancia_manual = 210;
 
 /* [Hidden] */
-consola_madera = "#65402C";
-consola_cantos = "#805238";
-consola_frentes = "#744A33";
+// Nogal americano: tono medio, veta clara y veta oscura del catálogo.
+consola_madera = "#66372A";
+consola_cantos = "#673B2F";
+consola_frentes = "#633426";
 
 // Dimensiones de la envolvente de manuales.scad: dos cajas escalonadas,
 // contando las tapas laterales de 25.4 mm y los salientes de 3 mm.

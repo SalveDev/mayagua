@@ -55,14 +55,14 @@ module manuales_organo(
     // 2. COLORES
     // ==========================================
 
-    color_pino = [0.82, 0.65, 0.43];
-    color_alteradas = [0.30, 0.20, 0.13];
-    color_tapas = [0.10, 0.10, 0.12];
-    color_liston = [0.55, 0.38, 0.22];
+    color_pino = "#C98D54"; // Pino americano.
+    color_alteradas = "#45291F"; // Tzalam.
+    color_tapas = color_alteradas; // Tzalam, según el plano P10.
+    color_liston = "#97745E"; // Encino americano.
     color_clavos = [0.72, 0.74, 0.76];
 
-    color_tapa_frontal = [0.55, 0.38, 0.22];
-    color_laterales = [0.55, 0.38, 0.22];
+    color_tapa_frontal = "#66372A"; // Nogal americano, como la consola.
+    color_laterales = color_tapa_frontal;
 
     // ==========================================
     // 3. RANURAS PARA ALTERADAS

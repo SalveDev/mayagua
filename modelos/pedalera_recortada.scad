@@ -799,11 +799,12 @@ module tecla_original(n) {
     multmatrix(matriz(n)) translate([-ancho_tecla/2,0,0])
         if(es_sostenido(n)) {
             // Sostenido macizo: base y realce forman una sola pieza del mismo material.
-            color("#302218") render(convexity=6) union() {
+            // Tzalam para las teclas sostenidas.
+            color("#45291F") render(convexity=6) union() {
                 cuerpo_tecla(grosor_sostenido,n);
                 realce_sostenido(n);
             }
-        } else color("BurlyWood") cuerpo_tecla(grosor_natural,n);
+        } else color("#E19F6A") cuerpo_tecla(grosor_natural,n); // Haya.
 }
 
 // Los extremos ya se recortan en coordenadas locales dentro del cuerpo.
@@ -1358,12 +1359,13 @@ if(mostrar_manuales) {
 
 // Los controles generales actuan como interruptores maestros de cada grupo.
 // Las perforaciones siempre pertenecen a su pieza, aunque se oculte el herraje.
-if(mostrar_estructuras) color("SaddleBrown") {
+// Encino americano en el bastidor y nogal americano en los cierres.
+if(mostrar_estructuras) color("#97745E") {
     if(mostrar_travesano_frontal) travesano_frontal_completo();
     if(mostrar_travesano_trasero) base_travesano_trasero();
-    if(mostrar_tapa_travesano_trasero) color("#A17850") tapa_travesano_trasero();
+    if(mostrar_tapa_travesano_trasero) color("#66372A") tapa_travesano_trasero();
 }
-if(mostrar_laterales) color("Sienna") {
+if(mostrar_laterales) color("#66372A") {
     if(mostrar_lateral_izquierdo) tapa_lateral(0);
     if(mostrar_lateral_derecho) tapa_lateral(1);
 }
@@ -1379,7 +1381,7 @@ if(mostrar_tornillos) for(n=notas) {
 if(mostrar_tornillos_union_trasera) for(i=[0:9])
     if(ver_tornillo_union_trasera(i)) tornillo_union_trasera(i);
 if(mostrar_teclas) for(n=notas) tecla(n);
-if(mostrar_tapas) color("Sienna") {
+if(mostrar_tapas) color("#66372A") {
     if(mostrar_tapa_frontal_vertical) tapa_frontal_vertical();
     if(mostrar_faldon_frontal) faldon_frontal();
     if(mostrar_tapa_superior_frontal) intersection() {

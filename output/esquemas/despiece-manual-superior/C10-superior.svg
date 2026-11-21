@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="112.4000mm" height="16.4mm" viewBox="321.6125 -4.2 112.4000 16.4" role="img">
   <title>C10 · pieza superior</title>
   <desc>Pieza a escala 1:1 en orientación de fabricación.</desc>
-  <style>text{font-family:Arial,sans-serif;fill:#17263a}</style>
+  <style>text{font-family:Arial,sans-serif;fill:#000000}</style>
   <g id="Marcas-esquinas" fill="none" stroke="#000" stroke-width=".2">
     <path d="M 324.8125 -4 H 321.8125 V -1" />
     <path d="M 430.8125 -4 H 433.8125 V -1" />
@@ -17,54 +17,54 @@
     </mask>
   </defs>
   <g id="Cobre" inkscape:groupmode="layer" inkscape:label="Cobre" mask="url(#Cobre-sin-barrenos)">
-    <path data-red="D40" d="M 330.0000 0 L 426.6960 0" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="C10" data-red="D40" cx="378.0000" cy="0" r="1.1" fill="#a34822">
+    <path data-red="D40" d="M 330.0000 0 L 426.6960 0" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="C10" data-red="D40" cx="378.0000" cy="0" r="1.1" fill="#000000">
       <title>C10 · D40</title>
     </circle>
-    <path data-red="D40" d="M 330.0000 0 L 330.0000 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW25-1" data-red="D40" x="327.0000" y="5" width="6" height="6" fill="#a34822">
+    <path data-red="D40" d="M 330.0000 0 L 330.0000 8" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW25-1" data-red="D40" x="327.0000" y="5" width="6" height="6" fill="#000000">
       <title>SW25-1 · D40</title>
     </rect>
-    <path data-red="D40" d="M 343.7140 0 L 343.7140 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW26-1" data-red="D40" x="340.7140" y="5" width="6" height="6" fill="#a34822">
+    <path data-red="D40" d="M 343.7140 0 L 343.7140 8" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW26-1" data-red="D40" x="340.7140" y="5" width="6" height="6" fill="#000000">
       <title>SW26-1 · D40</title>
     </rect>
-    <path data-red="D40" d="M 357.4290 0 L 357.4290 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW27-1" data-red="D40" x="354.4290" y="5" width="6" height="6" fill="#a34822">
+    <path data-red="D40" d="M 357.4290 0 L 357.4290 8" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW27-1" data-red="D40" x="354.4290" y="5" width="6" height="6" fill="#000000">
       <title>SW27-1 · D40</title>
     </rect>
-    <path data-red="D40" d="M 371.1430 0 L 371.1430 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW28-1" data-red="D40" x="368.1430" y="5" width="6" height="6" fill="#a34822">
+    <path data-red="D40" d="M 371.1430 0 L 371.1430 8" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW28-1" data-red="D40" x="368.1430" y="5" width="6" height="6" fill="#000000">
       <title>SW28-1 · D40</title>
     </rect>
-    <path data-red="D40" d="M 384.8570 0 L 384.8570 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW29-1" data-red="D40" x="381.8570" y="5" width="6" height="6" fill="#a34822">
+    <path data-red="D40" d="M 384.8570 0 L 384.8570 8" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW29-1" data-red="D40" x="381.8570" y="5" width="6" height="6" fill="#000000">
       <title>SW29-1 · D40</title>
     </rect>
-    <path data-red="D40" d="M 400.2320 0 L 400.2320 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW30-1" data-red="D40" x="397.2320" y="5" width="6" height="6" fill="#a34822">
+    <path data-red="D40" d="M 400.2320 0 L 400.2320 8" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW30-1" data-red="D40" x="397.2320" y="5" width="6" height="6" fill="#000000">
       <title>SW30-1 · D40</title>
     </rect>
-    <path data-red="D40" d="M 413.4640 0 L 413.4640 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW31-1" data-red="D40" x="410.4640" y="5" width="6" height="6" fill="#a34822">
+    <path data-red="D40" d="M 413.4640 0 L 413.4640 8" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW31-1" data-red="D40" x="410.4640" y="5" width="6" height="6" fill="#000000">
       <title>SW31-1 · D40</title>
     </rect>
-    <path data-red="D40" d="M 426.6960 0 L 426.6960 8" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW32-1" data-red="D40" x="423.6960" y="5" width="6" height="6" fill="#a34822">
+    <path data-red="D40" d="M 426.6960 0 L 426.6960 8" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW32-1" data-red="D40" x="423.6960" y="5" width="6" height="6" fill="#000000">
       <title>SW32-1 · D40</title>
     </rect>
-    <g id="Leyendas-cobre" style="fill:#a34822">
-      <text x="378.0000" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">C10 · D40</text>
-      <text x="330.0000" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">Do3</text>
-      <text x="343.7140" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">Do♯3</text>
-      <text x="357.4290" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">Re3</text>
-      <text x="371.1430" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">Re♯3</text>
-      <text x="384.8570" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">Mi3</text>
-      <text x="400.2320" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">Fa3</text>
-      <text x="413.4640" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">Fa♯3</text>
-      <text x="426.6960" y="-1" font-size="2" text-anchor="middle" style="fill:#a34822">Sol3</text>
+    <g id="Leyendas-cobre" style="fill:#000000">
+      <text x="378.0000" y="-1" font-size="2" text-anchor="middle" style="fill:#000000">C10 · D40</text>
+      <text x="330.0000" y="-1" font-size="2" text-anchor="middle" style="fill:#000000">Do3</text>
+      <text x="343.7140" y="-1" font-size="2" text-anchor="middle" style="fill:#000000">Do♯3</text>
+      <text x="357.4290" y="-1" font-size="2" text-anchor="middle" style="fill:#000000">Re3</text>
+      <text x="371.1430" y="-1" font-size="2" text-anchor="middle" style="fill:#000000">Re♯3</text>
+      <text x="384.8570" y="-1" font-size="2" text-anchor="middle" style="fill:#000000">Mi3</text>
+      <text x="400.2320" y="-1" font-size="2" text-anchor="middle" style="fill:#000000">Fa3</text>
+      <text x="413.4640" y="-1" font-size="2" text-anchor="middle" style="fill:#000000">Fa♯3</text>
+      <text x="426.6960" y="-1" font-size="2" text-anchor="middle" style="fill:#000000">Sol3</text>
     </g>
-    <g id="Centros-sujecion" fill="none" stroke="#a34822" stroke-width=".35">
+    <g id="Centros-sujecion" fill="none" stroke="#000000" stroke-width=".35">
       <path id="Cruz-M10-superior-1" d="M 335.2570 5.5 H 338.4570 M 336.8570 3.9 V 7.1">
         <title>Centro para broca de Ø3.2 mm</title>
       </path>

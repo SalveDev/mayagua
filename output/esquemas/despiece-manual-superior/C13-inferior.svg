@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="117.5875mm" height="52.4mm" viewBox="651.6125 15.8 117.5875 52.4" role="img">
   <title>C13 · pieza inferior</title>
   <desc>Pieza a escala 1:1 en orientación de fabricación.</desc>
-  <style>text{font-family:Arial,sans-serif;fill:#17263a}</style>
+  <style>text{font-family:Arial,sans-serif;fill:#000000}</style>
   <g id="Marcas-esquinas" fill="none" stroke="#000" stroke-width=".2">
     <path d="M 654.8125 16 H 651.8125 V 19" />
     <path d="M 766.0000 16 H 769.0000 V 19" />
@@ -64,226 +64,226 @@
     </mask>
   </defs>
   <g id="Cobre" inkscape:groupmode="layer" inkscape:label="Cobre" mask="url(#Cobre-sin-barrenos)">
-    <path id="F0-C13" data-red="D22" d="M 766.0005 43 L 654.8125 43" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="OUT-C13-F0" data-red="D22" cx="654.8125" cy="43" r="1.1" fill="#a34822">
+    <path id="F0-C13" data-red="D22" d="M 766.0005 43 L 654.8125 43" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="OUT-C13-F0" data-red="D22" cx="654.8125" cy="43" r="1.1" fill="#000000">
       <title>Salida F0 · D22 · enlace entre manuales</title>
     </circle>
-    <path id="F1-C13" data-red="D23" d="M 766.0005 46 L 654.8125 46" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="OUT-C13-F1" data-red="D23" cx="654.8125" cy="46" r="1.1" fill="#a34822">
+    <path id="F1-C13" data-red="D23" d="M 766.0005 46 L 654.8125 46" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="OUT-C13-F1" data-red="D23" cx="654.8125" cy="46" r="1.1" fill="#000000">
       <title>Salida F1 · D23 · enlace entre manuales</title>
     </circle>
-    <path id="F2-C13" data-red="D24" d="M 766.0005 49 L 654.8125 49" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="OUT-C13-F2" data-red="D24" cx="654.8125" cy="49" r="1.1" fill="#a34822">
+    <path id="F2-C13" data-red="D24" d="M 766.0005 49 L 654.8125 49" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="OUT-C13-F2" data-red="D24" cx="654.8125" cy="49" r="1.1" fill="#000000">
       <title>Salida F2 · D24 · enlace entre manuales</title>
     </circle>
-    <path id="F3-C13" data-red="D25" d="M 766.0005 52 L 654.8125 52" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="OUT-C13-F3" data-red="D25" cx="654.8125" cy="52" r="1.1" fill="#a34822">
+    <path id="F3-C13" data-red="D25" d="M 766.0005 52 L 654.8125 52" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="OUT-C13-F3" data-red="D25" cx="654.8125" cy="52" r="1.1" fill="#000000">
       <title>Salida F3 · D25 · enlace entre manuales</title>
     </circle>
-    <path id="F4-C13" data-red="D26" d="M 766.0005 55 L 654.8125 55" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="OUT-C13-F4" data-red="D26" cx="654.8125" cy="55" r="1.1" fill="#a34822">
+    <path id="F4-C13" data-red="D26" d="M 766.0005 55 L 654.8125 55" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="OUT-C13-F4" data-red="D26" cx="654.8125" cy="55" r="1.1" fill="#000000">
       <title>Salida F4 · D26 · enlace entre manuales</title>
     </circle>
-    <path id="F5-C13" data-red="D27" d="M 766.0005 58 L 654.8125 58" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="OUT-C13-F5" data-red="D27" cx="654.8125" cy="58" r="1.1" fill="#a34822">
+    <path id="F5-C13" data-red="D27" d="M 766.0005 58 L 654.8125 58" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="OUT-C13-F5" data-red="D27" cx="654.8125" cy="58" r="1.1" fill="#000000">
       <title>Salida F5 · D27 · enlace entre manuales</title>
     </circle>
-    <path id="F6-C13" data-red="D28" d="M 766.0005 61 L 654.8125 61" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="OUT-C13-F6" data-red="D28" cx="654.8125" cy="61" r="1.1" fill="#a34822">
+    <path id="F6-C13" data-red="D28" d="M 766.0005 61 L 654.8125 61" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="OUT-C13-F6" data-red="D28" cx="654.8125" cy="61" r="1.1" fill="#000000">
       <title>Salida F6 · D28 · enlace entre manuales</title>
     </circle>
-    <path id="F7-C13" data-red="D29" d="M 766.0005 64 L 654.8125 64" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="OUT-C13-F7" data-red="D29" cx="654.8125" cy="64" r="1.1" fill="#a34822">
+    <path id="F7-C13" data-red="D29" d="M 766.0005 64 L 654.8125 64" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="OUT-C13-F7" data-red="D29" cx="654.8125" cy="64" r="1.1" fill="#000000">
       <title>Salida F7 · D29 · enlace entre manuales</title>
     </circle>
-    <path data-red="A49" d="M 760.8125 20 L 760.8125 28" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW49-2" data-red="A49" x="757.8125" y="17" width="6" height="6" fill="#a34822">
+    <path data-red="A49" d="M 760.8125 20 L 760.8125 28" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW49-2" data-red="A49" x="757.8125" y="17" width="6" height="6" fill="#000000">
       <title>SW49-2 · A49</title>
     </rect>
-    <circle id="DIO49-A" data-red="A49" cx="760.8125" cy="28" r="1.1" fill="#a34822">
+    <circle id="DIO49-A" data-red="A49" cx="760.8125" cy="28" r="1.1" fill="#000000">
       <title>DIO49-A · A49</title>
     </circle>
-    <path data-red="K49" d="M 760.8125 35 L 760.8125 39" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="DIO49-K" data-red="K49" cx="760.8125" cy="35" r="1.1" fill="#a34822">
+    <path data-red="K49" d="M 760.8125 35 L 760.8125 39" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="DIO49-K" data-red="K49" cx="760.8125" cy="35" r="1.1" fill="#000000">
       <title>DIO49-K · K49</title>
     </circle>
-    <circle id="JP49-1" data-red="K49" cx="760.8125" cy="39" r="1.1" fill="#a34822">
+    <circle id="JP49-1" data-red="K49" cx="760.8125" cy="39" r="1.1" fill="#000000">
       <title>JP49-1 · K49</title>
     </circle>
-    <circle id="JP49-2" data-red="D22" cx="760.8125" cy="43" r="1.1" fill="#a34822">
+    <circle id="JP49-2" data-red="D22" cx="760.8125" cy="43" r="1.1" fill="#000000">
       <title>JP49-2 · D22</title>
     </circle>
-    <path data-red="A50" d="M 747.0985 20 L 747.0985 28" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW50-2" data-red="A50" x="744.0985" y="17" width="6" height="6" fill="#a34822">
+    <path data-red="A50" d="M 747.0985 20 L 747.0985 28" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW50-2" data-red="A50" x="744.0985" y="17" width="6" height="6" fill="#000000">
       <title>SW50-2 · A50</title>
     </rect>
-    <circle id="DIO50-A" data-red="A50" cx="747.0985" cy="28" r="1.1" fill="#a34822">
+    <circle id="DIO50-A" data-red="A50" cx="747.0985" cy="28" r="1.1" fill="#000000">
       <title>DIO50-A · A50</title>
     </circle>
-    <path data-red="K50" d="M 747.0985 35 L 747.0985 39" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="DIO50-K" data-red="K50" cx="747.0985" cy="35" r="1.1" fill="#a34822">
+    <path data-red="K50" d="M 747.0985 35 L 747.0985 39" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="DIO50-K" data-red="K50" cx="747.0985" cy="35" r="1.1" fill="#000000">
       <title>DIO50-K · K50</title>
     </circle>
-    <circle id="JP50-1" data-red="K50" cx="747.0985" cy="39" r="1.1" fill="#a34822">
+    <circle id="JP50-1" data-red="K50" cx="747.0985" cy="39" r="1.1" fill="#000000">
       <title>JP50-1 · K50</title>
     </circle>
-    <circle id="JP50-2" data-red="D23" cx="747.0985" cy="46" r="1.1" fill="#a34822">
+    <circle id="JP50-2" data-red="D23" cx="747.0985" cy="46" r="1.1" fill="#000000">
       <title>JP50-2 · D23</title>
     </circle>
-    <path data-red="A51" d="M 733.3835 20 L 733.3835 28" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW51-2" data-red="A51" x="730.3835" y="17" width="6" height="6" fill="#a34822">
+    <path data-red="A51" d="M 733.3835 20 L 733.3835 28" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW51-2" data-red="A51" x="730.3835" y="17" width="6" height="6" fill="#000000">
       <title>SW51-2 · A51</title>
     </rect>
-    <circle id="DIO51-A" data-red="A51" cx="733.3835" cy="28" r="1.1" fill="#a34822">
+    <circle id="DIO51-A" data-red="A51" cx="733.3835" cy="28" r="1.1" fill="#000000">
       <title>DIO51-A · A51</title>
     </circle>
-    <path data-red="K51" d="M 733.3835 35 L 733.3835 39" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="DIO51-K" data-red="K51" cx="733.3835" cy="35" r="1.1" fill="#a34822">
+    <path data-red="K51" d="M 733.3835 35 L 733.3835 39" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="DIO51-K" data-red="K51" cx="733.3835" cy="35" r="1.1" fill="#000000">
       <title>DIO51-K · K51</title>
     </circle>
-    <circle id="JP51-1" data-red="K51" cx="733.3835" cy="39" r="1.1" fill="#a34822">
+    <circle id="JP51-1" data-red="K51" cx="733.3835" cy="39" r="1.1" fill="#000000">
       <title>JP51-1 · K51</title>
     </circle>
-    <circle id="JP51-2" data-red="D24" cx="733.3835" cy="49" r="1.1" fill="#a34822">
+    <circle id="JP51-2" data-red="D24" cx="733.3835" cy="49" r="1.1" fill="#000000">
       <title>JP51-2 · D24</title>
     </circle>
-    <path data-red="A52" d="M 719.6695 20 L 719.6695 28" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW52-2" data-red="A52" x="716.6695" y="17" width="6" height="6" fill="#a34822">
+    <path data-red="A52" d="M 719.6695 20 L 719.6695 28" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW52-2" data-red="A52" x="716.6695" y="17" width="6" height="6" fill="#000000">
       <title>SW52-2 · A52</title>
     </rect>
-    <circle id="DIO52-A" data-red="A52" cx="719.6695" cy="28" r="1.1" fill="#a34822">
+    <circle id="DIO52-A" data-red="A52" cx="719.6695" cy="28" r="1.1" fill="#000000">
       <title>DIO52-A · A52</title>
     </circle>
-    <path data-red="K52" d="M 719.6695 35 L 719.6695 39" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="DIO52-K" data-red="K52" cx="719.6695" cy="35" r="1.1" fill="#a34822">
+    <path data-red="K52" d="M 719.6695 35 L 719.6695 39" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="DIO52-K" data-red="K52" cx="719.6695" cy="35" r="1.1" fill="#000000">
       <title>DIO52-K · K52</title>
     </circle>
-    <circle id="JP52-1" data-red="K52" cx="719.6695" cy="39" r="1.1" fill="#a34822">
+    <circle id="JP52-1" data-red="K52" cx="719.6695" cy="39" r="1.1" fill="#000000">
       <title>JP52-1 · K52</title>
     </circle>
-    <circle id="JP52-2" data-red="D25" cx="719.6695" cy="52" r="1.1" fill="#a34822">
+    <circle id="JP52-2" data-red="D25" cx="719.6695" cy="52" r="1.1" fill="#000000">
       <title>JP52-2 · D25</title>
     </circle>
-    <path data-red="A53" d="M 705.9555 20 L 705.9555 28" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW53-2" data-red="A53" x="702.9555" y="17" width="6" height="6" fill="#a34822">
+    <path data-red="A53" d="M 705.9555 20 L 705.9555 28" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW53-2" data-red="A53" x="702.9555" y="17" width="6" height="6" fill="#000000">
       <title>SW53-2 · A53</title>
     </rect>
-    <circle id="DIO53-A" data-red="A53" cx="705.9555" cy="28" r="1.1" fill="#a34822">
+    <circle id="DIO53-A" data-red="A53" cx="705.9555" cy="28" r="1.1" fill="#000000">
       <title>DIO53-A · A53</title>
     </circle>
-    <path data-red="K53" d="M 705.9555 35 L 705.9555 39" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="DIO53-K" data-red="K53" cx="705.9555" cy="35" r="1.1" fill="#a34822">
+    <path data-red="K53" d="M 705.9555 35 L 705.9555 39" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="DIO53-K" data-red="K53" cx="705.9555" cy="35" r="1.1" fill="#000000">
       <title>DIO53-K · K53</title>
     </circle>
-    <circle id="JP53-1" data-red="K53" cx="705.9555" cy="39" r="1.1" fill="#a34822">
+    <circle id="JP53-1" data-red="K53" cx="705.9555" cy="39" r="1.1" fill="#000000">
       <title>JP53-1 · K53</title>
     </circle>
-    <circle id="JP53-2" data-red="D26" cx="705.9555" cy="55" r="1.1" fill="#a34822">
+    <circle id="JP53-2" data-red="D26" cx="705.9555" cy="55" r="1.1" fill="#000000">
       <title>JP53-2 · D26</title>
     </circle>
-    <path data-red="A54" d="M 690.5805 20 L 690.5805 28" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW54-2" data-red="A54" x="687.5805" y="17" width="6" height="6" fill="#a34822">
+    <path data-red="A54" d="M 690.5805 20 L 690.5805 28" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW54-2" data-red="A54" x="687.5805" y="17" width="6" height="6" fill="#000000">
       <title>SW54-2 · A54</title>
     </rect>
-    <circle id="DIO54-A" data-red="A54" cx="690.5805" cy="28" r="1.1" fill="#a34822">
+    <circle id="DIO54-A" data-red="A54" cx="690.5805" cy="28" r="1.1" fill="#000000">
       <title>DIO54-A · A54</title>
     </circle>
-    <path data-red="K54" d="M 690.5805 35 L 690.5805 39" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="DIO54-K" data-red="K54" cx="690.5805" cy="35" r="1.1" fill="#a34822">
+    <path data-red="K54" d="M 690.5805 35 L 690.5805 39" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="DIO54-K" data-red="K54" cx="690.5805" cy="35" r="1.1" fill="#000000">
       <title>DIO54-K · K54</title>
     </circle>
-    <circle id="JP54-1" data-red="K54" cx="690.5805" cy="39" r="1.1" fill="#a34822">
+    <circle id="JP54-1" data-red="K54" cx="690.5805" cy="39" r="1.1" fill="#000000">
       <title>JP54-1 · K54</title>
     </circle>
-    <circle id="JP54-2" data-red="D27" cx="690.5805" cy="58" r="1.1" fill="#a34822">
+    <circle id="JP54-2" data-red="D27" cx="690.5805" cy="58" r="1.1" fill="#000000">
       <title>JP54-2 · D27</title>
     </circle>
-    <path data-red="A55" d="M 677.3485 20 L 677.3485 28" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW55-2" data-red="A55" x="674.3485" y="17" width="6" height="6" fill="#a34822">
+    <path data-red="A55" d="M 677.3485 20 L 677.3485 28" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW55-2" data-red="A55" x="674.3485" y="17" width="6" height="6" fill="#000000">
       <title>SW55-2 · A55</title>
     </rect>
-    <circle id="DIO55-A" data-red="A55" cx="677.3485" cy="28" r="1.1" fill="#a34822">
+    <circle id="DIO55-A" data-red="A55" cx="677.3485" cy="28" r="1.1" fill="#000000">
       <title>DIO55-A · A55</title>
     </circle>
-    <path data-red="K55" d="M 677.3485 35 L 677.3485 39" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="DIO55-K" data-red="K55" cx="677.3485" cy="35" r="1.1" fill="#a34822">
+    <path data-red="K55" d="M 677.3485 35 L 677.3485 39" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="DIO55-K" data-red="K55" cx="677.3485" cy="35" r="1.1" fill="#000000">
       <title>DIO55-K · K55</title>
     </circle>
-    <circle id="JP55-1" data-red="K55" cx="677.3485" cy="39" r="1.1" fill="#a34822">
+    <circle id="JP55-1" data-red="K55" cx="677.3485" cy="39" r="1.1" fill="#000000">
       <title>JP55-1 · K55</title>
     </circle>
-    <circle id="JP55-2" data-red="D28" cx="677.3485" cy="61" r="1.1" fill="#a34822">
+    <circle id="JP55-2" data-red="D28" cx="677.3485" cy="61" r="1.1" fill="#000000">
       <title>JP55-2 · D28</title>
     </circle>
-    <path data-red="A56" d="M 661.2235 20 L 661.2235 28" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <rect id="SW56-2" data-red="A56" x="658.2235" y="17" width="6" height="6" fill="#a34822">
+    <path data-red="A56" d="M 661.2235 20 L 661.2235 28" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <rect id="SW56-2" data-red="A56" x="658.2235" y="17" width="6" height="6" fill="#000000">
       <title>SW56-2 · A56</title>
     </rect>
-    <circle id="DIO56-A" data-red="A56" cx="661.2235" cy="28" r="1.1" fill="#a34822">
+    <circle id="DIO56-A" data-red="A56" cx="661.2235" cy="28" r="1.1" fill="#000000">
       <title>DIO56-A · A56</title>
     </circle>
-    <path data-red="K56" d="M 661.2235 35 L 661.2235 39" fill="none" stroke="#a34822" stroke-width="0.8" stroke-linecap="round" />
-    <circle id="DIO56-K" data-red="K56" cx="661.2235" cy="35" r="1.1" fill="#a34822">
+    <path data-red="K56" d="M 661.2235 35 L 661.2235 39" fill="none" stroke="#000000" stroke-width="0.8" stroke-linecap="round" />
+    <circle id="DIO56-K" data-red="K56" cx="661.2235" cy="35" r="1.1" fill="#000000">
       <title>DIO56-K · K56</title>
     </circle>
-    <circle id="JP56-1" data-red="K56" cx="661.2235" cy="39" r="1.1" fill="#a34822">
+    <circle id="JP56-1" data-red="K56" cx="661.2235" cy="39" r="1.1" fill="#000000">
       <title>JP56-1 · K56</title>
     </circle>
-    <circle id="JP56-2" data-red="D29" cx="661.2235" cy="64" r="1.1" fill="#a34822">
+    <circle id="JP56-2" data-red="D29" cx="661.2235" cy="64" r="1.1" fill="#000000">
       <title>JP56-2 · D29</title>
     </circle>
-    <circle id="PF0-C12-C13-2" data-red="D22" cx="766.0005" cy="43" r="1.1" fill="#a34822">
+    <circle id="PF0-C12-C13-2" data-red="D22" cx="766.0005" cy="43" r="1.1" fill="#000000">
       <title>PF0-C12-C13-2 · D22</title>
     </circle>
-    <circle id="PF1-C12-C13-2" data-red="D23" cx="766.0005" cy="46" r="1.1" fill="#a34822">
+    <circle id="PF1-C12-C13-2" data-red="D23" cx="766.0005" cy="46" r="1.1" fill="#000000">
       <title>PF1-C12-C13-2 · D23</title>
     </circle>
-    <circle id="PF2-C12-C13-2" data-red="D24" cx="766.0005" cy="49" r="1.1" fill="#a34822">
+    <circle id="PF2-C12-C13-2" data-red="D24" cx="766.0005" cy="49" r="1.1" fill="#000000">
       <title>PF2-C12-C13-2 · D24</title>
     </circle>
-    <circle id="PF3-C12-C13-2" data-red="D25" cx="766.0005" cy="52" r="1.1" fill="#a34822">
+    <circle id="PF3-C12-C13-2" data-red="D25" cx="766.0005" cy="52" r="1.1" fill="#000000">
       <title>PF3-C12-C13-2 · D25</title>
     </circle>
-    <circle id="PF4-C12-C13-2" data-red="D26" cx="766.0005" cy="55" r="1.1" fill="#a34822">
+    <circle id="PF4-C12-C13-2" data-red="D26" cx="766.0005" cy="55" r="1.1" fill="#000000">
       <title>PF4-C12-C13-2 · D26</title>
     </circle>
-    <circle id="PF5-C12-C13-2" data-red="D27" cx="766.0005" cy="58" r="1.1" fill="#a34822">
+    <circle id="PF5-C12-C13-2" data-red="D27" cx="766.0005" cy="58" r="1.1" fill="#000000">
       <title>PF5-C12-C13-2 · D27</title>
     </circle>
-    <circle id="PF6-C12-C13-2" data-red="D28" cx="766.0005" cy="61" r="1.1" fill="#a34822">
+    <circle id="PF6-C12-C13-2" data-red="D28" cx="766.0005" cy="61" r="1.1" fill="#000000">
       <title>PF6-C12-C13-2 · D28</title>
     </circle>
-    <circle id="PF7-C12-C13-2" data-red="D29" cx="766.0005" cy="64" r="1.1" fill="#a34822">
+    <circle id="PF7-C12-C13-2" data-red="D29" cx="766.0005" cy="64" r="1.1" fill="#000000">
       <title>PF7-C12-C13-2 · D29</title>
     </circle>
-    <g id="Leyendas-cobre" style="fill:#a34822">
-      <text id="Par-C13-inferior" x="710.40625" y="66.45" font-size="1.8" font-weight="bold" text-anchor="middle" style="fill:#a34822">C13</text>
-      <text x="759.1125" y="28.65" font-size="1.6" text-anchor="end" style="fill:#a34822">A</text>
-      <text x="759.1125" y="35.65" font-size="1.6" text-anchor="end" style="fill:#a34822">K</text>
-      <text x="745.3985" y="28.65" font-size="1.6" text-anchor="end" style="fill:#a34822">A</text>
-      <text x="745.3985" y="35.65" font-size="1.6" text-anchor="end" style="fill:#a34822">K</text>
-      <text x="731.6835" y="28.65" font-size="1.6" text-anchor="end" style="fill:#a34822">A</text>
-      <text x="731.6835" y="35.65" font-size="1.6" text-anchor="end" style="fill:#a34822">K</text>
-      <text x="717.9695" y="28.65" font-size="1.6" text-anchor="end" style="fill:#a34822">A</text>
-      <text x="717.9695" y="35.65" font-size="1.6" text-anchor="end" style="fill:#a34822">K</text>
-      <text x="704.2555" y="28.65" font-size="1.6" text-anchor="end" style="fill:#a34822">A</text>
-      <text x="704.2555" y="35.65" font-size="1.6" text-anchor="end" style="fill:#a34822">K</text>
-      <text x="688.8805" y="28.65" font-size="1.6" text-anchor="end" style="fill:#a34822">A</text>
-      <text x="688.8805" y="35.65" font-size="1.6" text-anchor="end" style="fill:#a34822">K</text>
-      <text x="675.6485" y="28.65" font-size="1.6" text-anchor="end" style="fill:#a34822">A</text>
-      <text x="675.6485" y="35.65" font-size="1.6" text-anchor="end" style="fill:#a34822">K</text>
-      <text x="659.5235" y="28.65" font-size="1.6" text-anchor="end" style="fill:#a34822">A</text>
-      <text x="659.5235" y="35.65" font-size="1.6" text-anchor="end" style="fill:#a34822">K</text>
-      <text x="656.2125" y="42.25" font-size="1.6" text-anchor="start" style="fill:#a34822">F0</text>
-      <text x="656.2125" y="45.25" font-size="1.6" text-anchor="start" style="fill:#a34822">F1</text>
-      <text x="656.2125" y="48.25" font-size="1.6" text-anchor="start" style="fill:#a34822">F2</text>
-      <text x="656.2125" y="51.25" font-size="1.6" text-anchor="start" style="fill:#a34822">F3</text>
-      <text x="656.2125" y="54.25" font-size="1.6" text-anchor="start" style="fill:#a34822">F4</text>
-      <text x="656.2125" y="57.25" font-size="1.6" text-anchor="start" style="fill:#a34822">F5</text>
-      <text x="656.2125" y="60.25" font-size="1.6" text-anchor="start" style="fill:#a34822">F6</text>
-      <text x="656.2125" y="63.25" font-size="1.6" text-anchor="start" style="fill:#a34822">F7</text>
+    <g id="Leyendas-cobre" style="fill:#000000">
+      <text id="Par-C13-inferior" x="710.40625" y="66.45" font-size="1.8" font-weight="bold" text-anchor="middle" style="fill:#000000">C13</text>
+      <text x="759.1125" y="28.65" font-size="1.6" text-anchor="end" style="fill:#000000">A</text>
+      <text x="759.1125" y="35.65" font-size="1.6" text-anchor="end" style="fill:#000000">K</text>
+      <text x="745.3985" y="28.65" font-size="1.6" text-anchor="end" style="fill:#000000">A</text>
+      <text x="745.3985" y="35.65" font-size="1.6" text-anchor="end" style="fill:#000000">K</text>
+      <text x="731.6835" y="28.65" font-size="1.6" text-anchor="end" style="fill:#000000">A</text>
+      <text x="731.6835" y="35.65" font-size="1.6" text-anchor="end" style="fill:#000000">K</text>
+      <text x="717.9695" y="28.65" font-size="1.6" text-anchor="end" style="fill:#000000">A</text>
+      <text x="717.9695" y="35.65" font-size="1.6" text-anchor="end" style="fill:#000000">K</text>
+      <text x="704.2555" y="28.65" font-size="1.6" text-anchor="end" style="fill:#000000">A</text>
+      <text x="704.2555" y="35.65" font-size="1.6" text-anchor="end" style="fill:#000000">K</text>
+      <text x="688.8805" y="28.65" font-size="1.6" text-anchor="end" style="fill:#000000">A</text>
+      <text x="688.8805" y="35.65" font-size="1.6" text-anchor="end" style="fill:#000000">K</text>
+      <text x="675.6485" y="28.65" font-size="1.6" text-anchor="end" style="fill:#000000">A</text>
+      <text x="675.6485" y="35.65" font-size="1.6" text-anchor="end" style="fill:#000000">K</text>
+      <text x="659.5235" y="28.65" font-size="1.6" text-anchor="end" style="fill:#000000">A</text>
+      <text x="659.5235" y="35.65" font-size="1.6" text-anchor="end" style="fill:#000000">K</text>
+      <text x="656.2125" y="42.25" font-size="1.6" text-anchor="start" style="fill:#000000">F0</text>
+      <text x="656.2125" y="45.25" font-size="1.6" text-anchor="start" style="fill:#000000">F1</text>
+      <text x="656.2125" y="48.25" font-size="1.6" text-anchor="start" style="fill:#000000">F2</text>
+      <text x="656.2125" y="51.25" font-size="1.6" text-anchor="start" style="fill:#000000">F3</text>
+      <text x="656.2125" y="54.25" font-size="1.6" text-anchor="start" style="fill:#000000">F4</text>
+      <text x="656.2125" y="57.25" font-size="1.6" text-anchor="start" style="fill:#000000">F5</text>
+      <text x="656.2125" y="60.25" font-size="1.6" text-anchor="start" style="fill:#000000">F6</text>
+      <text x="656.2125" y="63.25" font-size="1.6" text-anchor="start" style="fill:#000000">F7</text>
     </g>
-    <g id="Centros-sujecion" fill="none" stroke="#a34822" stroke-width=".35">
+    <g id="Centros-sujecion" fill="none" stroke="#000000" stroke-width=".35">
       <path id="Cruz-M13-inferior-1" d="M 752.3555 23 H 755.5555 M 753.9555 21.4 V 24.6">
         <title>Centro para broca de Ø3.2 mm</title>
       </path>

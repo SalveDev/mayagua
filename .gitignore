@@ -1,1 +1,3 @@
 *.DS_Store
+.pio/
+code/pico/.vscode/
